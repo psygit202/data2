@@ -106,6 +106,8 @@ data2/
 - 👤 Spend by age band & gender (heatmap bar)
 
 ![Revenue Trend](assets/revenue_trend.png)
+<br>
+![Payment Methods](assets/payment_methods.png)
 
 ### Phase 4 · RFM Analysis & K-Means Clustering *(Mohamed)*
 **RFM Scoring:**
@@ -119,6 +121,8 @@ data2/
 - Optimal k via Elbow Method + Silhouette Score (k=2–9 tested)
 - Interactive 3-D scatter plot (Plotly)
 - Business labels assigned by Monetary rank: **Champions → Loyal Customers → At-Risk → Lost → New → Potential Loyalists**
+
+![Segment Sizes](assets/segment_sizes.png)
 
 ### Phase 5 · KPI Development *(Mohamed)*
 
