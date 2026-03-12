@@ -1,0 +1,2001 @@
+Transaction ID,Customer ID,Date,Product Category,Quantity,Price Per Unit,Payment Method,Store Location,Discount Applied,Age,Gender,Total Amount
+T101902,C1153,2025-01-01 11:00:00,Electronics,4,76.63,Credit Card,Strasbourg,No,43,Female,306.52
+T101091,C1097,2025-01-01 14:00:00,Electronics,5,421.51,Debit Card,Montpellier,No,19,Male,2107.55
+T100267,C1267,2025-01-01 21:00:00,Home Decor,9,23.99,Cash,Toulouse,Yes,31,Male,215.91
+T100181,C1282,2025-01-02 00:00:00,Home Decor,3,166.08,Cash,Nice,No,73,Other,498.24
+T101992,C1422,2025-01-02 00:00:00,Groceries,8,370.7,Digital Wallet,Toulouse,No,30,Female,2965.6
+T100966,C1144,2025-01-02 05:00:00,Clothing,8,408.94,Cash,Paris,No,24,Other,3271.52
+T100369,C1232,2025-01-02 16:00:00,Groceries,6,374.43,Cash,Toulouse,Yes,68,Female,2246.58
+T101885,C1068,2025-01-02 21:00:00,Beauty,6,308.02,Cash,Paris,No,24,Other,1848.12
+T100749,C1176,2025-01-02 21:00:00,Electronics,4,33.28,Digital Wallet,Nantes,No,58,Female,133.12
+T100246,C1136,2025-01-02 22:00:00,Groceries,7,270.52,Digital Wallet,Montpellier,Yes,23,Male,1893.64
+T100629,C1246,2025-01-03 00:00:00,Beauty,5,438.9,Cash,Nice,No,50,Other,2194.5
+T100204,C1028,2025-01-03 08:00:00,Groceries,3,91.98,Cash,Lyon,No,68,Female,275.94
+T100024,C1491,2025-01-03 12:00:00,Home Decor,5,473.98,Debit Card,Nantes,Yes,58,Female,2369.9
+T101545,C1495,2025-01-03 13:00:00,Clothing,4,55.01,Cash,Marseille,No,38,Female,220.04
+T100443,C1366,2025-01-03 15:00:00,Groceries,4,104.08,Debit Card,Nice,No,70,Male,416.32
+T101366,C1167,2025-01-03 18:00:00,Clothing,8,199.62,Debit Card,Toulouse,No,44,Male,1596.96
+T100658,C1253,2025-01-03 23:00:00,Electronics,9,9.55,Digital Wallet,Toulouse,No,37,Female,85.95
+T101353,C1332,2025-01-04 02:00:00,Home Decor,6,298.88,Debit Card,Lyon,No,37,Other,1793.28
+T100657,C1288,2025-01-04 13:00:00,Clothing,2,103.07,Credit Card,Lyon,Yes,73,Male,206.14
+T100835,C1229,2025-01-04 14:00:00,Clothing,5,486.66,Digital Wallet,Lyon,Yes,25,Female,2433.3
+T101815,C1292,2025-01-04 17:00:00,Groceries,3,331.18,Cash,Paris,No,37,Male,993.54
+T100007,C1020,2025-01-04 21:00:00,Electronics,2,89.53,Cash,Strasbourg,No,60,Other,179.06
+T100424,C1370,2025-01-05 11:00:00,Beauty,4,451.08,Digital Wallet,Lyon,No,26,Female,1804.32
+T100300,C1183,2025-01-05 14:00:00,Groceries,8,280.63,Debit Card,Toulouse,No,65,Other,2245.04
+T101051,C1347,2025-01-05 16:00:00,Clothing,4,430.63,Debit Card,Strasbourg,No,38,Male,1722.52
+T100499,C1150,2025-01-05 18:00:00,Beauty,3,180.87,Debit Card,Lyon,No,63,Female,542.61
+T100447,C1316,2025-01-05 19:00:00,Home Decor,3,77.99,Debit Card,Strasbourg,No,45,Male,233.97
+T101261,C1033,2025-01-05 19:00:00,Beauty,8,130.07,Debit Card,Montpellier,Yes,71,Male,1040.56
+T101455,C1390,2025-01-06 04:00:00,Groceries,2,440.81,Digital Wallet,Marseille,No,47,Female,881.62
+T101272,C1179,2025-01-06 07:00:00,Home Decor,6,47.17,Digital Wallet,Lyon,Yes,70,Female,283.02
+T101570,C1345,2025-01-06 18:00:00,Groceries,5,474.13,Cash,Nice,No,46,Male,2370.65
+T101929,C1043,2025-01-06 18:00:00,Groceries,1,137.94,Debit Card,Strasbourg,No,32,Other,137.94
+T100989,C1241,2025-01-07 03:00:00,Groceries,9,107.6,Credit Card,Nantes,No,67,Other,968.4
+T100723,C1092,2025-01-07 05:00:00,Groceries,5,432.43,Cash,Toulouse,Yes,50,Other,2162.15
+T100122,C1187,2025-01-07 10:00:00,Electronics,4,111.21,Debit Card,Marseille,No,27,Male,444.84
+T101780,C1341,2025-01-07 15:00:00,Home Decor,1,10.64,Cash,Marseille,No,50,Male,10.64
+T101489,C1396,2025-01-07 16:00:00,Home Decor,5,10.97,Cash,Marseille,No,54,Other,54.85
+T101612,C1250,2025-01-07 16:00:00,Electronics,3,295.16,Digital Wallet,Toulouse,No,36,Female,885.48
+T100517,C1025,2025-01-07 21:00:00,Clothing,1,465.76,Debit Card,Montpellier,No,24,Female,465.76
+T101294,C1317,2025-01-08 03:00:00,Electronics,7,89.22,Cash,Paris,No,23,Other,624.54
+T100791,C1205,2025-01-08 04:00:00,Groceries,6,140.21,Debit Card,Montpellier,Yes,37,Male,841.26
+T101674,C1112,2025-01-08 07:00:00,Groceries,2,189.92,Debit Card,Toulouse,No,35,Female,379.84
+T100558,C1325,2025-01-08 12:00:00,Beauty,2,198.81,Credit Card,Marseille,No,38,Male,397.62
+T100888,C1382,2025-01-08 12:00:00,Home Decor,1,295.0,Digital Wallet,Lyon,Yes,54,Male,295.0
+T100944,C1357,2025-01-08 13:00:00,Beauty,9,163.86,Digital Wallet,Marseille,Yes,63,Female,1474.74
+T100149,C1230,2025-01-08 14:00:00,Groceries,5,274.51,Debit Card,Nantes,No,37,Female,1372.55
+T100297,C1323,2025-01-08 17:00:00,Electronics,8,417.28,Digital Wallet,Nantes,No,65,Male,3338.24
+T100777,C1341,2025-01-08 23:00:00,Beauty,1,109.45,Cash,Lyon,Yes,33,Female,109.45
+T100194,C1051,2025-01-09 05:00:00,Beauty,2,344.58,Digital Wallet,Montpellier,No,60,Female,689.16
+T100160,C1061,2025-01-09 05:00:00,Groceries,2,242.67,Cash,Nice,Yes,39,Other,485.34
+T100064,C1088,2025-01-09 14:00:00,Clothing,1,245.01,Cash,Marseille,No,34,Other,245.01
+T100259,C1471,2025-01-10 02:00:00,Groceries,8,187.31,Debit Card,Marseille,No,30,Other,1498.48
+T101128,C1042,2025-01-10 03:00:00,Beauty,9,402.52,Debit Card,Lyon,No,34,Male,3622.68
+T100547,C1185,2025-01-10 17:00:00,Groceries,7,345.62,Credit Card,Marseille,No,44,Female,2419.34
+T100633,C1143,2025-01-10 20:00:00,Electronics,3,347.47,Credit Card,Strasbourg,No,44,Male,1042.41
+T101796,C1013,2025-01-11 01:00:00,Clothing,7,457.22,Credit Card,Nantes,No,63,Other,3200.54
+T100590,C1144,2025-01-11 09:00:00,Home Decor,7,364.93,Credit Card,Marseille,No,42,Other,2554.51
+T101277,C1439,2025-01-11 11:00:00,Clothing,9,127.73,Cash,Paris,No,65,Other,1149.57
+T101819,C1127,2025-01-11 13:00:00,Groceries,9,156.26,Credit Card,Toulouse,No,34,Female,1406.34
+T101167,C1000,2025-01-11 16:00:00,Clothing,2,221.33,Debit Card,Marseille,No,58,Female,442.66
+T100284,C1223,2025-01-12 09:00:00,Clothing,4,301.64,Debit Card,Montpellier,No,49,Female,1206.56
+T100796,C1366,2025-01-12 10:00:00,Beauty,5,361.53,Credit Card,Nantes,No,36,Female,1807.65
+T100208,C1326,2025-01-12 12:00:00,Groceries,8,130.8,Credit Card,Strasbourg,Yes,74,Other,1046.4
+T100491,C1322,2025-01-12 12:00:00,Electronics,8,340.67,Credit Card,Nantes,No,70,Other,2725.36
+T100468,C1496,2025-01-12 14:00:00,Beauty,8,442.0,Cash,Marseille,Yes,64,Female,3536.0
+T100441,C1096,2025-01-12 16:00:00,Clothing,2,346.13,Credit Card,Nantes,Yes,59,Female,692.26
+T100639,C1461,2025-01-12 16:00:00,Beauty,5,235.02,Cash,Nice,No,45,Other,1175.1
+T100144,C1418,2025-01-12 17:00:00,Beauty,6,354.79,Debit Card,Toulouse,Yes,30,Male,2128.74
+T100115,C1337,2025-01-12 21:00:00,Beauty,1,474.71,Digital Wallet,Montpellier,No,48,Other,474.71
+T100207,C1159,2025-01-12 22:00:00,Clothing,6,226.11,Cash,Strasbourg,No,72,Male,1356.66
+T101137,C1094,2025-01-12 22:00:00,Electronics,6,279.47,Credit Card,Strasbourg,No,49,Female,1676.82
+T101871,C1010,2025-01-13 12:00:00,Electronics,3,371.69,Digital Wallet,Strasbourg,No,46,Male,1115.07
+T101075,C1302,2025-01-13 14:00:00,Home Decor,8,18.09,Debit Card,Paris,No,65,Other,144.72
+T101417,C1077,2025-01-13 15:00:00,Clothing,8,94.1,Debit Card,Paris,No,43,Other,752.8
+T101888,C1249,2025-01-13 17:00:00,Electronics,7,246.5,Credit Card,Nantes,Yes,65,Other,1725.5
+T101179,C1072,2025-01-13 17:00:00,Beauty,2,427.01,Credit Card,Paris,No,46,Other,854.02
+T101112,C1387,2025-01-13 23:00:00,Home Decor,2,434.14,Credit Card,Montpellier,No,33,Female,868.28
+T100640,C1219,2025-01-14 01:00:00,Electronics,3,411.26,Credit Card,Montpellier,No,45,Male,1233.78
+T100518,C1354,2025-01-14 06:00:00,Groceries,7,7.65,Debit Card,Strasbourg,No,63,Other,53.55
+T100475,C1115,2025-01-14 08:00:00,Groceries,7,31.45,Digital Wallet,Marseille,Yes,51,Female,220.15
+T100206,C1012,2025-01-14 10:00:00,Home Decor,5,214.97,Debit Card,Toulouse,Yes,26,Male,1074.85
+T100245,C1410,2025-01-14 13:00:00,Groceries,7,62.56,Digital Wallet,Paris,No,59,Male,437.92
+T101131,C1370,2025-01-14 17:00:00,Home Decor,6,233.92,Debit Card,Montpellier,Yes,18,Other,1403.52
+T101447,C1103,2025-01-14 22:00:00,Home Decor,1,209.32,Credit Card,Paris,Yes,26,Male,209.32
+T100250,C1306,2025-01-14 23:00:00,Beauty,6,436.31,Debit Card,Nice,No,26,Other,2617.86
+T100141,C1080,2025-01-15 01:00:00,Electronics,7,137.55,Debit Card,Toulouse,No,46,Female,962.85
+T100006,C1188,2025-01-15 23:00:00,Electronics,2,230.88,Cash,Strasbourg,Yes,47,Other,461.76
+T100798,C1372,2025-01-16 00:00:00,Beauty,3,52.4,Cash,Nice,Yes,66,Other,157.2
+T101107,C1105,2025-01-16 01:00:00,Beauty,1,138.98,Credit Card,Marseille,No,47,Other,138.98
+T101182,C1046,2025-01-16 08:00:00,Clothing,3,487.89,Cash,Paris,No,73,Male,1463.67
+T100009,C1121,2025-01-16 12:00:00,Clothing,4,257.01,Digital Wallet,Nice,Yes,31,Other,1028.04
+T101226,C1492,2025-01-16 15:00:00,Electronics,7,103.55,Digital Wallet,Nice,No,43,Male,724.85
+T100876,C1125,2025-01-16 16:00:00,Home Decor,6,160.32,Cash,Montpellier,No,45,Female,961.92
+T101376,C1398,2025-01-16 23:00:00,Beauty,4,138.64,Cash,Nantes,No,58,Other,554.56
+T101454,C1066,2025-01-17 01:00:00,Beauty,8,82.1,Credit Card,Strasbourg,No,43,Male,656.8
+T100745,C1456,2025-01-17 01:00:00,Groceries,3,143.04,Digital Wallet,Toulouse,No,38,Other,429.12
+T101208,C1027,2025-01-17 11:00:00,Clothing,2,178.38,Debit Card,Nantes,Yes,61,Other,356.76
+T101319,C1093,2025-01-17 17:00:00,Clothing,4,216.07,Cash,Lyon,No,30,Female,864.28
+T100928,C1142,2025-01-17 23:00:00,Home Decor,6,485.6,Debit Card,Paris,Yes,62,Male,2913.6
+T100239,C1460,2025-01-18 07:00:00,Beauty,6,324.15,Digital Wallet,Nantes,No,46,Male,1944.9
+T101833,C1116,2025-01-18 18:00:00,Groceries,1,423.83,Cash,Nice,No,73,Male,423.83
+T100603,C1126,2025-01-18 20:00:00,Groceries,3,428.01,Digital Wallet,Nice,Yes,56,Other,1284.03
+T101585,C1456,2025-01-18 21:00:00,Electronics,4,335.75,Credit Card,Marseille,No,63,Male,1343.0
+T101599,C1074,2025-01-19 02:00:00,Home Decor,6,496.05,Digital Wallet,Strasbourg,Yes,21,Other,2976.3
+T100413,C1403,2025-01-19 03:00:00,Beauty,1,373.49,Cash,Strasbourg,Yes,38,Male,373.49
+T100325,C1419,2025-01-19 05:00:00,Groceries,1,133.43,Cash,Toulouse,No,61,Other,133.43
+T100938,C1458,2025-01-19 11:00:00,Clothing,7,324.2,Cash,Toulouse,No,63,Male,2269.4
+T101441,C1144,2025-01-19 21:00:00,Home Decor,6,227.33,Digital Wallet,Toulouse,No,59,Female,1363.98
+T101284,C1436,2025-01-19 22:00:00,Home Decor,1,119.63,Credit Card,Strasbourg,Yes,27,Male,119.63
+T100621,C1271,2025-01-19 22:00:00,Home Decor,8,429.08,Credit Card,Paris,Yes,63,Female,3432.64
+T101765,C1470,2025-01-20 05:00:00,Electronics,4,38.04,Credit Card,Marseille,Yes,66,Female,152.16
+T100647,C1499,2025-01-20 09:00:00,Clothing,2,350.51,Cash,Marseille,No,39,Other,701.02
+T100641,C1068,2025-01-20 10:00:00,Home Decor,7,309.2,Cash,Nantes,Yes,73,Male,2164.4
+T100655,C1038,2025-01-20 16:00:00,Groceries,6,102.36,Debit Card,Montpellier,No,35,Female,614.16
+T100493,C1173,2025-01-20 17:00:00,Beauty,3,346.32,Debit Card,Toulouse,No,45,Other,1038.96
+T100228,C1347,2025-01-20 23:00:00,Beauty,5,100.76,Digital Wallet,Strasbourg,No,39,Male,503.8
+T100721,C1089,2025-01-21 03:00:00,Electronics,1,134.03,Digital Wallet,Paris,No,34,Other,134.03
+T101195,C1256,2025-01-21 10:00:00,Electronics,8,478.63,Debit Card,Montpellier,Yes,71,Female,3829.04
+T101028,C1022,2025-01-21 11:00:00,Beauty,9,399.49,Debit Card,Strasbourg,Yes,49,Other,3595.41
+T100800,C1098,2025-01-21 12:00:00,Home Decor,4,286.39,Credit Card,Strasbourg,No,41,Other,1145.56
+T100240,C1232,2025-01-21 14:00:00,Clothing,4,173.13,Digital Wallet,Lyon,No,30,Male,692.52
+T101169,C1232,2025-01-21 19:00:00,Groceries,1,373.05,Credit Card,Lyon,Yes,37,Other,373.05
+T100353,C1251,2025-01-21 22:00:00,Electronics,4,256.41,Digital Wallet,Marseille,No,32,Other,1025.64
+T101634,C1083,2025-01-22 05:00:00,Home Decor,9,460.5,Debit Card,Strasbourg,Yes,65,Female,4144.5
+T101465,C1499,2025-01-22 10:00:00,Groceries,1,406.31,Credit Card,Nantes,Yes,43,Female,406.31
+T101424,C1088,2025-01-22 18:00:00,Beauty,5,145.31,Cash,Lyon,No,44,Female,726.55
+T101377,C1407,2025-01-22 20:00:00,Clothing,6,385.37,Digital Wallet,Marseille,No,68,Other,2312.22
+T101078,C1228,2025-01-22 21:00:00,Home Decor,2,437.41,Credit Card,Montpellier,Yes,29,Female,874.82
+T101098,C1481,2025-01-23 08:00:00,Groceries,3,355.79,Debit Card,Nice,No,71,Other,1067.37
+T101210,C1077,2025-01-24 10:00:00,Electronics,7,71.09,Digital Wallet,Lyon,Yes,45,Female,497.63
+T101166,C1325,2025-01-24 11:00:00,Clothing,2,82.38,Digital Wallet,Toulouse,Yes,72,Male,164.76
+T100648,C1452,2025-01-24 21:00:00,Groceries,7,396.18,Credit Card,Nice,No,70,Other,2773.26
+T101352,C1355,2025-01-24 23:00:00,Clothing,2,38.21,Credit Card,Marseille,No,50,Male,76.42
+T101951,C1463,2025-01-25 01:00:00,Beauty,2,67.44,Cash,Nantes,Yes,66,Female,134.88
+T100480,C1470,2025-01-25 01:00:00,Home Decor,8,51.36,Debit Card,Montpellier,No,51,Female,410.88
+T100804,C1378,2025-01-25 02:00:00,Beauty,5,348.29,Cash,Nice,No,54,Male,1741.45
+T100487,C1489,2025-01-25 12:00:00,Clothing,9,441.15,Cash,Nantes,No,56,Other,3970.35
+T101486,C1352,2025-01-25 12:00:00,Home Decor,7,216.87,Cash,Marseille,No,63,Male,1518.09
+T100209,C1186,2025-01-25 12:00:00,Groceries,5,413.44,Digital Wallet,Nice,Yes,62,Male,2067.2
+T100489,C1053,2025-01-25 14:00:00,Home Decor,3,298.53,Cash,Strasbourg,No,41,Male,895.59
+T101372,C1328,2025-01-25 15:00:00,Home Decor,6,340.42,Credit Card,Nice,Yes,39,Female,2042.52
+T101619,C1197,2025-01-25 21:00:00,Home Decor,9,40.81,Cash,Strasbourg,No,41,Male,367.29
+T100126,C1156,2025-01-26 01:00:00,Beauty,5,111.55,Credit Card,Paris,No,47,Male,557.75
+T100384,C1455,2025-01-26 08:00:00,Home Decor,3,263.32,Digital Wallet,Paris,No,22,Male,789.96
+T101248,C1012,2025-01-26 09:00:00,Beauty,4,348.94,Debit Card,Paris,Yes,46,Other,1395.76
+T101771,C1421,2025-01-26 10:00:00,Clothing,4,279.39,Debit Card,Paris,No,53,Other,1117.56
+T100894,C1347,2025-01-26 19:00:00,Electronics,5,223.17,Debit Card,Marseille,No,45,Male,1115.85
+T100134,C1128,2025-01-27 02:00:00,Electronics,2,328.85,Credit Card,Lyon,No,20,Female,657.7
+T100150,C1040,2025-01-27 13:00:00,Clothing,7,88.38,Cash,Toulouse,No,31,Male,618.66
+T100364,C1139,2025-01-27 14:00:00,Beauty,2,411.22,Debit Card,Nantes,Yes,64,Male,822.44
+T100425,C1469,2025-01-27 20:00:00,Home Decor,7,376.58,Cash,Toulouse,No,62,Male,2636.06
+T101117,C1272,2025-01-27 21:00:00,Home Decor,8,349.63,Digital Wallet,Montpellier,No,19,Female,2797.04
+T101931,C1304,2025-01-28 01:00:00,Electronics,4,278.35,Credit Card,Lyon,No,30,Female,1113.4
+T101191,C1060,2025-01-28 05:00:00,Electronics,2,353.53,Credit Card,Nantes,No,57,Male,707.06
+T101174,C1432,2025-01-28 08:00:00,Electronics,6,289.87,Credit Card,Nice,No,53,Male,1739.22
+T100742,C1163,2025-01-28 10:00:00,Clothing,1,314.35,Cash,Nantes,No,37,Female,314.35
+T100568,C1491,2025-01-28 18:00:00,Clothing,7,128.23,Debit Card,Lyon,Yes,43,Male,897.61
+T100546,C1152,2025-01-29 00:00:00,Electronics,3,83.35,Digital Wallet,Toulouse,No,51,Female,250.05
+T101664,C1423,2025-01-29 06:00:00,Home Decor,4,326.29,Digital Wallet,Nantes,No,33,Other,1305.16
+T101775,C1225,2025-01-29 07:00:00,Clothing,3,169.75,Debit Card,Toulouse,No,52,Male,509.25
+T100017,C1359,2025-01-29 16:00:00,Clothing,6,126.13,Debit Card,Strasbourg,No,65,Other,756.78
+T101450,C1038,2025-01-29 23:00:00,Clothing,3,188.87,Digital Wallet,Marseille,Yes,28,Male,566.61
+T101134,C1150,2025-01-30 03:00:00,Clothing,2,234.0,Digital Wallet,Nantes,No,65,Male,468.0
+T101371,C1100,2025-01-30 04:00:00,Electronics,6,39.58,Debit Card,Lyon,No,52,Male,237.48
+T100622,C1188,2025-01-30 06:00:00,Home Decor,4,472.33,Digital Wallet,Paris,No,20,Other,1889.32
+T101630,C1468,2025-01-30 07:00:00,Home Decor,3,472.06,Cash,Strasbourg,No,19,Male,1416.18
+T101994,C1401,2025-01-30 10:00:00,Beauty,2,340.88,Digital Wallet,Nice,No,63,Male,681.76
+T100444,C1447,2025-01-30 12:00:00,Beauty,9,163.2,Digital Wallet,Toulouse,Yes,61,Other,1468.8
+T100492,C1359,2025-01-31 13:00:00,Groceries,9,210.14,Debit Card,Lyon,No,42,Male,1891.26
+T101125,C1204,2025-01-31 16:00:00,Electronics,1,234.97,Debit Card,Nice,Yes,50,Male,234.97
+T100093,C1476,2025-01-31 22:00:00,Clothing,3,246.3,Debit Card,Nice,Yes,64,Female,738.9
+T101818,C1145,2025-01-31 22:00:00,Home Decor,4,245.07,Digital Wallet,Nice,No,73,Other,980.28
+T101408,C1269,2025-02-01 03:00:00,Electronics,2,496.62,Debit Card,Nice,Yes,55,Other,993.24
+T100759,C1189,2025-02-01 06:00:00,Clothing,1,236.89,Credit Card,Toulouse,Yes,41,Other,236.89
+T100795,C1338,2025-02-01 08:00:00,Electronics,2,56.72,Debit Card,Paris,No,33,Other,113.44
+T101127,C1234,2025-02-01 09:00:00,Electronics,7,311.63,Credit Card,Nantes,No,58,Other,2181.41
+T100169,C1448,2025-02-01 10:00:00,Electronics,8,304.07,Digital Wallet,Nantes,No,58,Male,2432.56
+T101563,C1213,2025-02-01 22:00:00,Clothing,1,67.95,Digital Wallet,Montpellier,No,64,Female,67.95
+T100123,C1379,2025-02-02 05:00:00,Electronics,9,370.38,Digital Wallet,Toulouse,Yes,29,Male,3333.42
+T100819,C1121,2025-02-03 08:00:00,Electronics,2,208.2,Digital Wallet,Nice,No,60,Male,416.4
+T100535,C1370,2025-02-03 19:00:00,Groceries,9,43.96,Debit Card,Nantes,Yes,19,Other,395.64
+T100878,C1172,2025-02-04 10:00:00,Electronics,8,110.83,Debit Card,Montpellier,Yes,64,Female,886.64
+T100692,C1177,2025-02-04 13:00:00,Home Decor,2,354.5,Digital Wallet,Strasbourg,Yes,65,Other,709.0
+T100221,C1107,2025-02-04 21:00:00,Groceries,9,187.02,Debit Card,Montpellier,No,52,Female,1683.18
+T101011,C1416,2025-02-04 22:00:00,Groceries,6,255.74,Cash,Lyon,No,29,Other,1534.44
+T101084,C1102,2025-02-04 23:00:00,Groceries,7,41.88,Cash,Toulouse,Yes,65,Male,293.16
+T101813,C1097,2025-02-05 04:00:00,Beauty,8,407.4,Credit Card,Marseille,No,20,Male,3259.2
+T100417,C1194,2025-02-05 07:00:00,Beauty,2,285.1,Credit Card,Paris,Yes,50,Female,570.2
+T101565,C1406,2025-02-05 13:00:00,Home Decor,7,89.23,Digital Wallet,Strasbourg,No,47,Male,624.61
+T100377,C1053,2025-02-05 19:00:00,Clothing,4,200.2,Credit Card,Nice,Yes,18,Male,800.8
+T101092,C1337,2025-02-06 12:00:00,Beauty,9,310.76,Credit Card,Nantes,No,33,Male,2796.84
+T101535,C1209,2025-02-06 14:00:00,Home Decor,6,297.42,Digital Wallet,Marseille,No,58,Female,1784.52
+T100071,C1385,2025-02-06 15:00:00,Groceries,2,438.13,Debit Card,Strasbourg,No,26,Female,876.26
+T100218,C1133,2025-02-06 23:00:00,Home Decor,6,198.24,Credit Card,Paris,No,43,Other,1189.44
+T100068,C1264,2025-02-07 07:00:00,Home Decor,3,322.58,Debit Card,Paris,No,29,Male,967.74
+T100573,C1261,2025-02-07 14:00:00,Beauty,7,402.64,Debit Card,Marseille,No,68,Female,2818.48
+T101843,C1097,2025-02-07 18:00:00,Electronics,6,287.8,Cash,Nice,No,26,Male,1726.8
+T101519,C1253,2025-02-07 18:00:00,Beauty,9,197.32,Debit Card,Marseille,No,38,Other,1775.88
+T100454,C1016,2025-02-07 19:00:00,Beauty,2,241.11,Digital Wallet,Nice,No,56,Male,482.22
+T101932,C1444,2025-02-07 22:00:00,Groceries,2,332.18,Cash,Strasbourg,No,24,Female,664.36
+T100963,C1191,2025-02-08 02:00:00,Beauty,2,344.34,Cash,Lyon,No,54,Male,688.68
+T100841,C1392,2025-02-08 08:00:00,Home Decor,3,54.87,Debit Card,Strasbourg,Yes,20,Male,164.61
+T100932,C1053,2025-02-08 12:00:00,Clothing,3,201.14,Digital Wallet,Montpellier,No,38,Other,603.42
+T100016,C1099,2025-02-08 13:00:00,Electronics,2,473.31,Credit Card,Montpellier,Yes,58,Other,946.62
+T100129,C1064,2025-02-08 14:00:00,Beauty,1,261.65,Cash,Toulouse,No,49,Male,261.65
+T101296,C1094,2025-02-08 16:00:00,Groceries,5,215.12,Credit Card,Nice,No,40,Other,1075.6
+T100601,C1317,2025-02-08 16:00:00,Clothing,3,57.96,Cash,Paris,Yes,38,Male,173.88
+T101811,C1028,2025-02-08 16:00:00,Groceries,4,41.75,Cash,Montpellier,No,55,Other,167.0
+T101572,C1419,2025-02-08 21:00:00,Groceries,7,486.98,Credit Card,Nice,Yes,21,Other,3408.86
+T100065,C1315,2025-02-09 04:00:00,Electronics,4,180.72,Debit Card,Nice,Yes,46,Female,722.88
+T100074,C1366,2025-02-09 12:00:00,Groceries,2,380.4,Credit Card,Nice,No,63,Female,760.8
+T101983,C1327,2025-02-09 17:00:00,Beauty,6,5.03,Debit Card,Strasbourg,No,40,Male,30.18
+T101838,C1312,2025-02-09 19:00:00,Electronics,9,488.15,Debit Card,Toulouse,No,44,Female,4393.35
+T100956,C1315,2025-02-10 06:00:00,Electronics,1,481.58,Credit Card,Strasbourg,No,47,Male,481.58
+T101328,C1025,2025-02-10 08:00:00,Home Decor,3,280.74,Credit Card,Nantes,Yes,67,Female,842.22
+T101345,C1089,2025-02-10 15:00:00,Clothing,1,52.37,Debit Card,Nice,No,58,Male,52.37
+T100174,C1130,2025-02-10 16:00:00,Clothing,5,296.46,Cash,Nantes,Yes,73,Female,1482.3
+T101468,C1410,2025-02-10 21:00:00,Home Decor,5,251.34,Digital Wallet,Lyon,No,63,Other,1256.7
+T100248,C1164,2025-02-10 21:00:00,Electronics,8,137.6,Cash,Strasbourg,Yes,51,Female,1100.8
+T101024,C1132,2025-02-11 01:00:00,Home Decor,5,296.72,Credit Card,Nantes,No,67,Other,1483.6
+T100415,C1391,2025-02-11 06:00:00,Electronics,3,221.83,Debit Card,Nice,Yes,39,Other,665.49
+T100540,C1321,2025-02-11 12:00:00,Beauty,6,234.38,Cash,Marseille,No,21,Other,1406.28
+T100770,C1285,2025-02-11 19:00:00,Clothing,9,260.54,Debit Card,Strasbourg,Yes,38,Other,2344.86
+T100539,C1353,2025-02-11 20:00:00,Groceries,6,154.11,Debit Card,Nantes,No,57,Other,924.66
+T100409,C1288,2025-02-11 21:00:00,Home Decor,4,201.61,Digital Wallet,Montpellier,No,42,Male,806.44
+T100560,C1053,2025-02-12 00:00:00,Groceries,2,331.41,Digital Wallet,Nantes,No,47,Male,662.82
+T101505,C1172,2025-02-12 08:00:00,Beauty,8,363.17,Cash,Nice,No,54,Male,2905.36
+T100920,C1146,2025-02-12 19:00:00,Home Decor,7,145.23,Cash,Nice,No,35,Other,1016.61
+T101227,C1273,2025-02-12 20:00:00,Beauty,1,295.91,Cash,Nice,Yes,46,Other,295.91
+T100769,C1360,2025-02-13 00:00:00,Clothing,2,453.4,Debit Card,Strasbourg,No,71,Other,906.8
+T101300,C1246,2025-02-13 08:00:00,Groceries,9,80.92,Digital Wallet,Montpellier,No,19,Male,728.28
+T101200,C1179,2025-02-13 14:00:00,Groceries,3,229.97,Debit Card,Strasbourg,No,69,Other,689.91
+T101962,C1364,2025-02-13 14:00:00,Clothing,3,427.7,Debit Card,Montpellier,No,64,Male,1283.1
+T100936,C1470,2025-02-14 00:00:00,Clothing,7,64.53,Credit Card,Nice,No,54,Female,451.71
+T101781,C1363,2025-02-14 14:00:00,Beauty,5,349.77,Debit Card,Strasbourg,No,63,Male,1748.85
+T101581,C1423,2025-02-14 16:00:00,Clothing,2,238.52,Credit Card,Strasbourg,No,56,Male,477.04
+T101105,C1029,2025-02-14 18:00:00,Clothing,1,256.73,Cash,Nice,No,64,Male,256.73
+T100092,C1309,2025-02-14 18:00:00,Clothing,6,83.47,Debit Card,Lyon,No,60,Male,500.82
+T101233,C1472,2025-02-14 21:00:00,Clothing,4,15.96,Credit Card,Toulouse,No,51,Female,63.84
+T101642,C1188,2025-02-14 21:00:00,Beauty,4,466.89,Digital Wallet,Lyon,No,57,Other,1867.56
+T101267,C1082,2025-02-15 04:00:00,Groceries,6,144.56,Credit Card,Nantes,No,58,Male,867.36
+T100847,C1028,2025-02-15 05:00:00,Home Decor,5,91.96,Credit Card,Nantes,No,63,Female,459.8
+T101494,C1215,2025-02-15 09:00:00,Home Decor,2,238.23,Cash,Toulouse,No,42,Male,476.46
+T101053,C1071,2025-02-15 11:00:00,Home Decor,3,490.61,Digital Wallet,Montpellier,No,27,Male,1471.83
+T101202,C1302,2025-02-15 12:00:00,Beauty,2,6.84,Cash,Lyon,Yes,28,Female,13.68
+T100156,C1417,2025-02-15 14:00:00,Clothing,5,353.72,Debit Card,Paris,No,41,Female,1768.6
+T100101,C1483,2025-02-15 16:00:00,Home Decor,2,457.3,Cash,Paris,Yes,55,Male,914.6
+T101511,C1419,2025-02-16 00:00:00,Home Decor,9,423.39,Digital Wallet,Lyon,Yes,62,Other,3810.51
+T101443,C1494,2025-02-16 06:00:00,Groceries,1,50.11,Debit Card,Lyon,Yes,55,Male,50.11
+T101048,C1487,2025-02-16 11:00:00,Clothing,1,10.28,Cash,Strasbourg,No,54,Other,10.28
+T100381,C1115,2025-02-16 12:00:00,Groceries,3,339.19,Digital Wallet,Lyon,No,19,Other,1017.57
+T100781,C1176,2025-02-16 14:00:00,Clothing,6,392.09,Digital Wallet,Nice,No,46,Male,2352.54
+T100679,C1015,2025-02-16 14:00:00,Beauty,6,444.47,Cash,Paris,Yes,64,Female,2666.82
+T100892,C1386,2025-02-16 14:00:00,Beauty,7,46.1,Digital Wallet,Lyon,Yes,60,Female,322.7
+T101374,C1264,2025-02-16 21:00:00,Groceries,3,175.53,Cash,Nantes,No,21,Female,526.59
+T100048,C1174,2025-02-16 22:00:00,Beauty,6,136.32,Debit Card,Nice,No,35,Other,817.92
+T101632,C1454,2025-02-17 01:00:00,Home Decor,1,254.02,Cash,Lyon,No,60,Female,254.02
+T101069,C1221,2025-02-17 08:00:00,Clothing,9,296.52,Digital Wallet,Paris,No,67,Other,2668.68
+T101606,C1346,2025-02-17 16:00:00,Electronics,8,105.52,Credit Card,Marseille,Yes,40,Other,844.16
+T101845,C1236,2025-02-17 17:00:00,Clothing,1,260.78,Cash,Paris,No,59,Female,260.78
+T101736,C1468,2025-02-17 18:00:00,Electronics,7,233.87,Cash,Marseille,Yes,43,Female,1637.09
+T101483,C1004,2025-02-17 20:00:00,Home Decor,1,48.04,Debit Card,Marseille,Yes,55,Other,48.04
+T100985,C1449,2025-02-17 21:00:00,Beauty,1,185.58,Debit Card,Montpellier,No,60,Female,185.58
+T100423,C1442,2025-02-18 01:00:00,Groceries,6,223.02,Credit Card,Nice,No,47,Other,1338.12
+T100578,C1046,2025-02-18 03:00:00,Home Decor,9,440.21,Cash,Nice,No,62,Other,3961.89
+T100469,C1301,2025-02-18 09:00:00,Beauty,5,266.27,Cash,Toulouse,No,31,Female,1331.35
+T100918,C1163,2025-02-18 13:00:00,Groceries,8,63.38,Credit Card,Lyon,No,25,Male,507.04
+T101142,C1387,2025-02-18 14:00:00,Beauty,9,406.53,Digital Wallet,Nantes,Yes,29,Male,3658.77
+T100694,C1379,2025-02-18 20:00:00,Beauty,7,132.56,Digital Wallet,Toulouse,No,44,Female,927.92
+T100686,C1383,2025-02-19 02:00:00,Clothing,6,79.5,Cash,Strasbourg,No,19,Other,477.0
+T101800,C1236,2025-02-19 05:00:00,Home Decor,3,316.87,Cash,Nantes,Yes,72,Female,950.61
+T100229,C1472,2025-02-19 16:00:00,Groceries,8,109.13,Credit Card,Paris,No,25,Other,873.04
+T100151,C1027,2025-02-19 19:00:00,Home Decor,5,381.43,Debit Card,Montpellier,Yes,62,Female,1907.15
+T100880,C1241,2025-02-19 20:00:00,Electronics,8,343.12,Cash,Toulouse,Yes,31,Female,2744.96
+T101006,C1341,2025-02-20 17:00:00,Home Decor,7,91.14,Credit Card,Lyon,No,22,Male,637.98
+T101741,C1465,2025-02-20 20:00:00,Beauty,8,432.65,Digital Wallet,Strasbourg,No,47,Male,3461.2
+T100039,C1474,2025-02-21 03:00:00,Groceries,1,268.31,Debit Card,Montpellier,No,45,Other,268.31
+T100363,C1253,2025-02-21 13:00:00,Groceries,6,32.3,Digital Wallet,Montpellier,No,51,Female,193.8
+T101802,C1358,2025-02-21 14:00:00,Electronics,1,154.07,Cash,Strasbourg,No,60,Male,154.07
+T101119,C1471,2025-02-22 06:00:00,Beauty,6,223.41,Digital Wallet,Paris,No,52,Other,1340.46
+T101201,C1206,2025-02-22 09:00:00,Home Decor,3,108.6,Credit Card,Strasbourg,Yes,18,Male,325.8
+T101123,C1052,2025-02-22 18:00:00,Home Decor,4,452.03,Debit Card,Paris,Yes,53,Female,1808.12
+T101898,C1364,2025-02-22 22:00:00,Home Decor,5,165.54,Debit Card,Lyon,Yes,30,Female,827.7
+T101132,C1110,2025-02-22 23:00:00,Beauty,4,470.78,Cash,Paris,Yes,59,Other,1883.12
+T101080,C1397,2025-02-23 09:00:00,Electronics,1,295.96,Debit Card,Nice,Yes,48,Female,295.96
+T101673,C1475,2025-02-23 15:00:00,Beauty,4,169.84,Credit Card,Lyon,No,21,Other,679.36
+T101129,C1239,2025-02-23 19:00:00,Groceries,7,218.74,Digital Wallet,Lyon,No,63,Other,1531.18
+T101224,C1362,2025-02-24 06:00:00,Electronics,7,157.77,Debit Card,Marseille,Yes,31,Male,1104.39
+T100780,C1018,2025-02-24 08:00:00,Home Decor,5,222.14,Credit Card,Nantes,No,43,Male,1110.7
+T100211,C1085,2025-02-24 13:00:00,Groceries,5,273.99,Debit Card,Toulouse,No,65,Male,1369.95
+T100990,C1250,2025-02-25 00:00:00,Electronics,8,192.01,Debit Card,Paris,No,18,Other,1536.08
+T101916,C1290,2025-02-25 05:00:00,Beauty,7,445.12,Debit Card,Toulouse,No,58,Female,3115.84
+T100077,C1427,2025-02-25 07:00:00,Groceries,7,31.52,Digital Wallet,Marseille,Yes,57,Other,220.64
+T101157,C1402,2025-02-25 11:00:00,Home Decor,3,70.64,Debit Card,Paris,No,74,Female,211.92
+T101989,C1222,2025-02-25 12:00:00,Groceries,9,405.85,Digital Wallet,Montpellier,No,43,Male,3652.65
+T101530,C1395,2025-02-25 20:00:00,Electronics,2,196.0,Credit Card,Lyon,Yes,57,Female,392.0
+T101437,C1062,2025-02-26 13:00:00,Home Decor,8,215.38,Credit Card,Strasbourg,No,35,Female,1723.04
+T101798,C1039,2025-02-27 01:00:00,Groceries,5,363.83,Credit Card,Paris,No,30,Male,1819.15
+T101877,C1226,2025-02-27 07:00:00,Home Decor,4,237.57,Credit Card,Nantes,Yes,29,Male,950.28
+T101325,C1334,2025-02-27 12:00:00,Beauty,8,319.4,Credit Card,Lyon,Yes,49,Male,2555.2
+T101937,C1496,2025-02-27 12:00:00,Electronics,5,103.19,Credit Card,Toulouse,Yes,71,Male,515.95
+T100125,C1040,2025-02-27 22:00:00,Home Decor,8,288.88,Debit Card,Nice,Yes,47,Male,2311.04
+T101439,C1480,2025-02-28 00:00:00,Groceries,6,136.19,Credit Card,Montpellier,No,62,Other,817.14
+T101234,C1118,2025-02-28 03:00:00,Groceries,9,322.15,Cash,Lyon,Yes,33,Female,2899.35
+T100930,C1000,2025-02-28 06:00:00,Groceries,3,342.32,Credit Card,Strasbourg,Yes,53,Female,1026.96
+T100040,C1058,2025-02-28 07:00:00,Beauty,4,145.83,Cash,Nantes,Yes,41,Female,583.32
+T101675,C1113,2025-02-28 07:00:00,Clothing,1,111.08,Credit Card,Montpellier,Yes,23,Male,111.08
+T101752,C1035,2025-02-28 08:00:00,Groceries,4,324.23,Cash,Toulouse,No,74,Other,1296.92
+T101762,C1233,2025-02-28 10:00:00,Beauty,9,298.0,Cash,Toulouse,No,53,Female,2682.0
+T101246,C1024,2025-02-28 11:00:00,Home Decor,2,338.39,Debit Card,Marseille,No,22,Male,676.78
+T101015,C1384,2025-02-28 14:00:00,Electronics,1,368.03,Credit Card,Paris,No,66,Other,368.03
+T100084,C1049,2025-02-28 15:00:00,Clothing,7,474.47,Debit Card,Toulouse,No,71,Other,3321.29
+T101380,C1093,2025-02-28 22:00:00,Electronics,7,234.46,Debit Card,Montpellier,Yes,39,Female,1641.22
+T101649,C1477,2025-02-28 22:00:00,Clothing,9,346.46,Digital Wallet,Strasbourg,No,62,Other,3118.14
+T101810,C1441,2025-03-01 09:00:00,Groceries,7,130.46,Credit Card,Paris,No,60,Female,913.22
+T100810,C1056,2025-03-01 11:00:00,Beauty,3,340.15,Cash,Montpellier,Yes,41,Other,1020.45
+T100147,C1260,2025-03-01 13:00:00,Groceries,2,25.89,Credit Card,Nice,Yes,37,Male,51.78
+T100545,C1050,2025-03-01 15:00:00,Beauty,6,332.87,Digital Wallet,Nantes,Yes,19,Other,1997.22
+T101651,C1434,2025-03-01 19:00:00,Clothing,6,66.55,Debit Card,Toulouse,Yes,39,Male,399.3
+T100497,C1430,2025-03-01 22:00:00,Clothing,7,376.64,Debit Card,Strasbourg,No,19,Other,2636.48
+T100033,C1313,2025-03-02 04:00:00,Electronics,7,435.06,Cash,Lyon,No,25,Female,3045.42
+T100685,C1475,2025-03-02 09:00:00,Home Decor,8,203.08,Digital Wallet,Nice,No,35,Female,1624.64
+T101541,C1170,2025-03-02 10:00:00,Home Decor,5,254.85,Digital Wallet,Lyon,Yes,70,Other,1274.25
+T100909,C1316,2025-03-02 11:00:00,Clothing,1,333.36,Digital Wallet,Nice,No,33,Male,333.36
+T101732,C1451,2025-03-02 18:00:00,Clothing,3,48.56,Digital Wallet,Montpellier,No,55,Male,145.68
+T101560,C1461,2025-03-02 19:00:00,Beauty,7,86.37,Digital Wallet,Nantes,No,18,Other,604.59
+T101650,C1214,2025-03-03 03:00:00,Home Decor,5,243.51,Cash,Marseille,No,21,Male,1217.55
+T101684,C1054,2025-03-03 05:00:00,Home Decor,3,158.93,Debit Card,Toulouse,No,60,Male,476.79
+T101670,C1174,2025-03-03 09:00:00,Home Decor,9,462.7,Debit Card,Marseille,No,53,Other,4164.3
+T100037,C1344,2025-03-03 12:00:00,Home Decor,7,453.26,Credit Card,Nice,No,27,Female,3172.82
+T100973,C1412,2025-03-03 16:00:00,Home Decor,8,366.6,Digital Wallet,Toulouse,No,30,Female,2932.8
+T101615,C1151,2025-03-03 16:00:00,Groceries,4,174.42,Credit Card,Nantes,No,60,Other,697.68
+T101654,C1210,2025-03-03 16:00:00,Groceries,9,289.28,Credit Card,Strasbourg,No,34,Male,2603.52
+T100053,C1243,2025-03-03 16:00:00,Beauty,4,26.72,Digital Wallet,Nice,No,51,Other,106.88
+T100521,C1407,2025-03-03 20:00:00,Home Decor,2,74.16,Credit Card,Marseille,No,58,Male,148.32
+T100515,C1169,2025-03-04 04:00:00,Electronics,5,492.83,Debit Card,Nice,No,36,Other,2464.15
+T101926,C1011,2025-03-04 07:00:00,Electronics,9,126.09,Credit Card,Nice,No,51,Other,1134.81
+T100316,C1123,2025-03-04 08:00:00,Beauty,2,187.84,Cash,Strasbourg,No,46,Male,375.68
+T100799,C1068,2025-03-04 12:00:00,Groceries,8,461.67,Digital Wallet,Lyon,No,31,Female,3693.36
+T101699,C1177,2025-03-04 21:00:00,Home Decor,8,378.94,Debit Card,Montpellier,No,27,Male,3031.52
+T100983,C1302,2025-03-04 22:00:00,Home Decor,8,468.38,Digital Wallet,Montpellier,No,55,Female,3747.04
+T101755,C1081,2025-03-05 06:00:00,Clothing,9,427.32,Debit Card,Strasbourg,No,47,Female,3845.88
+T100164,C1171,2025-03-05 12:00:00,Beauty,6,98.59,Cash,Nice,No,57,Female,591.54
+T100879,C1140,2025-03-05 13:00:00,Groceries,5,57.23,Digital Wallet,Lyon,Yes,63,Other,286.15
+T101194,C1291,2025-03-06 03:00:00,Beauty,1,429.89,Cash,Nantes,No,18,Female,429.89
+T100747,C1191,2025-03-06 09:00:00,Beauty,5,36.32,Cash,Toulouse,Yes,71,Male,181.6
+T100526,C1035,2025-03-06 12:00:00,Electronics,1,266.09,Debit Card,Paris,No,42,Other,266.09
+T100023,C1343,2025-03-06 16:00:00,Home Decor,2,59.46,Cash,Nice,No,69,Female,118.92
+T101479,C1195,2025-03-06 18:00:00,Beauty,6,305.08,Credit Card,Marseille,Yes,59,Other,1830.48
+T100829,C1008,2025-03-07 02:00:00,Beauty,2,59.09,Debit Card,Lyon,No,61,Male,118.18
+T100233,C1384,2025-03-07 14:00:00,Groceries,8,117.63,Digital Wallet,Nice,No,36,Female,941.04
+T100767,C1216,2025-03-07 23:00:00,Clothing,4,320.34,Debit Card,Marseille,No,26,Other,1281.36
+T101089,C1293,2025-03-08 00:00:00,Home Decor,5,98.73,Credit Card,Nice,No,65,Female,493.65
+T100902,C1116,2025-03-08 21:00:00,Electronics,8,103.28,Cash,Toulouse,No,32,Male,826.24
+T100428,C1237,2025-03-08 21:00:00,Electronics,5,166.16,Cash,Strasbourg,No,59,Female,830.8
+T101952,C1197,2025-03-08 23:00:00,Beauty,6,466.66,Digital Wallet,Marseille,Yes,67,Other,2799.96
+T100490,C1057,2025-03-09 12:00:00,Groceries,4,468.32,Debit Card,Paris,Yes,18,Male,1873.28
+T100058,C1134,2025-03-09 13:00:00,Clothing,3,336.63,Debit Card,Marseille,No,44,Male,1009.89
+T100390,C1226,2025-03-09 17:00:00,Groceries,7,63.19,Debit Card,Montpellier,No,30,Male,442.33
+T101555,C1286,2025-03-10 00:00:00,Groceries,7,248.48,Digital Wallet,Nice,No,36,Other,1739.36
+T101019,C1005,2025-03-10 04:00:00,Beauty,9,449.41,Cash,Paris,No,20,Female,4044.69
+T100693,C1162,2025-03-10 04:00:00,Beauty,4,247.77,Credit Card,Nantes,No,28,Other,991.08
+T101512,C1291,2025-03-10 10:00:00,Clothing,7,265.09,Credit Card,Lyon,Yes,50,Female,1855.63
+T100556,C1179,2025-03-10 11:00:00,Beauty,9,308.85,Cash,Nice,No,62,Male,2779.65
+T101438,C1142,2025-03-10 21:00:00,Clothing,8,141.35,Credit Card,Toulouse,No,38,Other,1130.8
+T101399,C1319,2025-03-11 05:00:00,Electronics,9,81.57,Cash,Toulouse,No,24,Female,734.13
+T101278,C1314,2025-03-11 08:00:00,Clothing,9,464.26,Credit Card,Marseille,Yes,39,Male,4178.34
+T100716,C1498,2025-03-11 11:00:00,Home Decor,3,325.68,Digital Wallet,Lyon,No,18,Male,977.04
+T101054,C1038,2025-03-11 16:00:00,Electronics,4,308.79,Digital Wallet,Nice,No,48,Other,1235.16
+T101976,C1269,2025-03-11 16:00:00,Groceries,9,217.51,Debit Card,Montpellier,Yes,54,Male,1957.59
+T101700,C1390,2025-03-11 20:00:00,Groceries,6,305.33,Debit Card,Strasbourg,No,26,Other,1831.98
+T100643,C1496,2025-03-11 23:00:00,Home Decor,2,249.54,Credit Card,Marseille,No,37,Female,499.08
+T101797,C1008,2025-03-12 11:00:00,Home Decor,7,265.05,Digital Wallet,Strasbourg,Yes,68,Male,1855.35
+T101610,C1442,2025-03-12 12:00:00,Clothing,5,329.04,Debit Card,Paris,Yes,27,Other,1645.2
+T100627,C1277,2025-03-13 00:00:00,Home Decor,6,209.67,Cash,Nantes,No,45,Female,1258.02
+T101102,C1480,2025-03-13 02:00:00,Beauty,2,93.42,Debit Card,Nantes,No,68,Female,186.84
+T101863,C1180,2025-03-13 05:00:00,Electronics,4,254.99,Credit Card,Nice,No,30,Male,1019.96
+T100939,C1011,2025-03-13 07:00:00,Home Decor,2,190.1,Cash,Strasbourg,Yes,63,Other,380.2
+T101805,C1277,2025-03-13 07:00:00,Home Decor,1,291.87,Digital Wallet,Marseille,Yes,58,Female,291.87
+T101908,C1128,2025-03-13 11:00:00,Clothing,8,272.31,Credit Card,Nice,Yes,18,Other,2178.48
+T101853,C1475,2025-03-13 12:00:00,Electronics,2,118.04,Cash,Lyon,Yes,21,Female,236.08
+T100906,C1172,2025-03-13 22:00:00,Clothing,4,252.31,Debit Card,Lyon,Yes,64,Male,1009.24
+T100387,C1103,2025-03-13 23:00:00,Electronics,5,420.8,Debit Card,Montpellier,No,68,Other,2104.0
+T101475,C1410,2025-03-14 00:00:00,Home Decor,6,76.2,Debit Card,Paris,Yes,20,Male,457.2
+T100195,C1095,2025-03-14 06:00:00,Beauty,2,128.7,Credit Card,Strasbourg,No,53,Female,257.4
+T100420,C1032,2025-03-14 07:00:00,Beauty,4,259.15,Credit Card,Montpellier,Yes,57,Other,1036.6
+T101398,C1295,2025-03-14 12:00:00,Beauty,6,431.31,Credit Card,Toulouse,No,36,Other,2587.86
+T101493,C1364,2025-03-14 12:00:00,Clothing,1,296.79,Cash,Nantes,No,46,Male,296.79
+T100030,C1276,2025-03-14 14:00:00,Groceries,3,172.58,Credit Card,Lyon,Yes,33,Male,517.74
+T101991,C1371,2025-03-14 15:00:00,Groceries,3,51.18,Cash,Lyon,No,41,Other,153.54
+T101954,C1024,2025-03-14 19:00:00,Home Decor,7,331.45,Digital Wallet,Paris,No,44,Other,2320.15
+T100978,C1389,2025-03-14 20:00:00,Clothing,8,39.15,Cash,Nantes,No,35,Female,313.2
+T101301,C1386,2025-03-15 03:00:00,Home Decor,2,368.0,Digital Wallet,Nice,No,55,Male,736.0
+T100695,C1032,2025-03-15 04:00:00,Beauty,9,443.04,Digital Wallet,Marseille,Yes,40,Other,3987.36
+T101464,C1288,2025-03-15 05:00:00,Clothing,1,129.85,Cash,Nice,No,45,Other,129.85
+T100373,C1207,2025-03-15 06:00:00,Home Decor,9,358.62,Cash,Strasbourg,No,63,Male,3227.58
+T100107,C1461,2025-03-15 08:00:00,Clothing,9,265.66,Digital Wallet,Nantes,No,25,Male,2390.94
+T101734,C1164,2025-03-15 10:00:00,Home Decor,1,197.69,Credit Card,Toulouse,Yes,26,Other,197.69
+T101101,C1165,2025-03-16 02:00:00,Home Decor,7,104.56,Cash,Paris,Yes,27,Other,731.92
+T101003,C1281,2025-03-16 12:00:00,Beauty,2,33.98,Debit Card,Marseille,No,59,Other,67.96
+T101750,C1380,2025-03-16 20:00:00,Groceries,2,172.91,Credit Card,Marseille,No,57,Male,345.82
+T100667,C1289,2025-03-17 05:00:00,Electronics,3,20.84,Credit Card,Lyon,No,28,Female,62.52
+T100333,C1307,2025-03-17 06:00:00,Electronics,2,178.73,Digital Wallet,Strasbourg,No,19,Female,357.46
+T100308,C1097,2025-03-17 07:00:00,Groceries,9,16.17,Debit Card,Nantes,No,66,Male,145.53
+T100901,C1421,2025-03-17 12:00:00,Clothing,8,304.17,Debit Card,Strasbourg,No,19,Female,2433.36
+T100175,C1256,2025-03-17 13:00:00,Beauty,7,49.16,Digital Wallet,Marseille,Yes,33,Male,344.12
+T100891,C1000,2025-03-17 13:00:00,Electronics,8,453.13,Credit Card,Marseille,Yes,69,Female,3625.04
+T101403,C1348,2025-03-17 15:00:00,Groceries,2,128.68,Digital Wallet,Paris,No,18,Female,257.36
+T101336,C1323,2025-03-17 18:00:00,Electronics,5,295.0,Digital Wallet,Paris,Yes,44,Male,1475.0
+T101575,C1312,2025-03-17 22:00:00,Beauty,2,172.79,Credit Card,Montpellier,No,50,Female,345.58
+T100370,C1098,2025-03-18 03:00:00,Home Decor,5,9.14,Digital Wallet,Montpellier,No,50,Other,45.7
+T100098,C1161,2025-03-18 11:00:00,Clothing,5,140.98,Debit Card,Lyon,No,32,Other,704.9
+T101850,C1400,2025-03-18 13:00:00,Beauty,7,289.9,Debit Card,Nantes,Yes,62,Other,2029.3
+T100183,C1206,2025-03-18 19:00:00,Clothing,7,488.06,Credit Card,Strasbourg,No,39,Male,3416.42
+T101410,C1285,2025-03-19 00:00:00,Clothing,4,120.36,Debit Card,Marseille,No,32,Male,481.44
+T100681,C1335,2025-03-19 10:00:00,Electronics,5,412.21,Debit Card,Lyon,Yes,51,Female,2061.05
+T100404,C1444,2025-03-19 12:00:00,Groceries,9,171.54,Cash,Strasbourg,Yes,63,Male,1543.86
+T101702,C1007,2025-03-20 04:00:00,Beauty,4,320.81,Cash,Lyon,No,32,Male,1283.24
+T100553,C1057,2025-03-20 16:00:00,Home Decor,9,441.45,Digital Wallet,Paris,No,53,Female,3973.05
+T100124,C1492,2025-03-20 18:00:00,Beauty,1,98.62,Digital Wallet,Strasbourg,No,63,Other,98.62
+T100523,C1315,2025-03-20 20:00:00,Home Decor,7,215.16,Cash,Montpellier,No,24,Female,1506.12
+T100764,C1182,2025-03-20 21:00:00,Home Decor,9,213.07,Debit Card,Paris,Yes,64,Male,1917.63
+T101446,C1308,2025-03-20 22:00:00,Electronics,5,102.49,Digital Wallet,Lyon,No,64,Other,512.45
+T101238,C1038,2025-03-20 22:00:00,Beauty,7,328.74,Debit Card,Lyon,No,28,Female,2301.18
+T100261,C1179,2025-03-21 09:00:00,Home Decor,5,194.85,Credit Card,Toulouse,Yes,51,Male,974.25
+T101420,C1131,2025-03-21 10:00:00,Clothing,2,15.1,Credit Card,Lyon,No,25,Male,30.2
+T100177,C1217,2025-03-21 21:00:00,Electronics,2,91.52,Credit Card,Strasbourg,No,38,Female,183.04
+T101680,C1131,2025-03-22 01:00:00,Home Decor,3,406.16,Debit Card,Lyon,Yes,28,Other,1218.48
+T100073,C1091,2025-03-22 17:00:00,Groceries,4,51.81,Cash,Lyon,No,63,Male,207.24
+T100096,C1217,2025-03-23 03:00:00,Home Decor,5,68.87,Digital Wallet,Nice,No,71,Female,344.35
+T100732,C1313,2025-03-23 04:00:00,Electronics,8,257.33,Cash,Lyon,No,33,Male,2058.64
+T100951,C1347,2025-03-23 04:00:00,Home Decor,8,94.72,Digital Wallet,Nantes,Yes,71,Male,757.76
+T101840,C1133,2025-03-23 12:00:00,Home Decor,3,230.78,Digital Wallet,Nice,No,19,Male,692.34
+T100326,C1402,2025-03-23 12:00:00,Groceries,1,46.9,Cash,Nantes,No,34,Female,46.9
+T101457,C1455,2025-03-23 19:00:00,Groceries,8,208.99,Cash,Montpellier,No,63,Female,1671.92
+T101491,C1302,2025-03-24 00:00:00,Electronics,6,304.85,Credit Card,Strasbourg,No,42,Male,1829.1
+T101941,C1079,2025-03-24 02:00:00,Electronics,1,208.47,Digital Wallet,Lyon,No,43,Male,208.47
+T100503,C1489,2025-03-24 08:00:00,Beauty,1,382.21,Cash,Nantes,No,36,Female,382.21
+T100856,C1499,2025-03-24 13:00:00,Clothing,2,317.73,Digital Wallet,Nice,No,28,Male,635.46
+T101155,C1121,2025-03-24 16:00:00,Home Decor,8,83.48,Credit Card,Nice,No,65,Female,667.84
+T101429,C1103,2025-03-24 18:00:00,Beauty,2,207.58,Digital Wallet,Toulouse,No,31,Male,415.16
+T101470,C1156,2025-03-25 02:00:00,Beauty,4,34.74,Credit Card,Montpellier,No,47,Male,138.96
+T101803,C1200,2025-03-25 02:00:00,Clothing,6,291.22,Digital Wallet,Nice,No,45,Other,1747.32
+T100451,C1034,2025-03-25 05:00:00,Home Decor,2,377.89,Credit Card,Toulouse,No,30,Male,755.78
+T100964,C1410,2025-03-25 05:00:00,Home Decor,6,220.93,Cash,Nantes,No,30,Other,1325.58
+T100202,C1142,2025-03-25 15:00:00,Home Decor,6,336.46,Debit Card,Nantes,Yes,43,Female,2018.76
+T100953,C1089,2025-03-25 16:00:00,Home Decor,3,195.55,Credit Card,Paris,Yes,28,Female,586.65
+T100851,C1135,2025-03-25 16:00:00,Home Decor,9,201.83,Debit Card,Montpellier,No,31,Female,1816.47
+T101553,C1496,2025-03-25 18:00:00,Clothing,2,167.15,Debit Card,Nantes,No,52,Male,334.3
+T101445,C1461,2025-03-25 21:00:00,Clothing,3,110.8,Cash,Strasbourg,No,59,Other,332.4
+T100133,C1343,2025-03-25 21:00:00,Beauty,7,137.91,Debit Card,Marseille,Yes,43,Other,965.37
+T101583,C1148,2025-03-26 01:00:00,Beauty,6,367.46,Cash,Montpellier,No,57,Male,2204.76
+T100343,C1475,2025-03-26 07:00:00,Beauty,9,130.03,Debit Card,Marseille,No,36,Female,1170.27
+T100779,C1186,2025-03-26 07:00:00,Beauty,1,113.76,Cash,Paris,Yes,60,Female,113.76
+T101365,C1012,2025-03-26 19:00:00,Groceries,9,140.83,Digital Wallet,Montpellier,Yes,23,Female,1267.47
+T100874,C1018,2025-03-27 08:00:00,Groceries,3,188.02,Credit Card,Nice,Yes,74,Female,564.06
+T100637,C1184,2025-03-27 09:00:00,Home Decor,1,222.56,Debit Card,Toulouse,No,62,Other,222.56
+T100754,C1496,2025-03-27 11:00:00,Groceries,1,79.4,Cash,Strasbourg,No,43,Other,79.4
+T100301,C1122,2025-03-27 14:00:00,Electronics,3,473.46,Credit Card,Paris,No,62,Male,1420.38
+T100744,C1356,2025-03-27 16:00:00,Beauty,6,466.3,Cash,Montpellier,No,66,Other,2797.8
+T100178,C1254,2025-03-27 19:00:00,Beauty,4,493.61,Credit Card,Toulouse,No,27,Other,1974.44
+T100557,C1169,2025-03-28 04:00:00,Clothing,4,48.42,Credit Card,Strasbourg,Yes,37,Male,193.68
+T100244,C1455,2025-03-28 09:00:00,Groceries,6,327.16,Cash,Lyon,Yes,58,Female,1962.96
+T101574,C1470,2025-03-28 16:00:00,Clothing,1,387.57,Cash,Marseille,No,34,Other,387.57
+T101392,C1136,2025-03-29 01:00:00,Electronics,6,267.17,Debit Card,Montpellier,No,49,Female,1603.02
+T100616,C1088,2025-03-29 11:00:00,Groceries,5,180.44,Digital Wallet,Strasbourg,No,54,Female,902.2
+T101298,C1310,2025-03-29 17:00:00,Clothing,1,143.91,Digital Wallet,Montpellier,Yes,42,Other,143.91
+T101969,C1400,2025-03-30 01:00:00,Clothing,1,42.67,Credit Card,Strasbourg,No,71,Female,42.67
+T100057,C1306,2025-03-30 08:00:00,Beauty,6,99.25,Digital Wallet,Strasbourg,No,26,Other,595.5
+T100318,C1325,2025-03-30 15:00:00,Beauty,9,282.37,Debit Card,Montpellier,Yes,54,Male,2541.33
+T101832,C1086,2025-03-30 15:00:00,Beauty,1,58.19,Digital Wallet,Toulouse,No,55,Male,58.19
+T101283,C1288,2025-03-30 17:00:00,Beauty,2,259.37,Credit Card,Montpellier,Yes,67,Other,518.74
+T101421,C1088,2025-03-30 19:00:00,Electronics,5,304.22,Cash,Marseille,Yes,29,Female,1521.1
+T100331,C1351,2025-03-30 20:00:00,Groceries,4,352.14,Debit Card,Nice,No,44,Other,1408.56
+T100697,C1444,2025-03-31 03:00:00,Groceries,9,114.47,Cash,Strasbourg,No,61,Male,1030.23
+T101240,C1272,2025-03-31 07:00:00,Electronics,1,93.93,Digital Wallet,Montpellier,Yes,35,Male,93.93
+T100371,C1146,2025-03-31 10:00:00,Groceries,1,88.46,Credit Card,Strasbourg,Yes,38,Other,88.46
+T101767,C1395,2025-03-31 12:00:00,Electronics,6,300.25,Debit Card,Marseille,No,56,Other,1801.5
+T101996,C1489,2025-03-31 12:00:00,Home Decor,8,473.09,Debit Card,Nantes,Yes,51,Female,3784.72
+T100187,C1379,2025-03-31 13:00:00,Clothing,4,17.23,Digital Wallet,Toulouse,Yes,71,Other,68.92
+T100683,C1257,2025-03-31 15:00:00,Home Decor,5,200.07,Credit Card,Strasbourg,Yes,35,Female,1000.35
+T100638,C1284,2025-03-31 21:00:00,Groceries,7,38.28,Digital Wallet,Marseille,No,36,Male,267.96
+T100846,C1004,2025-04-01 01:00:00,Home Decor,7,68.02,Cash,Nantes,Yes,39,Male,476.14
+T101523,C1133,2025-04-01 13:00:00,Clothing,7,111.3,Credit Card,Montpellier,No,67,Male,779.1
+T101979,C1006,2025-04-01 17:00:00,Beauty,8,339.69,Debit Card,Montpellier,Yes,35,Other,2717.52
+T101307,C1407,2025-04-01 21:00:00,Clothing,6,327.58,Digital Wallet,Toulouse,No,60,Male,1965.48
+T101665,C1018,2025-04-02 08:00:00,Clothing,3,178.37,Credit Card,Nantes,No,47,Male,535.11
+T101536,C1472,2025-04-02 17:00:00,Groceries,5,301.68,Cash,Marseille,No,72,Male,1508.4
+T101065,C1053,2025-04-02 18:00:00,Electronics,7,349.54,Digital Wallet,Montpellier,Yes,67,Female,2446.78
+T100136,C1135,2025-04-02 20:00:00,Groceries,6,472.3,Digital Wallet,Nice,No,28,Male,2833.8
+T101031,C1164,2025-04-02 23:00:00,Beauty,9,276.27,Debit Card,Lyon,No,34,Male,2486.43
+T101503,C1323,2025-04-03 08:00:00,Electronics,9,254.09,Digital Wallet,Paris,No,66,Male,2286.81
+T100262,C1112,2025-04-03 09:00:00,Clothing,7,419.13,Credit Card,Strasbourg,Yes,49,Other,2933.91
+T100912,C1079,2025-04-03 12:00:00,Groceries,8,366.9,Credit Card,Lyon,No,69,Other,2935.2
+T101604,C1474,2025-04-03 15:00:00,Clothing,1,25.05,Credit Card,Marseille,No,21,Female,25.05
+T100895,C1189,2025-04-03 21:00:00,Clothing,2,294.45,Debit Card,Lyon,No,50,Other,588.9
+T101809,C1153,2025-04-03 23:00:00,Groceries,8,30.88,Cash,Lyon,Yes,64,Female,247.04
+T101295,C1349,2025-04-04 00:00:00,Home Decor,4,161.47,Cash,Nantes,No,31,Other,645.88
+T101677,C1165,2025-04-04 11:00:00,Home Decor,8,224.24,Cash,Nice,No,54,Female,1793.92
+T101890,C1238,2025-04-04 17:00:00,Home Decor,4,259.04,Debit Card,Strasbourg,No,53,Male,1036.16
+T101892,C1466,2025-04-04 20:00:00,Groceries,9,148.02,Cash,Nice,Yes,65,Other,1332.18
+T101422,C1236,2025-04-05 03:00:00,Home Decor,4,142.13,Cash,Toulouse,No,71,Female,568.52
+T100168,C1034,2025-04-05 05:00:00,Home Decor,3,54.25,Cash,Nantes,No,31,Other,162.75
+T100483,C1322,2025-04-05 13:00:00,Groceries,5,159.29,Debit Card,Strasbourg,No,28,Male,796.45
+T100615,C1047,2025-04-05 14:00:00,Clothing,1,285.57,Debit Card,Paris,No,69,Male,285.57
+T101851,C1409,2025-04-05 21:00:00,Groceries,3,475.54,Debit Card,Paris,No,56,Female,1426.62
+T101701,C1348,2025-04-06 02:00:00,Groceries,5,315.26,Debit Card,Lyon,No,36,Male,1576.3
+T101820,C1340,2025-04-06 04:00:00,Beauty,2,261.23,Cash,Paris,No,66,Female,522.46
+T101861,C1192,2025-04-06 05:00:00,Groceries,5,234.84,Debit Card,Strasbourg,No,24,Male,1174.2
+T101394,C1075,2025-04-06 06:00:00,Electronics,6,262.66,Digital Wallet,Paris,No,51,Female,1575.96
+T100230,C1230,2025-04-06 08:00:00,Home Decor,3,16.41,Digital Wallet,Strasbourg,No,32,Male,49.23
+T101653,C1439,2025-04-06 10:00:00,Groceries,8,36.92,Credit Card,Paris,No,39,Male,295.36
+T101144,C1387,2025-04-06 21:00:00,Beauty,6,236.59,Debit Card,Strasbourg,Yes,32,Other,1419.54
+T101436,C1022,2025-04-07 04:00:00,Electronics,7,414.44,Debit Card,Lyon,No,52,Other,2901.08
+T100002,C1348,2025-04-08 02:00:00,Electronics,5,130.12,Credit Card,Paris,No,56,Female,650.6
+T101904,C1072,2025-04-08 15:00:00,Clothing,7,115.21,Debit Card,Marseille,No,39,Female,806.47
+T100128,C1300,2025-04-09 12:00:00,Groceries,4,471.38,Debit Card,Lyon,No,41,Male,1885.52
+T100977,C1252,2025-04-09 12:00:00,Beauty,6,80.71,Digital Wallet,Marseille,No,60,Other,484.26
+T101317,C1117,2025-04-09 16:00:00,Clothing,1,215.07,Cash,Montpellier,No,28,Other,215.07
+T100757,C1151,2025-04-09 18:00:00,Groceries,8,160.89,Digital Wallet,Lyon,No,25,Other,1287.12
+T100050,C1050,2025-04-09 19:00:00,Groceries,8,163.73,Credit Card,Toulouse,No,37,Other,1309.84
+T100504,C1385,2025-04-09 20:00:00,Groceries,3,271.0,Credit Card,Nice,No,67,Female,813.0
+T100986,C1009,2025-04-10 00:00:00,Groceries,8,437.33,Debit Card,Toulouse,No,67,Male,3498.64
+T101181,C1248,2025-04-10 01:00:00,Home Decor,1,248.3,Debit Card,Lyon,Yes,27,Other,248.3
+T101478,C1253,2025-04-10 01:00:00,Beauty,9,92.22,Debit Card,Lyon,No,36,Other,829.98
+T100392,C1472,2025-04-10 06:00:00,Beauty,3,108.66,Cash,Paris,No,22,Female,325.98
+T101185,C1238,2025-04-10 12:00:00,Groceries,1,49.65,Debit Card,Nantes,Yes,30,Female,49.65
+T100243,C1197,2025-04-10 15:00:00,Home Decor,5,131.73,Debit Card,Lyon,No,46,Male,658.65
+T101153,C1433,2025-04-10 17:00:00,Clothing,6,267.78,Credit Card,Lyon,No,38,Female,1606.68
+T101165,C1404,2025-04-11 00:00:00,Beauty,6,60.98,Credit Card,Paris,No,38,Male,365.88
+T101308,C1222,2025-04-11 02:00:00,Beauty,4,357.74,Credit Card,Strasbourg,Yes,42,Male,1430.96
+T100793,C1383,2025-04-11 03:00:00,Groceries,4,230.39,Debit Card,Lyon,No,19,Female,921.56
+T101302,C1242,2025-04-11 09:00:00,Groceries,7,5.2,Cash,Marseille,No,58,Other,36.4
+T101172,C1045,2025-04-11 21:00:00,Clothing,8,89.53,Credit Card,Strasbourg,Yes,52,Female,716.24
+T101918,C1497,2025-04-12 04:00:00,Home Decor,8,330.43,Debit Card,Montpellier,Yes,21,Male,2643.44
+T101547,C1132,2025-04-12 05:00:00,Home Decor,3,102.26,Cash,Toulouse,Yes,67,Female,306.78
+T100171,C1100,2025-04-12 08:00:00,Groceries,1,43.96,Cash,Strasbourg,No,66,Female,43.96
+T101059,C1117,2025-04-12 10:00:00,Beauty,7,15.88,Credit Card,Lyon,Yes,19,Other,111.16
+T100338,C1038,2025-04-12 10:00:00,Home Decor,3,297.5,Credit Card,Strasbourg,No,55,Female,892.5
+T100323,C1251,2025-04-12 13:00:00,Electronics,3,276.07,Cash,Lyon,No,27,Other,828.21
+T100433,C1050,2025-04-12 16:00:00,Beauty,5,313.54,Debit Card,Strasbourg,No,49,Other,1567.7
+T100802,C1024,2025-04-12 22:00:00,Home Decor,6,379.49,Credit Card,Lyon,No,65,Other,2276.94
+T101256,C1145,2025-04-12 23:00:00,Electronics,6,481.28,Credit Card,Marseille,Yes,57,Female,2887.68
+T100185,C1345,2025-04-13 01:00:00,Groceries,9,214.79,Cash,Paris,No,65,Female,1933.11
+T101364,C1385,2025-04-13 05:00:00,Home Decor,6,226.84,Cash,Marseille,No,68,Other,1361.04
+T100509,C1392,2025-04-13 07:00:00,Beauty,7,226.4,Credit Card,Nice,No,18,Female,1584.8
+T101347,C1319,2025-04-13 13:00:00,Beauty,9,50.06,Digital Wallet,Marseille,Yes,42,Male,450.54
+T101998,C1272,2025-04-13 20:00:00,Electronics,6,301.65,Cash,Nantes,No,53,Male,1809.9
+T101613,C1178,2025-04-13 20:00:00,Home Decor,6,181.83,Cash,Lyon,No,31,Other,1090.98
+T100630,C1450,2025-04-14 02:00:00,Home Decor,9,83.35,Cash,Lyon,No,32,Other,750.15
+T101235,C1484,2025-04-14 02:00:00,Electronics,7,209.89,Credit Card,Marseille,Yes,50,Male,1469.23
+T101215,C1013,2025-04-14 11:00:00,Clothing,1,79.18,Cash,Paris,No,59,Other,79.18
+T101709,C1442,2025-04-14 12:00:00,Clothing,7,111.74,Digital Wallet,Lyon,Yes,73,Male,782.18
+T101393,C1417,2025-04-14 14:00:00,Groceries,3,177.15,Credit Card,Strasbourg,No,48,Other,531.45
+T100446,C1452,2025-04-14 21:00:00,Clothing,7,40.75,Debit Card,Marseille,No,56,Male,285.25
+T101037,C1077,2025-04-14 21:00:00,Beauty,9,340.28,Debit Card,Toulouse,Yes,41,Other,3062.52
+T101939,C1011,2025-04-15 03:00:00,Groceries,4,258.18,Cash,Nantes,Yes,56,Other,1032.72
+T100580,C1310,2025-04-15 08:00:00,Clothing,5,472.65,Digital Wallet,Nantes,No,56,Other,2363.25
+T101961,C1488,2025-04-15 20:00:00,Electronics,3,411.13,Digital Wallet,Montpellier,Yes,19,Other,1233.39
+T100367,C1159,2025-04-16 03:00:00,Clothing,7,273.44,Credit Card,Nice,No,55,Female,1914.08
+T101834,C1361,2025-04-16 14:00:00,Beauty,9,369.18,Credit Card,Strasbourg,No,44,Other,3322.62
+T101829,C1485,2025-04-16 20:00:00,Clothing,3,417.47,Credit Card,Nice,Yes,66,Male,1252.41
+T100440,C1285,2025-04-16 22:00:00,Home Decor,9,86.54,Cash,Paris,Yes,32,Male,778.86
+T100190,C1062,2025-04-16 22:00:00,Home Decor,2,142.72,Debit Card,Strasbourg,No,21,Male,285.44
+T101526,C1302,2025-04-17 06:00:00,Beauty,9,92.16,Digital Wallet,Nantes,Yes,67,Female,829.44
+T100687,C1159,2025-04-17 16:00:00,Home Decor,1,254.27,Cash,Paris,Yes,18,Male,254.27
+T100976,C1034,2025-04-17 17:00:00,Clothing,1,8.36,Credit Card,Lyon,Yes,49,Male,8.36
+T101151,C1092,2025-04-17 18:00:00,Clothing,7,162.04,Debit Card,Nantes,Yes,22,Male,1134.28
+T100719,C1214,2025-04-17 19:00:00,Clothing,5,44.4,Cash,Nantes,No,74,Female,222.0
+T100354,C1143,2025-04-17 22:00:00,Clothing,4,266.65,Digital Wallet,Montpellier,Yes,48,Female,1066.6
+T100397,C1383,2025-04-18 01:00:00,Groceries,9,92.46,Digital Wallet,Marseille,No,70,Female,832.14
+T100010,C1466,2025-04-18 01:00:00,Clothing,7,77.99,Debit Card,Nice,No,30,Female,545.93
+T101995,C1442,2025-04-18 11:00:00,Groceries,3,287.43,Debit Card,Nice,Yes,70,Other,862.29
+T101056,C1249,2025-04-18 11:00:00,Electronics,7,47.37,Debit Card,Toulouse,No,42,Other,331.59
+T100001,C1435,2025-04-18 12:00:00,Groceries,9,95.87,Credit Card,Toulouse,No,64,Female,862.83
+T100623,C1486,2025-04-18 14:00:00,Electronics,3,171.29,Debit Card,Nice,No,19,Other,513.87
+T100275,C1080,2025-04-18 19:00:00,Electronics,6,226.14,Digital Wallet,Paris,No,48,Other,1356.84
+T101571,C1109,2025-04-19 02:00:00,Electronics,1,67.55,Digital Wallet,Nantes,No,30,Male,67.55
+T101337,C1274,2025-04-19 06:00:00,Clothing,9,338.73,Cash,Strasbourg,No,50,Other,3048.57
+T101344,C1000,2025-04-19 07:00:00,Home Decor,8,197.12,Credit Card,Marseille,No,38,Other,1576.96
+T100940,C1329,2025-04-19 11:00:00,Electronics,3,475.72,Credit Card,Marseille,No,31,Other,1427.16
+T100416,C1134,2025-04-19 13:00:00,Home Decor,3,431.21,Credit Card,Nice,No,63,Other,1293.63
+T101552,C1105,2025-04-19 14:00:00,Electronics,7,119.09,Debit Card,Nantes,No,26,Other,833.63
+T101017,C1495,2025-04-19 15:00:00,Beauty,4,100.33,Debit Card,Lyon,Yes,67,Other,401.32
+T101025,C1357,2025-04-19 18:00:00,Beauty,6,264.94,Digital Wallet,Paris,Yes,30,Female,1589.64
+T100561,C1490,2025-04-19 18:00:00,Clothing,3,314.23,Cash,Paris,No,42,Other,942.69
+T101808,C1003,2025-04-20 07:00:00,Clothing,9,46.53,Digital Wallet,Lyon,No,63,Male,418.77
+T101689,C1457,2025-04-20 12:00:00,Clothing,3,249.45,Digital Wallet,Montpellier,No,58,Other,748.35
+T100340,C1359,2025-04-20 13:00:00,Groceries,4,87.58,Debit Card,Marseille,No,29,Male,350.32
+T101033,C1457,2025-04-21 01:00:00,Home Decor,9,397.39,Credit Card,Lyon,No,52,Other,3576.51
+T101113,C1137,2025-04-21 01:00:00,Clothing,4,374.64,Digital Wallet,Nice,Yes,45,Female,1498.56
+T100646,C1445,2025-04-21 03:00:00,Home Decor,3,155.09,Debit Card,Toulouse,Yes,31,Male,465.27
+T101207,C1473,2025-04-21 05:00:00,Clothing,8,490.42,Credit Card,Montpellier,No,68,Female,3923.36
+T100625,C1446,2025-04-21 07:00:00,Clothing,2,52.05,Credit Card,Paris,Yes,54,Other,104.1
+T101229,C1226,2025-04-21 18:00:00,Home Decor,8,431.9,Cash,Montpellier,No,44,Male,3455.2
+T101510,C1242,2025-04-21 19:00:00,Clothing,3,445.11,Debit Card,Toulouse,Yes,73,Other,1335.33
+T101387,C1433,2025-04-21 20:00:00,Beauty,8,9.72,Cash,Lyon,No,68,Other,77.76
+T101761,C1010,2025-04-22 00:00:00,Beauty,7,332.45,Cash,Nantes,Yes,56,Other,2327.15
+T100750,C1098,2025-04-22 01:00:00,Groceries,9,447.42,Cash,Toulouse,No,66,Other,4026.78
+T100636,C1085,2025-04-22 12:00:00,Clothing,8,286.32,Digital Wallet,Nantes,Yes,49,Male,2290.56
+T100536,C1470,2025-04-22 17:00:00,Electronics,8,303.86,Cash,Montpellier,No,73,Female,2430.88
+T101825,C1033,2025-04-22 22:00:00,Clothing,9,215.65,Debit Card,Paris,Yes,74,Other,1940.85
+T101893,C1226,2025-04-22 22:00:00,Groceries,7,47.69,Digital Wallet,Montpellier,Yes,68,Other,333.83
+T101580,C1370,2025-04-22 22:00:00,Clothing,5,285.39,Debit Card,Paris,No,67,Female,1426.95
+T100541,C1287,2025-04-23 08:00:00,Electronics,6,301.72,Digital Wallet,Nantes,Yes,49,Male,1810.32
+T101432,C1178,2025-04-23 11:00:00,Electronics,8,401.18,Debit Card,Montpellier,No,48,Male,3209.44
+T101000,C1176,2025-04-23 12:00:00,Clothing,3,333.72,Credit Card,Montpellier,Yes,34,Male,1001.16
+T100674,C1095,2025-04-23 14:00:00,Electronics,5,325.38,Debit Card,Marseille,No,55,Other,1626.9
+T101959,C1058,2025-04-23 14:00:00,Electronics,6,187.44,Cash,Lyon,Yes,35,Male,1124.64
+T100672,C1146,2025-04-23 22:00:00,Clothing,3,328.62,Digital Wallet,Nantes,No,20,Female,985.86
+T101324,C1193,2025-04-24 00:00:00,Electronics,8,341.62,Cash,Marseille,No,30,Other,2732.96
+T101534,C1445,2025-04-24 10:00:00,Groceries,3,49.46,Digital Wallet,Nantes,No,28,Other,148.38
+T101428,C1294,2025-04-24 15:00:00,Clothing,4,22.23,Digital Wallet,Lyon,Yes,50,Other,88.92
+T101873,C1112,2025-04-24 16:00:00,Home Decor,8,382.83,Credit Card,Nantes,No,29,Male,3062.64
+T101725,C1087,2025-04-24 16:00:00,Clothing,8,490.13,Debit Card,Nice,No,22,Other,3921.04
+T100305,C1279,2025-04-24 17:00:00,Clothing,1,465.57,Digital Wallet,Nantes,No,19,Male,465.57
+T100844,C1121,2025-04-25 00:00:00,Home Decor,4,435.75,Cash,Montpellier,No,67,Female,1743.0
+T101925,C1353,2025-04-25 01:00:00,Groceries,7,475.54,Digital Wallet,Paris,Yes,41,Male,3328.78
+T101589,C1435,2025-04-25 03:00:00,Home Decor,1,359.73,Credit Card,Strasbourg,No,30,Other,359.73
+T100516,C1246,2025-04-26 02:00:00,Groceries,6,279.26,Credit Card,Paris,Yes,26,Other,1675.56
+T100765,C1012,2025-04-26 13:00:00,Electronics,6,448.07,Digital Wallet,Nice,No,25,Male,2688.42
+T101895,C1490,2025-04-26 14:00:00,Clothing,7,192.21,Credit Card,Marseille,No,60,Male,1345.47
+T101972,C1468,2025-04-26 21:00:00,Home Decor,9,119.77,Cash,Lyon,No,50,Male,1077.93
+T101326,C1202,2025-04-26 22:00:00,Clothing,3,455.23,Debit Card,Nice,Yes,24,Other,1365.69
+T101356,C1160,2025-04-26 22:00:00,Clothing,7,89.41,Digital Wallet,Toulouse,No,57,Other,625.87
+T101777,C1427,2025-04-26 22:00:00,Groceries,7,326.1,Debit Card,Nantes,No,50,Male,2282.7
+T100162,C1292,2025-04-27 01:00:00,Clothing,3,249.16,Debit Card,Paris,No,67,Other,747.48
+T100488,C1222,2025-04-27 01:00:00,Beauty,9,132.05,Credit Card,Paris,No,27,Female,1188.45
+T101316,C1133,2025-04-27 02:00:00,Clothing,4,228.9,Credit Card,Paris,Yes,51,Female,915.6
+T100534,C1459,2025-04-27 03:00:00,Beauty,2,334.31,Debit Card,Strasbourg,No,20,Female,668.62
+T100738,C1419,2025-04-27 03:00:00,Beauty,2,451.12,Digital Wallet,Montpellier,Yes,29,Male,902.24
+T100668,C1179,2025-04-27 03:00:00,Clothing,5,470.39,Digital Wallet,Paris,No,33,Other,2351.95
+T100345,C1472,2025-04-27 11:00:00,Clothing,1,353.45,Digital Wallet,Lyon,No,27,Female,353.45
+T100356,C1111,2025-04-27 14:00:00,Clothing,4,369.08,Digital Wallet,Montpellier,No,45,Female,1476.32
+T101573,C1181,2025-04-28 04:00:00,Groceries,1,119.17,Digital Wallet,Marseille,No,62,Male,119.17
+T101625,C1490,2025-04-28 08:00:00,Clothing,4,134.75,Debit Card,Nice,Yes,62,Other,539.0
+T100962,C1227,2025-04-28 08:00:00,Clothing,2,30.87,Cash,Nantes,No,48,Other,61.74
+T101953,C1199,2025-04-28 09:00:00,Beauty,2,304.45,Debit Card,Strasbourg,Yes,70,Female,608.9
+T100260,C1232,2025-04-28 13:00:00,Beauty,7,189.86,Credit Card,Strasbourg,No,36,Female,1329.02
+T101595,C1062,2025-04-28 14:00:00,Groceries,9,240.93,Cash,Paris,No,31,Male,2168.37
+T100382,C1074,2025-04-28 20:00:00,Home Decor,4,211.64,Credit Card,Lyon,No,74,Other,846.56
+T101198,C1354,2025-04-28 21:00:00,Home Decor,5,293.75,Cash,Lyon,No,62,Female,1468.75
+T100279,C1129,2025-04-29 02:00:00,Home Decor,2,250.68,Digital Wallet,Toulouse,No,22,Female,501.36
+T101241,C1230,2025-04-29 04:00:00,Beauty,2,346.11,Credit Card,Lyon,Yes,64,Other,692.22
+T100656,C1099,2025-04-29 06:00:00,Home Decor,4,32.39,Credit Card,Strasbourg,No,24,Other,129.56
+T101213,C1364,2025-04-29 15:00:00,Electronics,7,287.49,Debit Card,Marseille,No,25,Female,2012.43
+T100863,C1069,2025-04-30 05:00:00,Home Decor,6,170.02,Credit Card,Paris,No,22,Male,1020.12
+T100543,C1446,2025-04-30 08:00:00,Electronics,7,372.11,Credit Card,Lyon,Yes,63,Male,2604.77
+T100712,C1094,2025-04-30 09:00:00,Home Decor,7,341.89,Digital Wallet,Toulouse,No,27,Male,2393.23
+T100272,C1100,2025-04-30 11:00:00,Beauty,9,335.37,Debit Card,Nantes,No,70,Other,3018.33
+T100117,C1052,2025-04-30 17:00:00,Beauty,7,268.38,Cash,Nice,No,20,Male,1878.66
+T101856,C1045,2025-04-30 20:00:00,Home Decor,7,461.64,Credit Card,Marseille,No,65,Male,3231.48
+T101116,C1329,2025-04-30 22:00:00,Home Decor,8,69.81,Debit Card,Montpellier,No,73,Other,558.48
+T100875,C1038,2025-04-30 22:00:00,Home Decor,8,245.6,Debit Card,Paris,No,18,Female,1964.8
+T101621,C1160,2025-04-30 23:00:00,Clothing,2,154.41,Digital Wallet,Nice,Yes,55,Male,308.82
+T101150,C1154,2025-05-01 00:00:00,Groceries,5,102.67,Digital Wallet,Lyon,No,24,Female,513.35
+T100386,C1421,2025-05-01 09:00:00,Electronics,3,100.05,Credit Card,Montpellier,No,58,Male,300.15
+T100862,C1291,2025-05-01 18:00:00,Electronics,2,243.16,Digital Wallet,Toulouse,No,30,Male,486.32
+T100450,C1003,2025-05-01 20:00:00,Clothing,9,377.44,Cash,Nice,No,49,Other,3396.96
+T101009,C1176,2025-05-02 04:00:00,Clothing,6,281.12,Debit Card,Montpellier,No,47,Other,1686.72
+T101588,C1201,2025-05-02 09:00:00,Electronics,5,74.62,Credit Card,Marseille,No,29,Female,373.1
+T100979,C1081,2025-05-02 11:00:00,Beauty,3,497.92,Cash,Montpellier,No,51,Other,1493.76
+T100188,C1460,2025-05-02 17:00:00,Groceries,3,406.08,Debit Card,Nantes,No,63,Other,1218.24
+T100600,C1116,2025-05-02 22:00:00,Electronics,6,62.07,Credit Card,Toulouse,No,64,Female,372.42
+T101532,C1140,2025-05-03 05:00:00,Clothing,1,198.59,Digital Wallet,Strasbourg,Yes,67,Male,198.59
+T101106,C1246,2025-05-03 05:00:00,Electronics,4,240.99,Credit Card,Nantes,No,49,Male,963.96
+T100193,C1240,2025-05-03 05:00:00,Clothing,9,448.04,Credit Card,Marseille,No,46,Male,4032.36
+T100832,C1491,2025-05-04 00:00:00,Clothing,9,139.33,Credit Card,Toulouse,Yes,40,Female,1253.97
+T100513,C1038,2025-05-04 05:00:00,Home Decor,5,461.54,Cash,Nice,No,36,Female,2307.7
+T100067,C1241,2025-05-04 14:00:00,Groceries,1,482.14,Debit Card,Montpellier,Yes,67,Other,482.14
+T100595,C1057,2025-05-04 17:00:00,Clothing,3,135.42,Cash,Nantes,No,47,Male,406.26
+T101463,C1156,2025-05-04 23:00:00,Groceries,2,92.85,Cash,Lyon,No,55,Female,185.7
+T101032,C1201,2025-05-05 02:00:00,Electronics,8,352.86,Cash,Nantes,No,51,Male,2822.88
+T100410,C1397,2025-05-05 06:00:00,Home Decor,2,126.41,Cash,Strasbourg,Yes,32,Male,252.82
+T100753,C1465,2025-05-05 06:00:00,Electronics,5,416.63,Debit Card,Toulouse,No,39,Other,2083.15
+T100237,C1120,2025-05-05 11:00:00,Groceries,9,42.2,Credit Card,Montpellier,No,18,Male,379.8
+T101812,C1108,2025-05-05 12:00:00,Groceries,1,56.37,Credit Card,Montpellier,No,63,Other,56.37
+T100288,C1125,2025-05-06 01:00:00,Home Decor,1,171.74,Credit Card,Nantes,No,54,Male,171.74
+T100698,C1178,2025-05-06 06:00:00,Home Decor,8,138.21,Cash,Marseille,No,20,Other,1105.68
+T100994,C1288,2025-05-06 10:00:00,Beauty,7,290.71,Credit Card,Lyon,Yes,32,Other,2034.97
+T101016,C1404,2025-05-06 19:00:00,Electronics,1,436.28,Cash,Nantes,Yes,21,Male,436.28
+T101433,C1124,2025-05-06 20:00:00,Groceries,4,231.23,Credit Card,Lyon,No,30,Female,924.92
+T101095,C1346,2025-05-07 00:00:00,Home Decor,7,415.12,Cash,Lyon,No,58,Other,2905.84
+T100950,C1121,2025-05-07 03:00:00,Groceries,7,398.56,Cash,Strasbourg,No,62,Female,2789.92
+T101872,C1163,2025-05-07 09:00:00,Groceries,8,393.17,Cash,Lyon,No,73,Female,3145.36
+T101140,C1399,2025-05-07 10:00:00,Home Decor,2,484.2,Digital Wallet,Nantes,No,74,Female,968.4
+T100724,C1409,2025-05-07 14:00:00,Electronics,1,387.4,Credit Card,Paris,No,32,Female,387.4
+T101501,C1156,2025-05-07 14:00:00,Clothing,5,254.69,Debit Card,Marseille,No,55,Male,1273.45
+T100974,C1396,2025-05-07 22:00:00,Clothing,5,24.96,Cash,Lyon,No,41,Male,124.8
+T100834,C1252,2025-05-08 02:00:00,Beauty,3,176.5,Digital Wallet,Strasbourg,No,54,Female,529.5
+T100803,C1435,2025-05-08 04:00:00,Clothing,3,132.4,Digital Wallet,Marseille,No,49,Male,397.2
+T101823,C1040,2025-05-08 13:00:00,Home Decor,9,61.69,Credit Card,Montpellier,Yes,31,Male,555.21
+T101448,C1103,2025-05-08 21:00:00,Electronics,6,117.75,Credit Card,Nantes,Yes,40,Male,706.5
+T101608,C1127,2025-05-08 23:00:00,Clothing,5,423.64,Debit Card,Marseille,Yes,67,Male,2118.2
+T100544,C1341,2025-05-09 01:00:00,Home Decor,3,154.81,Debit Card,Paris,Yes,46,Other,464.43
+T101314,C1003,2025-05-09 06:00:00,Beauty,7,231.37,Credit Card,Paris,No,54,Male,1619.59
+T101968,C1198,2025-05-09 21:00:00,Groceries,4,20.78,Digital Wallet,Nantes,No,25,Female,83.12
+T101544,C1355,2025-05-09 22:00:00,Home Decor,5,66.17,Digital Wallet,Nantes,Yes,32,Other,330.85
+T100700,C1100,2025-05-09 23:00:00,Groceries,7,26.85,Cash,Strasbourg,No,47,Other,187.95
+T100329,C1146,2025-05-09 23:00:00,Home Decor,9,252.6,Cash,Montpellier,Yes,65,Female,2273.4
+T100252,C1171,2025-05-10 06:00:00,Electronics,1,305.84,Digital Wallet,Nantes,No,57,Male,305.84
+T100431,C1229,2025-05-10 22:00:00,Home Decor,5,26.7,Digital Wallet,Nantes,No,74,Male,133.5
+T100814,C1041,2025-05-11 11:00:00,Home Decor,2,230.88,Debit Card,Strasbourg,Yes,46,Female,461.76
+T100238,C1115,2025-05-11 12:00:00,Home Decor,9,71.43,Cash,Paris,Yes,62,Other,642.87
+T101858,C1129,2025-05-11 12:00:00,Electronics,8,388.57,Debit Card,Nantes,Yes,26,Other,3108.56
+T100733,C1113,2025-05-11 22:00:00,Groceries,2,294.7,Credit Card,Lyon,No,73,Female,589.4
+T101766,C1118,2025-05-11 23:00:00,Groceries,1,62.64,Cash,Lyon,No,49,Male,62.64
+T100324,C1442,2025-05-12 05:00:00,Clothing,7,322.04,Digital Wallet,Paris,No,55,Female,2254.28
+T101852,C1468,2025-05-12 06:00:00,Clothing,8,430.27,Digital Wallet,Nantes,Yes,24,Male,3442.16
+T100899,C1311,2025-05-12 22:00:00,Groceries,2,28.47,Digital Wallet,Toulouse,No,40,Male,56.94
+T101966,C1265,2025-05-12 22:00:00,Clothing,8,139.1,Debit Card,Nantes,No,25,Other,1112.8
+T101341,C1112,2025-05-12 22:00:00,Groceries,1,259.25,Debit Card,Nice,Yes,50,Male,259.25
+T100346,C1433,2025-05-13 01:00:00,Clothing,5,473.11,Cash,Nice,Yes,34,Female,2365.55
+T100091,C1259,2025-05-13 10:00:00,Clothing,8,489.24,Digital Wallet,Lyon,Yes,49,Male,3913.92
+T101549,C1292,2025-05-13 16:00:00,Clothing,6,90.92,Digital Wallet,Nantes,Yes,64,Female,545.52
+T100563,C1100,2025-05-13 19:00:00,Clothing,3,192.12,Digital Wallet,Montpellier,Yes,44,Other,576.36
+T101340,C1019,2025-05-13 20:00:00,Electronics,3,202.04,Cash,Lyon,Yes,25,Female,606.12
+T100520,C1408,2025-05-13 22:00:00,Beauty,2,452.01,Debit Card,Nantes,No,67,Female,904.02
+T101751,C1402,2025-05-13 22:00:00,Clothing,6,164.73,Cash,Strasbourg,No,55,Female,988.38
+T100473,C1187,2025-05-14 02:00:00,Home Decor,4,482.52,Cash,Lyon,No,34,Female,1930.08
+T101012,C1097,2025-05-14 03:00:00,Electronics,5,283.6,Cash,Strasbourg,No,24,Male,1418.0
+T101221,C1110,2025-05-14 06:00:00,Home Decor,8,158.09,Credit Card,Strasbourg,No,26,Male,1264.72
+T101584,C1430,2025-05-14 11:00:00,Clothing,1,48.45,Debit Card,Strasbourg,No,61,Male,48.45
+T100809,C1143,2025-05-14 18:00:00,Groceries,7,114.51,Digital Wallet,Nantes,No,26,Male,801.57
+T100845,C1193,2025-05-14 22:00:00,Clothing,2,73.63,Debit Card,Nantes,Yes,61,Female,147.26
+T101228,C1293,2025-05-15 03:00:00,Home Decor,7,36.7,Debit Card,Montpellier,No,66,Male,256.9
+T101658,C1284,2025-05-16 08:00:00,Home Decor,8,431.2,Credit Card,Toulouse,No,25,Female,3449.6
+T100366,C1036,2025-05-16 15:00:00,Electronics,4,186.75,Digital Wallet,Nice,Yes,56,Male,747.0
+T100442,C1283,2025-05-16 19:00:00,Beauty,3,259.71,Credit Card,Nantes,No,43,Male,779.13
+T101152,C1159,2025-05-17 01:00:00,Clothing,9,144.56,Credit Card,Strasbourg,No,57,Other,1301.04
+T101490,C1158,2025-05-17 03:00:00,Home Decor,1,261.87,Cash,Marseille,No,50,Female,261.87
+T101947,C1080,2025-05-17 14:00:00,Electronics,4,251.09,Digital Wallet,Montpellier,Yes,27,Male,1004.36
+T101529,C1362,2025-05-17 17:00:00,Groceries,7,229.81,Cash,Toulouse,Yes,24,Female,1608.67
+T101901,C1200,2025-05-17 21:00:00,Electronics,8,149.19,Debit Card,Montpellier,No,49,Other,1193.52
+T101206,C1013,2025-05-18 02:00:00,Electronics,6,227.0,Cash,Toulouse,No,52,Male,1362.0
+T101492,C1227,2025-05-18 03:00:00,Beauty,8,481.62,Digital Wallet,Toulouse,Yes,59,Male,3852.96
+T100403,C1207,2025-05-18 08:00:00,Home Decor,9,314.27,Cash,Lyon,Yes,32,Other,2828.43
+T101678,C1434,2025-05-18 11:00:00,Home Decor,2,21.92,Cash,Montpellier,No,44,Male,43.84
+T101518,C1010,2025-05-18 17:00:00,Home Decor,5,113.93,Cash,Strasbourg,No,32,Female,569.65
+T101984,C1497,2025-05-18 19:00:00,Beauty,1,477.19,Credit Card,Toulouse,No,28,Male,477.19
+T101199,C1252,2025-05-18 20:00:00,Beauty,8,271.5,Credit Card,Strasbourg,Yes,70,Male,2172.0
+T100524,C1390,2025-05-18 22:00:00,Electronics,1,467.17,Digital Wallet,Strasbourg,Yes,26,Female,467.17
+T101034,C1082,2025-05-19 03:00:00,Electronics,1,316.41,Credit Card,Paris,No,52,Other,316.41
+T101282,C1376,2025-05-19 04:00:00,Beauty,6,50.28,Credit Card,Toulouse,No,32,Female,301.68
+T101029,C1484,2025-05-19 06:00:00,Beauty,1,297.26,Credit Card,Strasbourg,Yes,37,Male,297.26
+T101912,C1103,2025-05-19 06:00:00,Electronics,1,303.39,Debit Card,Montpellier,No,31,Other,303.39
+T101384,C1317,2025-05-19 09:00:00,Electronics,2,258.97,Cash,Paris,No,31,Female,517.94
+T101538,C1110,2025-05-19 12:00:00,Home Decor,9,218.76,Digital Wallet,Montpellier,No,71,Other,1968.84
+T101738,C1222,2025-05-19 13:00:00,Home Decor,7,432.47,Cash,Lyon,Yes,33,Male,3027.29
+T100825,C1330,2025-05-19 14:00:00,Clothing,8,404.02,Cash,Toulouse,No,31,Other,3232.16
+T101629,C1369,2025-05-19 20:00:00,Electronics,1,258.21,Cash,Nice,No,55,Female,258.21
+T101923,C1477,2025-05-19 23:00:00,Groceries,9,302.54,Credit Card,Nantes,No,58,Other,2722.86
+T101906,C1295,2025-05-20 00:00:00,Beauty,8,471.93,Debit Card,Nice,Yes,29,Female,3775.44
+T100032,C1459,2025-05-20 04:00:00,Clothing,1,308.52,Cash,Strasbourg,No,38,Female,308.52
+T101715,C1228,2025-05-20 10:00:00,Electronics,2,287.57,Digital Wallet,Toulouse,No,34,Male,575.14
+T100917,C1228,2025-05-21 05:00:00,Electronics,7,316.31,Digital Wallet,Nantes,No,55,Other,2214.17
+T101293,C1445,2025-05-21 09:00:00,Electronics,1,280.03,Credit Card,Nice,No,48,Female,280.03
+T101579,C1054,2025-05-21 13:00:00,Clothing,8,331.13,Cash,Paris,Yes,34,Male,2649.04
+T101603,C1209,2025-05-21 21:00:00,Home Decor,2,385.09,Cash,Lyon,No,20,Other,770.18
+T100914,C1212,2025-05-22 02:00:00,Groceries,9,90.0,Cash,Lyon,No,62,Other,810.0
+T100848,C1164,2025-05-22 03:00:00,Electronics,4,480.33,Digital Wallet,Montpellier,No,43,Female,1921.32
+T100840,C1169,2025-05-22 03:00:00,Electronics,5,228.24,Digital Wallet,Strasbourg,No,26,Female,1141.2
+T100730,C1390,2025-05-22 04:00:00,Groceries,5,134.94,Digital Wallet,Montpellier,No,52,Male,674.7
+T101950,C1373,2025-05-22 12:00:00,Home Decor,4,88.71,Debit Card,Strasbourg,Yes,20,Male,354.84
+T101760,C1403,2025-05-22 17:00:00,Beauty,5,280.62,Cash,Strasbourg,Yes,41,Male,1403.1
+T100312,C1239,2025-05-22 20:00:00,Clothing,4,146.2,Digital Wallet,Nantes,No,34,Other,584.8
+T100025,C1413,2025-05-22 23:00:00,Beauty,2,214.56,Digital Wallet,Nice,No,36,Other,429.12
+T100332,C1198,2025-05-23 00:00:00,Clothing,4,395.58,Debit Card,Toulouse,No,70,Male,1582.32
+T100189,C1178,2025-05-23 01:00:00,Groceries,3,270.61,Debit Card,Nantes,No,21,Other,811.83
+T101757,C1384,2025-05-23 07:00:00,Electronics,2,262.15,Debit Card,Montpellier,Yes,24,Male,524.3
+T100727,C1417,2025-05-23 15:00:00,Electronics,1,385.78,Debit Card,Nice,No,38,Female,385.78
+T100334,C1488,2025-05-23 20:00:00,Home Decor,5,205.3,Debit Card,Paris,No,51,Other,1026.5
+T100465,C1036,2025-05-23 21:00:00,Groceries,3,174.46,Debit Card,Marseille,Yes,52,Female,523.38
+T101110,C1132,2025-05-24 05:00:00,Clothing,7,200.89,Credit Card,Paris,No,53,Female,1406.23
+T101778,C1354,2025-05-24 13:00:00,Clothing,1,320.54,Credit Card,Nantes,Yes,53,Female,320.54
+T100752,C1035,2025-05-24 15:00:00,Beauty,8,336.33,Credit Card,Paris,No,53,Female,2690.64
+T101826,C1016,2025-05-25 00:00:00,Electronics,9,177.37,Cash,Montpellier,No,36,Other,1596.33
+T101043,C1204,2025-05-25 04:00:00,Beauty,7,297.48,Debit Card,Nice,Yes,56,Male,2082.36
+T100306,C1324,2025-05-25 07:00:00,Clothing,3,419.28,Debit Card,Lyon,Yes,58,Male,1257.84
+T101497,C1014,2025-05-25 09:00:00,Groceries,9,415.05,Cash,Toulouse,Yes,20,Female,3735.45
+T100148,C1489,2025-05-25 20:00:00,Electronics,9,250.67,Digital Wallet,Paris,Yes,22,Other,2256.03
+T101108,C1050,2025-05-25 22:00:00,Electronics,1,19.44,Debit Card,Nice,No,53,Male,19.44
+T100408,C1067,2025-05-26 02:00:00,Clothing,8,451.45,Credit Card,Lyon,Yes,57,Other,3611.6
+T101176,C1217,2025-05-26 13:00:00,Electronics,3,259.89,Cash,Nice,No,36,Female,779.67
+T101683,C1412,2025-05-26 16:00:00,Beauty,3,350.57,Cash,Paris,No,36,Male,1051.71
+T101631,C1048,2025-05-26 18:00:00,Clothing,3,25.73,Cash,Strasbourg,No,50,Female,77.19
+T100673,C1441,2025-05-26 19:00:00,Electronics,3,196.59,Debit Card,Toulouse,No,19,Other,589.77
+T101073,C1111,2025-05-27 05:00:00,Groceries,4,214.11,Cash,Marseille,No,54,Other,856.44
+T100934,C1258,2025-05-27 10:00:00,Home Decor,3,271.8,Credit Card,Marseille,Yes,49,Male,815.4
+T101419,C1061,2025-05-27 11:00:00,Electronics,3,424.97,Cash,Nantes,Yes,27,Other,1274.91
+T100850,C1338,2025-05-27 13:00:00,Home Decor,9,401.68,Credit Card,Lyon,No,62,Female,3615.12
+T100952,C1163,2025-05-27 14:00:00,Groceries,4,357.44,Digital Wallet,Paris,Yes,21,Other,1429.76
+T101346,C1141,2025-05-27 15:00:00,Clothing,5,457.72,Cash,Toulouse,No,38,Male,2288.6
+T100311,C1394,2025-05-27 15:00:00,Beauty,3,411.19,Cash,Strasbourg,No,58,Male,1233.57
+T100082,C1080,2025-05-27 15:00:00,Electronics,4,274.72,Cash,Strasbourg,No,33,Other,1098.88
+T101055,C1153,2025-05-27 15:00:00,Beauty,6,397.8,Digital Wallet,Lyon,No,61,Female,2386.8
+T101045,C1445,2025-05-27 20:00:00,Electronics,7,399.91,Debit Card,Marseille,No,66,Other,2799.37
+T101774,C1392,2025-05-28 07:00:00,Beauty,2,323.67,Debit Card,Paris,Yes,60,Female,647.34
+T101469,C1419,2025-05-28 11:00:00,Beauty,3,111.02,Debit Card,Toulouse,Yes,66,Male,333.06
+T100678,C1003,2025-05-28 15:00:00,Groceries,9,277.06,Debit Card,Toulouse,Yes,46,Other,2493.54
+T101130,C1458,2025-05-28 17:00:00,Clothing,2,393.98,Digital Wallet,Marseille,No,66,Female,787.96
+T100992,C1004,2025-05-28 18:00:00,Beauty,3,340.27,Credit Card,Lyon,No,33,Other,1020.81
+T100041,C1169,2025-05-28 21:00:00,Clothing,6,28.3,Digital Wallet,Nice,No,36,Other,169.8
+T101335,C1117,2025-05-29 02:00:00,Home Decor,1,439.67,Credit Card,Strasbourg,Yes,68,Other,439.67
+T101980,C1136,2025-05-29 02:00:00,Electronics,3,352.54,Debit Card,Paris,No,47,Female,1057.62
+T101192,C1336,2025-05-29 07:00:00,Electronics,4,296.92,Cash,Lyon,No,32,Other,1187.68
+T100604,C1392,2025-05-29 07:00:00,Home Decor,9,132.19,Digital Wallet,Paris,Yes,67,Female,1189.71
+T100399,C1337,2025-05-29 16:00:00,Beauty,1,452.5,Digital Wallet,Paris,No,30,Other,452.5
+T101971,C1281,2025-05-29 19:00:00,Electronics,4,103.94,Credit Card,Lyon,No,72,Male,415.76
+T100610,C1238,2025-05-30 10:00:00,Electronics,9,118.81,Credit Card,Montpellier,Yes,68,Female,1069.29
+T100400,C1193,2025-05-30 15:00:00,Groceries,4,163.49,Cash,Lyon,No,61,Other,653.96
+T100823,C1220,2025-05-30 16:00:00,Home Decor,8,117.68,Credit Card,Paris,No,62,Female,941.44
+T101423,C1041,2025-05-31 01:00:00,Groceries,7,431.86,Cash,Toulouse,No,20,Male,3023.02
+T101982,C1175,2025-05-31 02:00:00,Electronics,2,365.59,Digital Wallet,Nantes,Yes,57,Other,731.18
+T100607,C1057,2025-05-31 11:00:00,Beauty,3,32.98,Credit Card,Nice,No,67,Female,98.94
+T100294,C1197,2025-05-31 12:00:00,Clothing,9,110.36,Cash,Strasbourg,Yes,21,Female,993.24
+T100457,C1157,2025-05-31 17:00:00,Groceries,8,312.62,Credit Card,Nantes,No,28,Female,2500.96
+T100741,C1248,2025-06-01 01:00:00,Electronics,6,74.73,Cash,Montpellier,No,50,Female,448.38
+T100706,C1329,2025-06-01 03:00:00,Groceries,6,440.92,Cash,Lyon,No,71,Male,2645.52
+T101957,C1267,2025-06-01 04:00:00,Electronics,5,320.78,Credit Card,Strasbourg,No,74,Other,1603.9
+T101596,C1243,2025-06-01 07:00:00,Beauty,6,382.99,Credit Card,Lyon,No,30,Other,2297.94
+T100666,C1099,2025-06-01 12:00:00,Groceries,1,420.41,Digital Wallet,Marseille,No,68,Male,420.41
+T100562,C1443,2025-06-01 16:00:00,Electronics,2,144.86,Digital Wallet,Marseille,Yes,48,Female,289.72
+T100391,C1111,2025-06-01 18:00:00,Clothing,7,495.16,Digital Wallet,Montpellier,No,29,Male,3466.12
+T101223,C1237,2025-06-02 00:00:00,Home Decor,9,493.0,Digital Wallet,Montpellier,No,37,Female,4437.0
+T100593,C1274,2025-06-02 07:00:00,Beauty,9,86.44,Digital Wallet,Toulouse,No,70,Female,777.96
+T100157,C1032,2025-06-02 13:00:00,Electronics,6,229.65,Cash,Lyon,No,32,Female,1377.9
+T100908,C1172,2025-06-02 17:00:00,Beauty,5,487.0,Cash,Lyon,Yes,47,Other,2435.0
+T101735,C1181,2025-06-02 19:00:00,Beauty,2,160.12,Cash,Toulouse,Yes,61,Male,320.24
+T101559,C1028,2025-06-02 20:00:00,Electronics,4,449.83,Credit Card,Lyon,No,57,Male,1799.32
+T100463,C1379,2025-06-03 03:00:00,Groceries,6,347.94,Cash,Montpellier,No,25,Female,2087.64
+T100761,C1036,2025-06-03 03:00:00,Clothing,2,20.33,Cash,Nice,No,57,Female,40.66
+T100389,C1253,2025-06-03 04:00:00,Groceries,4,447.91,Digital Wallet,Montpellier,Yes,64,Female,1791.64
+T100807,C1052,2025-06-03 04:00:00,Home Decor,7,226.84,Debit Card,Nantes,No,62,Other,1587.88
+T100854,C1320,2025-06-03 05:00:00,Groceries,5,242.92,Credit Card,Montpellier,Yes,43,Other,1214.6
+T101286,C1276,2025-06-03 05:00:00,Electronics,5,406.1,Debit Card,Lyon,No,49,Male,2030.5
+T101480,C1085,2025-06-03 09:00:00,Clothing,3,171.78,Debit Card,Paris,No,74,Female,515.34
+T100729,C1104,2025-06-03 11:00:00,Clothing,3,171.92,Credit Card,Nantes,Yes,19,Male,515.76
+T100184,C1014,2025-06-03 21:00:00,Electronics,1,146.7,Credit Card,Toulouse,No,66,Male,146.7
+T101313,C1074,2025-06-04 01:00:00,Electronics,9,462.03,Credit Card,Montpellier,No,30,Female,4158.27
+T101782,C1279,2025-06-04 20:00:00,Groceries,7,191.14,Credit Card,Marseille,No,62,Other,1337.98
+T100965,C1446,2025-06-04 20:00:00,Electronics,6,101.42,Debit Card,Montpellier,No,50,Male,608.52
+T101748,C1146,2025-06-04 22:00:00,Home Decor,9,7.64,Digital Wallet,Nantes,No,21,Male,68.76
+T100365,C1452,2025-06-05 02:00:00,Clothing,5,23.66,Debit Card,Nice,No,34,Female,118.3
+T100988,C1285,2025-06-05 04:00:00,Electronics,2,170.83,Digital Wallet,Toulouse,No,48,Female,341.66
+T101620,C1343,2025-06-05 08:00:00,Beauty,2,439.87,Digital Wallet,Lyon,No,71,Female,879.74
+T101884,C1405,2025-06-05 15:00:00,Home Decor,1,116.81,Debit Card,Lyon,No,42,Female,116.81
+T101928,C1100,2025-06-05 16:00:00,Groceries,3,262.8,Debit Card,Montpellier,No,41,Female,788.4
+T101236,C1027,2025-06-06 01:00:00,Groceries,3,138.68,Cash,Toulouse,No,20,Female,416.04
+T100993,C1118,2025-06-06 09:00:00,Electronics,2,148.34,Digital Wallet,Toulouse,Yes,56,Other,296.68
+T101970,C1406,2025-06-07 02:00:00,Beauty,4,140.59,Credit Card,Paris,Yes,27,Other,562.36
+T100095,C1401,2025-06-07 06:00:00,Home Decor,8,321.5,Digital Wallet,Montpellier,Yes,55,Other,2572.0
+T100877,C1450,2025-06-07 11:00:00,Beauty,2,75.21,Cash,Paris,No,66,Female,150.42
+T100472,C1098,2025-06-07 13:00:00,Beauty,1,375.91,Cash,Montpellier,No,41,Other,375.91
+T100368,C1008,2025-06-07 17:00:00,Home Decor,7,78.31,Cash,Toulouse,Yes,61,Other,548.17
+T100026,C1293,2025-06-07 17:00:00,Home Decor,3,9.61,Digital Wallet,Nice,No,23,Female,28.83
+T100374,C1130,2025-06-08 06:00:00,Home Decor,1,458.74,Credit Card,Paris,No,53,Other,458.74
+T100321,C1258,2025-06-08 08:00:00,Electronics,7,308.28,Debit Card,Nantes,No,35,Male,2157.96
+T101258,C1227,2025-06-08 08:00:00,Electronics,5,138.84,Cash,Nice,No,36,Male,694.2
+T100663,C1009,2025-06-08 18:00:00,Groceries,9,176.19,Digital Wallet,Nice,Yes,68,Female,1585.71
+T100225,C1445,2025-06-08 23:00:00,Clothing,5,334.56,Digital Wallet,Montpellier,No,52,Female,1672.8
+T100000,C1102,2025-06-08 23:00:00,Clothing,7,467.32,Digital Wallet,Nice,No,43,Other,3271.24
+T100055,C1130,2025-06-09 02:00:00,Groceries,5,225.02,Debit Card,Montpellier,Yes,19,Female,1125.1
+T101854,C1189,2025-06-09 05:00:00,Home Decor,2,113.95,Debit Card,Montpellier,No,32,Other,227.9
+T100402,C1162,2025-06-09 10:00:00,Home Decor,2,98.01,Cash,Strasbourg,No,43,Female,196.02
+T100094,C1190,2025-06-09 10:00:00,Home Decor,3,185.24,Debit Card,Paris,No,35,Male,555.72
+T100495,C1113,2025-06-09 10:00:00,Groceries,8,142.24,Cash,Marseille,Yes,35,Female,1137.92
+T101230,C1370,2025-06-09 10:00:00,Groceries,9,480.94,Debit Card,Toulouse,Yes,42,Female,4328.46
+T100176,C1004,2025-06-09 14:00:00,Beauty,6,218.34,Cash,Nice,No,59,Other,1310.04
+T100588,C1157,2025-06-09 15:00:00,Clothing,6,217.3,Digital Wallet,Montpellier,No,42,Male,1303.8
+T100725,C1457,2025-06-09 23:00:00,Clothing,7,88.57,Cash,Strasbourg,Yes,62,Male,619.99
+T101697,C1475,2025-06-10 07:00:00,Electronics,8,456.73,Digital Wallet,Nice,Yes,40,Female,3653.84
+T100317,C1186,2025-06-10 08:00:00,Groceries,7,255.38,Credit Card,Marseille,Yes,44,Male,1787.66
+T100179,C1397,2025-06-10 09:00:00,Clothing,2,282.77,Debit Card,Nantes,No,74,Other,565.54
+T100282,C1342,2025-06-10 16:00:00,Groceries,6,213.34,Digital Wallet,Lyon,No,73,Female,1280.04
+T101274,C1319,2025-06-10 16:00:00,Electronics,9,328.56,Cash,Paris,Yes,70,Male,2957.04
+T100737,C1375,2025-06-10 17:00:00,Electronics,8,322.3,Credit Card,Lyon,Yes,38,Male,2578.4
+T101264,C1423,2025-06-10 17:00:00,Electronics,9,150.99,Credit Card,Strasbourg,No,69,Other,1358.91
+T100398,C1365,2025-06-10 22:00:00,Home Decor,1,292.21,Credit Card,Marseille,No,27,Other,292.21
+T100801,C1395,2025-06-11 03:00:00,Electronics,6,185.04,Credit Card,Montpellier,No,45,Other,1110.24
+T101220,C1002,2025-06-11 04:00:00,Groceries,4,69.52,Cash,Nantes,No,55,Other,278.08
+T101590,C1312,2025-06-11 08:00:00,Clothing,4,221.45,Debit Card,Nantes,No,25,Male,885.8
+T101109,C1080,2025-06-11 09:00:00,Clothing,8,304.53,Credit Card,Nice,No,26,Female,2436.24
+T101021,C1464,2025-06-11 12:00:00,Groceries,1,277.9,Cash,Montpellier,No,18,Female,277.9
+T100662,C1249,2025-06-11 17:00:00,Beauty,9,100.89,Digital Wallet,Toulouse,Yes,33,Other,908.01
+T100904,C1057,2025-06-11 22:00:00,Home Decor,5,372.44,Cash,Toulouse,No,39,Male,1862.2
+T101963,C1025,2025-06-11 22:00:00,Beauty,5,90.24,Digital Wallet,Marseille,Yes,30,Male,451.2
+T100476,C1190,2025-06-12 01:00:00,Electronics,2,469.09,Cash,Montpellier,Yes,29,Other,938.18
+T100255,C1314,2025-06-12 04:00:00,Groceries,9,132.26,Credit Card,Nice,No,25,Male,1190.34
+T101960,C1409,2025-06-12 11:00:00,Home Decor,8,480.21,Debit Card,Montpellier,No,33,Female,3841.68
+T100142,C1391,2025-06-12 16:00:00,Electronics,1,230.2,Credit Card,Lyon,No,55,Female,230.2
+T101086,C1191,2025-06-12 18:00:00,Home Decor,9,484.87,Digital Wallet,Strasbourg,No,55,Female,4363.83
+T100818,C1222,2025-06-12 19:00:00,Electronics,6,401.67,Digital Wallet,Nice,No,48,Male,2410.02
+T100710,C1396,2025-06-12 22:00:00,Beauty,1,6.16,Credit Card,Montpellier,No,21,Other,6.16
+T100419,C1127,2025-06-13 02:00:00,Groceries,2,346.86,Digital Wallet,Toulouse,Yes,44,Other,693.72
+T101096,C1434,2025-06-13 02:00:00,Electronics,7,395.2,Digital Wallet,Lyon,No,33,Male,2766.4
+T100121,C1251,2025-06-13 02:00:00,Groceries,6,100.93,Credit Card,Toulouse,No,46,Other,605.58
+T100394,C1152,2025-06-13 09:00:00,Beauty,1,498.72,Digital Wallet,Toulouse,Yes,21,Male,498.72
+T100584,C1268,2025-06-13 11:00:00,Beauty,2,17.07,Digital Wallet,Montpellier,No,36,Male,34.14
+T100257,C1159,2025-06-13 12:00:00,Clothing,3,186.8,Digital Wallet,Nantes,Yes,57,Other,560.4
+T101520,C1329,2025-06-13 12:00:00,Clothing,6,433.53,Cash,Nantes,No,42,Other,2601.18
+T101044,C1259,2025-06-13 21:00:00,Groceries,5,457.04,Debit Card,Toulouse,Yes,50,Male,2285.2
+T101203,C1126,2025-06-14 05:00:00,Electronics,5,124.55,Digital Wallet,Strasbourg,Yes,60,Male,622.75
+T101040,C1000,2025-06-14 06:00:00,Home Decor,9,169.81,Cash,Marseille,Yes,67,Female,1528.29
+T101578,C1437,2025-06-14 22:00:00,Groceries,9,157.89,Credit Card,Toulouse,Yes,41,Other,1421.01
+T101686,C1130,2025-06-15 02:00:00,Home Decor,1,139.87,Digital Wallet,Paris,No,32,Female,139.87
+T100186,C1041,2025-06-15 06:00:00,Beauty,6,326.68,Cash,Toulouse,Yes,64,Other,1960.08
+T101724,C1095,2025-06-15 13:00:00,Beauty,1,66.11,Cash,Paris,No,73,Female,66.11
+T101745,C1160,2025-06-15 13:00:00,Groceries,4,290.59,Cash,Marseille,Yes,74,Male,1162.36
+T100470,C1180,2025-06-15 17:00:00,Beauty,6,261.23,Debit Card,Strasbourg,Yes,38,Male,1567.38
+T101816,C1074,2025-06-15 23:00:00,Electronics,9,139.92,Digital Wallet,Toulouse,No,42,Male,1259.28
+T100987,C1311,2025-06-16 01:00:00,Beauty,9,200.52,Digital Wallet,Strasbourg,Yes,59,Male,1804.68
+T101836,C1468,2025-06-16 12:00:00,Electronics,5,76.92,Digital Wallet,Marseille,No,58,Male,384.6
+T101396,C1034,2025-06-16 16:00:00,Electronics,8,212.09,Digital Wallet,Strasbourg,Yes,42,Female,1696.72
+T100772,C1368,2025-06-16 19:00:00,Clothing,6,461.25,Cash,Nantes,No,65,Male,2767.5
+T100083,C1419,2025-06-17 00:00:00,Home Decor,7,145.34,Digital Wallet,Paris,No,34,Other,1017.38
+T101533,C1103,2025-06-17 03:00:00,Beauty,1,44.59,Cash,Paris,No,41,Other,44.59
+T101508,C1094,2025-06-17 06:00:00,Groceries,3,333.74,Credit Card,Nantes,No,74,Female,1001.22
+T101363,C1171,2025-06-17 06:00:00,Electronics,2,450.46,Credit Card,Marseille,Yes,32,Other,900.92
+T100937,C1440,2025-06-17 11:00:00,Home Decor,7,353.25,Digital Wallet,Paris,No,33,Male,2472.75
+T100766,C1278,2025-06-17 16:00:00,Groceries,8,491.41,Cash,Nantes,Yes,71,Male,3931.28
+T101414,C1004,2025-06-17 18:00:00,Groceries,5,12.42,Credit Card,Nantes,Yes,21,Female,62.1
+T100743,C1393,2025-06-18 06:00:00,Home Decor,3,365.79,Cash,Marseille,Yes,57,Male,1097.37
+T100085,C1359,2025-06-18 12:00:00,Groceries,9,422.02,Credit Card,Lyon,No,44,Male,3798.18
+T101083,C1434,2025-06-18 23:00:00,Clothing,9,13.89,Debit Card,Nantes,Yes,70,Male,125.01
+T100012,C1330,2025-06-19 01:00:00,Electronics,3,285.04,Credit Card,Strasbourg,No,43,Other,855.12
+T100088,C1389,2025-06-19 03:00:00,Home Decor,8,57.53,Credit Card,Nice,No,25,Male,460.24
+T101010,C1460,2025-06-19 04:00:00,Clothing,8,192.83,Credit Card,Montpellier,No,22,Male,1542.64
+T101506,C1129,2025-06-19 17:00:00,Beauty,2,403.96,Credit Card,Lyon,Yes,64,Other,807.92
+T101744,C1262,2025-06-19 19:00:00,Electronics,9,126.65,Debit Card,Toulouse,No,24,Male,1139.85
+T101733,C1499,2025-06-20 01:00:00,Groceries,6,447.3,Credit Card,Nice,Yes,68,Male,2683.8
+T101616,C1024,2025-06-20 02:00:00,Clothing,4,46.52,Debit Card,Lyon,Yes,45,Female,186.08
+T101079,C1340,2025-06-20 02:00:00,Groceries,8,168.04,Credit Card,Montpellier,No,26,Male,1344.32
+T100266,C1051,2025-06-20 11:00:00,Clothing,9,409.86,Credit Card,Nantes,Yes,35,Male,3688.74
+T101913,C1041,2025-06-20 16:00:00,Beauty,9,493.07,Credit Card,Strasbourg,No,64,Male,4437.63
+T100884,C1147,2025-06-21 00:00:00,Beauty,8,30.76,Debit Card,Paris,No,23,Female,246.08
+T100432,C1364,2025-06-21 01:00:00,Groceries,6,166.68,Credit Card,Marseille,No,23,Male,1000.08
+T100379,C1160,2025-06-21 23:00:00,Clothing,3,64.48,Debit Card,Toulouse,No,23,Female,193.44
+T101104,C1334,2025-06-22 01:00:00,Clothing,8,212.13,Cash,Nice,Yes,35,Male,1697.04
+T100670,C1393,2025-06-22 03:00:00,Clothing,9,270.08,Digital Wallet,Nice,No,29,Other,2430.72
+T100530,C1263,2025-06-22 03:00:00,Groceries,6,48.35,Digital Wallet,Lyon,No,35,Other,290.1
+T100859,C1216,2025-06-22 06:00:00,Clothing,3,89.03,Credit Card,Lyon,No,36,Other,267.09
+T100380,C1407,2025-06-22 09:00:00,Groceries,7,269.6,Cash,Toulouse,No,54,Female,1887.2
+T101310,C1321,2025-06-22 09:00:00,Electronics,6,163.06,Cash,Montpellier,No,33,Other,978.36
+T101640,C1475,2025-06-22 17:00:00,Groceries,3,14.43,Cash,Nice,No,40,Other,43.29
+T100555,C1304,2025-06-22 18:00:00,Electronics,7,102.24,Debit Card,Strasbourg,No,44,Male,715.68
+T101320,C1485,2025-06-22 19:00:00,Home Decor,1,271.02,Cash,Toulouse,Yes,47,Female,271.02
+T101688,C1265,2025-06-22 20:00:00,Home Decor,1,490.33,Debit Card,Strasbourg,Yes,73,Male,490.33
+T101521,C1359,2025-06-23 02:00:00,Groceries,9,363.59,Debit Card,Nantes,No,34,Female,3272.31
+T100599,C1473,2025-06-23 16:00:00,Beauty,2,161.03,Credit Card,Strasbourg,No,60,Male,322.06
+T101259,C1110,2025-06-23 17:00:00,Home Decor,2,402.75,Cash,Lyon,No,18,Other,805.5
+T101598,C1089,2025-06-24 00:00:00,Clothing,2,242.99,Cash,Strasbourg,No,19,Other,485.98
+T100269,C1385,2025-06-24 04:00:00,Electronics,1,258.81,Cash,Strasbourg,No,19,Female,258.81
+T101601,C1385,2025-06-24 09:00:00,Home Decor,2,421.47,Digital Wallet,Marseille,No,65,Male,842.94
+T101404,C1327,2025-06-24 12:00:00,Home Decor,2,321.92,Cash,Toulouse,No,30,Male,643.84
+T100132,C1008,2025-06-24 13:00:00,Clothing,5,29.64,Cash,Toulouse,No,41,Female,148.2
+T101066,C1235,2025-06-24 14:00:00,Groceries,7,174.53,Credit Card,Marseille,No,69,Other,1221.71
+T101214,C1153,2025-06-24 16:00:00,Groceries,7,381.55,Cash,Lyon,No,22,Male,2670.85
+T100396,C1401,2025-06-24 16:00:00,Home Decor,5,335.67,Debit Card,Montpellier,No,67,Male,1678.35
+T100947,C1155,2025-06-24 19:00:00,Home Decor,9,412.78,Digital Wallet,Toulouse,No,34,Male,3715.02
+T101255,C1108,2025-06-24 19:00:00,Groceries,7,168.34,Debit Card,Strasbourg,Yes,36,Other,1178.38
+T101162,C1169,2025-06-24 22:00:00,Clothing,6,226.43,Debit Card,Lyon,No,28,Male,1358.58
+T101496,C1183,2025-06-25 05:00:00,Clothing,2,464.31,Digital Wallet,Paris,No,26,Male,928.62
+T101705,C1246,2025-06-25 05:00:00,Clothing,9,493.27,Cash,Paris,No,59,Female,4439.43
+T100792,C1222,2025-06-25 10:00:00,Groceries,9,108.71,Credit Card,Nice,No,51,Male,978.39
+T100070,C1052,2025-06-25 17:00:00,Home Decor,9,217.94,Credit Card,Marseille,Yes,66,Female,1961.46
+T100997,C1145,2025-06-25 19:00:00,Electronics,4,206.67,Debit Card,Paris,No,70,Male,826.68
+T101714,C1238,2025-06-25 19:00:00,Electronics,5,224.67,Debit Card,Paris,Yes,35,Male,1123.35
+T101967,C1015,2025-06-25 22:00:00,Beauty,2,428.43,Debit Card,Lyon,No,60,Male,856.86
+T101866,C1281,2025-06-26 04:00:00,Beauty,1,443.86,Debit Card,Strasbourg,No,27,Female,443.86
+T100049,C1445,2025-06-26 08:00:00,Beauty,4,452.46,Digital Wallet,Paris,No,40,Female,1809.84
+T101566,C1256,2025-06-26 09:00:00,Electronics,6,131.09,Cash,Marseille,No,43,Female,786.54
+T100722,C1263,2025-06-27 00:00:00,Home Decor,9,427.41,Debit Card,Paris,Yes,36,Other,3846.69
+T101499,C1135,2025-06-27 02:00:00,Clothing,8,122.44,Cash,Paris,No,21,Female,979.52
+T101681,C1384,2025-06-27 11:00:00,Home Decor,8,346.4,Digital Wallet,Strasbourg,Yes,55,Other,2771.2
+T100052,C1054,2025-06-27 17:00:00,Electronics,3,30.0,Cash,Toulouse,Yes,70,Male,90.0
+T100292,C1217,2025-06-27 22:00:00,Home Decor,5,40.92,Debit Card,Toulouse,Yes,19,Male,204.6
+T101158,C1276,2025-06-28 04:00:00,Electronics,7,120.53,Credit Card,Marseille,No,64,Male,843.71
+T100283,C1484,2025-06-28 13:00:00,Clothing,5,480.9,Digital Wallet,Montpellier,No,28,Female,2404.5
+T101785,C1157,2025-06-28 19:00:00,Beauty,8,295.91,Digital Wallet,Nantes,Yes,32,Female,2367.28
+T101063,C1267,2025-06-28 20:00:00,Home Decor,7,185.72,Debit Card,Nice,No,45,Other,1300.04
+T100173,C1461,2025-06-28 23:00:00,Clothing,1,204.38,Credit Card,Strasbourg,No,72,Male,204.38
+T101899,C1490,2025-06-29 00:00:00,Home Decor,4,359.5,Debit Card,Marseille,No,68,Female,1438.0
+T100462,C1098,2025-06-29 22:00:00,Groceries,6,323.19,Credit Card,Nantes,No,57,Male,1939.14
+T101251,C1067,2025-06-30 07:00:00,Clothing,5,75.1,Cash,Marseille,Yes,57,Other,375.5
+T101217,C1311,2025-06-30 09:00:00,Clothing,4,130.55,Debit Card,Marseille,No,65,Male,522.2
+T101322,C1061,2025-06-30 17:00:00,Groceries,8,224.84,Credit Card,Paris,Yes,35,Female,1798.72
+T101355,C1258,2025-06-30 23:00:00,Clothing,8,414.97,Cash,Marseille,No,43,Female,3319.76
+T100154,C1327,2025-06-30 23:00:00,Clothing,8,102.57,Cash,Strasbourg,No,65,Other,820.56
+T101528,C1301,2025-07-01 04:00:00,Electronics,6,129.77,Credit Card,Strasbourg,No,69,Female,778.62
+T101713,C1248,2025-07-01 05:00:00,Home Decor,1,415.44,Cash,Strasbourg,No,34,Other,415.44
+T101753,C1284,2025-07-01 09:00:00,Groceries,1,426.48,Debit Card,Marseille,No,47,Other,426.48
+T100714,C1385,2025-07-01 09:00:00,Electronics,5,61.31,Debit Card,Marseille,Yes,46,Female,306.55
+T100703,C1064,2025-07-01 13:00:00,Beauty,4,399.05,Credit Card,Strasbourg,No,18,Other,1596.2
+T101647,C1223,2025-07-01 13:00:00,Home Decor,9,237.8,Debit Card,Paris,No,32,Other,2140.2
+T101749,C1111,2025-07-01 17:00:00,Clothing,3,284.59,Digital Wallet,Nice,Yes,60,Other,853.77
+T101209,C1470,2025-07-01 19:00:00,Electronics,4,228.83,Cash,Marseille,No,23,Female,915.32
+T101405,C1266,2025-07-02 00:00:00,Groceries,4,439.36,Credit Card,Strasbourg,No,20,Female,1757.44
+T101058,C1437,2025-07-02 03:00:00,Home Decor,4,380.41,Cash,Marseille,No,74,Male,1521.64
+T101739,C1310,2025-07-02 04:00:00,Clothing,4,464.98,Debit Card,Lyon,No,30,Other,1859.92
+T100931,C1372,2025-07-02 08:00:00,Clothing,4,36.45,Digital Wallet,Strasbourg,No,53,Other,145.8
+T100592,C1318,2025-07-02 08:00:00,Home Decor,6,468.74,Credit Card,Paris,Yes,59,Other,2812.44
+T100004,C1106,2025-07-02 22:00:00,Electronics,6,194.67,Cash,Marseille,Yes,69,Male,1168.02
+T101126,C1125,2025-07-02 22:00:00,Clothing,9,373.46,Cash,Paris,No,40,Other,3361.14
+T101943,C1338,2025-07-03 00:00:00,Beauty,6,206.55,Digital Wallet,Nice,No,31,Female,1239.3
+T101830,C1377,2025-07-03 01:00:00,Clothing,4,229.86,Debit Card,Nice,Yes,58,Other,919.44
+T100619,C1372,2025-07-03 02:00:00,Clothing,4,365.15,Credit Card,Strasbourg,No,18,Other,1460.6
+T101930,C1442,2025-07-03 05:00:00,Home Decor,5,389.42,Cash,Montpellier,No,34,Male,1947.1
+T101281,C1228,2025-07-03 11:00:00,Clothing,3,384.05,Debit Card,Nantes,Yes,66,Other,1152.15
+T101948,C1214,2025-07-03 11:00:00,Groceries,9,71.72,Debit Card,Nice,Yes,18,Other,645.48
+T101999,C1013,2025-07-03 14:00:00,Electronics,1,240.79,Debit Card,Lyon,No,24,Female,240.79
+T101052,C1094,2025-07-03 19:00:00,Groceries,8,129.65,Debit Card,Paris,No,66,Female,1037.2
+T101636,C1176,2025-07-04 07:00:00,Clothing,7,288.88,Debit Card,Toulouse,No,54,Male,2022.16
+T100076,C1454,2025-07-05 02:00:00,Clothing,6,287.3,Digital Wallet,Toulouse,Yes,19,Other,1723.8
+T100645,C1237,2025-07-05 03:00:00,Beauty,9,11.75,Debit Card,Nantes,No,38,Female,105.75
+T100236,C1445,2025-07-05 21:00:00,Home Decor,2,321.44,Cash,Nantes,Yes,34,Other,642.88
+T100660,C1356,2025-07-05 22:00:00,Beauty,9,161.61,Debit Card,Montpellier,No,28,Female,1454.49
+T101159,C1004,2025-07-05 22:00:00,Home Decor,5,229.42,Credit Card,Marseille,Yes,24,Male,1147.1
+T101847,C1454,2025-07-06 07:00:00,Groceries,1,275.83,Debit Card,Toulouse,No,27,Other,275.83
+T101882,C1151,2025-07-06 12:00:00,Beauty,6,202.53,Cash,Montpellier,No,73,Other,1215.18
+T101218,C1370,2025-07-06 14:00:00,Home Decor,5,117.89,Digital Wallet,Nantes,Yes,61,Male,589.45
+T101297,C1151,2025-07-06 19:00:00,Clothing,5,158.12,Debit Card,Marseille,Yes,33,Male,790.6
+T101721,C1263,2025-07-06 20:00:00,Home Decor,1,299.19,Credit Card,Strasbourg,No,27,Male,299.19
+T101707,C1471,2025-07-06 23:00:00,Clothing,9,389.59,Cash,Montpellier,No,66,Female,3506.31
+T101111,C1284,2025-07-07 01:00:00,Groceries,1,152.84,Credit Card,Nantes,Yes,46,Female,152.84
+T100090,C1105,2025-07-07 06:00:00,Beauty,9,84.55,Credit Card,Montpellier,Yes,40,Other,760.95
+T101094,C1334,2025-07-07 08:00:00,Electronics,3,19.03,Debit Card,Montpellier,Yes,47,Other,57.09
+T100205,C1035,2025-07-07 09:00:00,Home Decor,5,300.57,Cash,Marseille,No,19,Other,1502.85
+T100531,C1493,2025-07-07 10:00:00,Beauty,2,318.76,Debit Card,Nantes,No,57,Female,637.52
+T101103,C1471,2025-07-07 12:00:00,Home Decor,6,172.19,Digital Wallet,Lyon,No,62,Female,1033.14
+T101257,C1110,2025-07-07 14:00:00,Groceries,8,451.24,Credit Card,Nice,No,19,Other,3609.92
+T100705,C1167,2025-07-07 19:00:00,Clothing,5,248.65,Debit Card,Nantes,Yes,37,Male,1243.25
+T100104,C1303,2025-07-07 23:00:00,Groceries,7,395.7,Debit Card,Montpellier,No,48,Other,2769.9
+T100618,C1236,2025-07-08 00:00:00,Groceries,7,208.87,Digital Wallet,Paris,No,40,Other,1462.09
+T101351,C1138,2025-07-08 03:00:00,Home Decor,9,341.38,Cash,Nice,No,28,Other,3072.42
+T101747,C1084,2025-07-08 17:00:00,Electronics,8,412.93,Digital Wallet,Strasbourg,No,69,Other,3303.44
+T101412,C1212,2025-07-08 22:00:00,Home Decor,7,479.37,Debit Card,Marseille,Yes,70,Male,3355.59
+T101076,C1406,2025-07-08 22:00:00,Electronics,1,171.1,Debit Card,Lyon,No,71,Female,171.1
+T100919,C1226,2025-07-09 07:00:00,Electronics,7,329.2,Debit Card,Montpellier,No,69,Other,2304.4
+T100582,C1307,2025-07-09 17:00:00,Electronics,2,174.26,Credit Card,Strasbourg,No,68,Female,348.52
+T101911,C1426,2025-07-09 18:00:00,Electronics,6,240.45,Digital Wallet,Toulouse,No,72,Other,1442.7
+T101867,C1028,2025-07-09 19:00:00,Home Decor,7,377.08,Cash,Lyon,No,42,Female,2639.56
+T101740,C1431,2025-07-10 04:00:00,Beauty,6,155.21,Cash,Nantes,Yes,42,Other,931.26
+T100089,C1053,2025-07-10 05:00:00,Electronics,1,248.93,Cash,Paris,No,25,Other,248.93
+T101855,C1121,2025-07-10 05:00:00,Electronics,3,104.58,Debit Card,Marseille,Yes,29,Other,313.74
+T101390,C1375,2025-07-10 18:00:00,Clothing,9,371.45,Credit Card,Paris,Yes,65,Female,3343.05
+T100837,C1173,2025-07-10 20:00:00,Groceries,8,137.8,Credit Card,Montpellier,No,31,Male,1102.4
+T100532,C1399,2025-07-10 20:00:00,Electronics,6,457.74,Cash,Lyon,No,38,Other,2746.44
+T100620,C1384,2025-07-10 21:00:00,Clothing,1,228.56,Credit Card,Strasbourg,No,36,Male,228.56
+T101821,C1041,2025-07-11 05:00:00,Clothing,5,194.07,Cash,Toulouse,Yes,72,Female,970.35
+T100315,C1200,2025-07-11 05:00:00,Home Decor,2,32.91,Credit Card,Marseille,No,23,Female,65.82
+T100923,C1401,2025-07-11 09:00:00,Groceries,6,467.14,Cash,Strasbourg,No,49,Female,2802.84
+T100933,C1373,2025-07-11 10:00:00,Home Decor,8,482.09,Cash,Paris,No,63,Male,3856.72
+T100119,C1409,2025-07-11 14:00:00,Electronics,6,352.92,Debit Card,Marseille,Yes,36,Female,2117.52
+T100542,C1214,2025-07-11 16:00:00,Clothing,6,89.78,Debit Card,Marseille,Yes,19,Female,538.68
+T100669,C1222,2025-07-11 18:00:00,Home Decor,3,446.58,Debit Card,Strasbourg,No,40,Male,1339.74
+T101919,C1228,2025-07-11 18:00:00,Clothing,6,448.06,Cash,Lyon,No,69,Male,2688.36
+T101415,C1338,2025-07-12 04:00:00,Electronics,1,84.74,Debit Card,Toulouse,No,22,Other,84.74
+T100991,C1364,2025-07-12 14:00:00,Groceries,7,161.76,Digital Wallet,Toulouse,No,68,Female,1132.32
+T101329,C1434,2025-07-12 16:00:00,Beauty,1,394.74,Credit Card,Montpellier,No,24,Female,394.74
+T101614,C1181,2025-07-12 16:00:00,Electronics,5,290.64,Debit Card,Nice,No,38,Female,1453.2
+T100029,C1443,2025-07-12 20:00:00,Beauty,6,274.22,Cash,Nice,No,34,Other,1645.32
+T100116,C1366,2025-07-12 21:00:00,Clothing,6,126.77,Digital Wallet,Paris,No,55,Female,760.62
+T101097,C1446,2025-07-13 07:00:00,Home Decor,6,133.22,Cash,Toulouse,No,48,Female,799.32
+T100903,C1133,2025-07-13 23:00:00,Home Decor,6,249.94,Digital Wallet,Toulouse,Yes,40,Male,1499.64
+T100062,C1273,2025-07-14 01:00:00,Electronics,4,99.79,Digital Wallet,Nice,No,41,Other,399.16
+T100981,C1255,2025-07-14 11:00:00,Beauty,4,78.89,Cash,Nice,No,51,Female,315.56
+T101349,C1292,2025-07-14 14:00:00,Home Decor,4,209.53,Debit Card,Nantes,No,73,Female,838.12
+T101958,C1142,2025-07-14 15:00:00,Home Decor,8,385.74,Digital Wallet,Nantes,No,39,Other,3085.92
+T100871,C1090,2025-07-15 03:00:00,Beauty,7,128.73,Digital Wallet,Marseille,No,25,Female,901.11
+T101556,C1377,2025-07-15 11:00:00,Groceries,5,14.71,Debit Card,Montpellier,Yes,35,Female,73.55
+T100422,C1459,2025-07-15 12:00:00,Beauty,9,445.4,Credit Card,Toulouse,No,39,Female,4008.6
+T101442,C1224,2025-07-16 01:00:00,Groceries,1,222.86,Digital Wallet,Paris,Yes,18,Male,222.86
+T101333,C1325,2025-07-16 10:00:00,Electronics,6,444.34,Cash,Lyon,No,60,Other,2666.04
+T100774,C1083,2025-07-16 18:00:00,Home Decor,4,367.19,Debit Card,Marseille,No,41,Female,1468.76
+T101395,C1482,2025-07-17 00:00:00,Groceries,3,329.41,Cash,Lyon,No,40,Other,988.23
+T100746,C1407,2025-07-17 01:00:00,Clothing,8,475.35,Credit Card,Nantes,No,69,Other,3802.8
+T100677,C1492,2025-07-17 03:00:00,Groceries,7,231.33,Debit Card,Paris,Yes,41,Male,1619.31
+T100280,C1219,2025-07-17 04:00:00,Clothing,7,204.81,Cash,Montpellier,Yes,24,Male,1433.67
+T100034,C1021,2025-07-17 06:00:00,Electronics,8,332.64,Digital Wallet,Marseille,No,27,Other,2661.12
+T100680,C1279,2025-07-17 14:00:00,Electronics,3,56.81,Cash,Paris,No,63,Male,170.43
+T101156,C1050,2025-07-17 15:00:00,Clothing,4,407.28,Cash,Marseille,No,68,Male,1629.12
+T100689,C1339,2025-07-17 16:00:00,Clothing,8,223.56,Debit Card,Marseille,No,51,Other,1788.48
+T100152,C1134,2025-07-18 02:00:00,Electronics,7,492.54,Credit Card,Lyon,Yes,31,Female,3447.78
+T101247,C1144,2025-07-18 09:00:00,Groceries,7,61.93,Credit Card,Nice,No,41,Female,433.51
+T101626,C1149,2025-07-18 13:00:00,Home Decor,6,174.81,Cash,Montpellier,No,71,Other,1048.86
+T100728,C1114,2025-07-18 20:00:00,Electronics,4,300.38,Debit Card,Montpellier,Yes,20,Other,1201.52
+T100552,C1313,2025-07-19 16:00:00,Groceries,5,134.71,Digital Wallet,Marseille,No,35,Male,673.55
+T100427,C1021,2025-07-19 17:00:00,Home Decor,4,303.59,Cash,Strasbourg,No,35,Other,1214.36
+T101985,C1314,2025-07-19 22:00:00,Clothing,7,408.03,Credit Card,Nice,No,37,Other,2856.21
+T100559,C1270,2025-07-19 22:00:00,Home Decor,9,358.09,Debit Card,Nice,Yes,40,Female,3222.81
+T101862,C1306,2025-07-19 22:00:00,Clothing,1,130.43,Debit Card,Toulouse,No,21,Other,130.43
+T100885,C1475,2025-07-20 08:00:00,Clothing,6,442.7,Digital Wallet,Toulouse,No,66,Female,2656.2
+T101896,C1336,2025-07-20 19:00:00,Home Decor,3,290.32,Cash,Toulouse,Yes,24,Female,870.96
+T100831,C1441,2025-07-20 19:00:00,Groceries,3,53.99,Debit Card,Marseille,No,43,Other,161.97
+T101382,C1304,2025-07-21 01:00:00,Clothing,4,437.42,Debit Card,Paris,Yes,50,Other,1749.68
+T100958,C1027,2025-07-21 01:00:00,Clothing,6,213.21,Debit Card,Nantes,No,19,Other,1279.26
+T100653,C1431,2025-07-21 05:00:00,Beauty,5,119.52,Cash,Toulouse,No,24,Male,597.6
+T101897,C1445,2025-07-21 11:00:00,Beauty,2,397.04,Debit Card,Strasbourg,No,44,Other,794.08
+T101270,C1100,2025-07-21 13:00:00,Electronics,3,437.26,Debit Card,Toulouse,No,21,Other,1311.78
+T100393,C1098,2025-07-21 17:00:00,Home Decor,5,10.83,Digital Wallet,Nantes,Yes,19,Female,54.15
+T100220,C1027,2025-07-21 18:00:00,Beauty,6,237.24,Debit Card,Montpellier,No,59,Female,1423.44
+T101550,C1327,2025-07-21 20:00:00,Groceries,5,479.13,Digital Wallet,Lyon,No,69,Male,2395.65
+T101986,C1214,2025-07-22 04:00:00,Home Decor,3,452.47,Credit Card,Marseille,No,36,Male,1357.41
+T101746,C1150,2025-07-22 10:00:00,Home Decor,6,140.9,Digital Wallet,Paris,No,72,Other,845.4
+T101514,C1298,2025-07-22 17:00:00,Home Decor,5,442.26,Credit Card,Marseille,No,24,Male,2211.3
+T101061,C1378,2025-07-22 18:00:00,Beauty,8,11.9,Digital Wallet,Paris,No,65,Male,95.2
+T100358,C1059,2025-07-22 18:00:00,Groceries,5,61.13,Credit Card,Paris,No,53,Female,305.65
+T100726,C1089,2025-07-22 19:00:00,Beauty,9,411.79,Cash,Strasbourg,No,48,Other,3706.11
+T100868,C1363,2025-07-22 20:00:00,Home Decor,2,367.7,Digital Wallet,Paris,Yes,46,Male,735.4
+T101082,C1074,2025-07-23 01:00:00,Electronics,5,223.43,Cash,Marseille,No,46,Other,1117.15
+T100270,C1386,2025-07-23 04:00:00,Clothing,7,202.13,Cash,Nantes,No,30,Other,1414.91
+T100998,C1223,2025-07-23 05:00:00,Electronics,2,468.79,Digital Wallet,Strasbourg,Yes,58,Male,937.58
+T101459,C1447,2025-07-23 06:00:00,Clothing,7,251.5,Debit Card,Montpellier,No,22,Male,1760.5
+T100197,C1221,2025-07-23 07:00:00,Groceries,2,346.85,Digital Wallet,Nantes,No,38,Other,693.7
+T101635,C1360,2025-07-23 14:00:00,Beauty,8,29.33,Digital Wallet,Toulouse,Yes,52,Other,234.64
+T101875,C1294,2025-07-24 16:00:00,Clothing,9,106.23,Debit Card,Toulouse,No,64,Female,956.07
+T101135,C1182,2025-07-24 22:00:00,Electronics,6,393.61,Cash,Nice,Yes,44,Male,2361.66
+T101864,C1291,2025-07-25 02:00:00,Electronics,1,20.1,Cash,Lyon,No,36,Female,20.1
+T101592,C1153,2025-07-25 06:00:00,Electronics,6,72.8,Digital Wallet,Marseille,No,26,Female,436.8
+T100860,C1300,2025-07-25 08:00:00,Electronics,1,483.0,Digital Wallet,Montpellier,No,56,Male,483.0
+T101373,C1272,2025-07-25 15:00:00,Beauty,6,90.55,Debit Card,Nice,No,51,Female,543.3
+T100478,C1468,2025-07-25 19:00:00,Groceries,5,309.38,Digital Wallet,Lyon,No,21,Other,1546.9
+T101427,C1327,2025-07-25 23:00:00,Home Decor,6,114.64,Debit Card,Toulouse,Yes,57,Female,687.84
+T100222,C1043,2025-07-26 00:00:00,Groceries,8,54.81,Credit Card,Marseille,Yes,55,Other,438.48
+T101692,C1161,2025-07-26 03:00:00,Groceries,5,164.43,Debit Card,Lyon,No,36,Other,822.15
+T100274,C1439,2025-07-26 05:00:00,Beauty,3,436.42,Credit Card,Nantes,No,34,Other,1309.26
+T101474,C1484,2025-07-26 09:00:00,Beauty,9,269.19,Credit Card,Nantes,No,59,Other,2422.71
+T101727,C1287,2025-07-26 10:00:00,Groceries,3,117.57,Debit Card,Strasbourg,No,72,Female,352.71
+T101763,C1385,2025-07-26 11:00:00,Clothing,8,369.46,Cash,Nice,No,62,Other,2955.68
+T101657,C1157,2025-07-26 15:00:00,Home Decor,6,409.47,Cash,Lyon,No,34,Male,2456.82
+T101679,C1318,2025-07-26 15:00:00,Home Decor,9,163.23,Digital Wallet,Paris,No,58,Female,1469.07
+T100843,C1282,2025-07-26 17:00:00,Electronics,5,20.43,Digital Wallet,Paris,No,34,Other,102.15
+T101617,C1454,2025-07-26 20:00:00,Beauty,5,496.44,Cash,Paris,No,38,Other,2482.2
+T101789,C1214,2025-07-26 20:00:00,Clothing,4,240.9,Debit Card,Marseille,Yes,39,Female,963.6
+T101462,C1110,2025-07-27 01:00:00,Home Decor,6,354.98,Digital Wallet,Strasbourg,No,68,Other,2129.88
+T101729,C1301,2025-07-27 04:00:00,Groceries,5,335.46,Digital Wallet,Lyon,No,53,Other,1677.3
+T100146,C1378,2025-07-27 07:00:00,Home Decor,2,168.01,Debit Card,Lyon,No,43,Male,336.02
+T101841,C1218,2025-07-27 08:00:00,Electronics,7,19.86,Digital Wallet,Marseille,No,71,Other,139.02
+T100388,C1339,2025-07-27 16:00:00,Home Decor,2,363.83,Debit Card,Montpellier,No,70,Female,727.66
+T101077,C1206,2025-07-27 17:00:00,Clothing,2,488.13,Digital Wallet,Montpellier,No,32,Male,976.26
+T101946,C1148,2025-07-27 17:00:00,Groceries,6,274.02,Cash,Nantes,Yes,65,Female,1644.12
+T101860,C1362,2025-07-27 21:00:00,Clothing,4,254.67,Debit Card,Nantes,No,25,Female,1018.68
+T101662,C1285,2025-07-28 02:00:00,Home Decor,9,211.91,Debit Card,Toulouse,No,47,Female,1907.19
+T100165,C1359,2025-07-28 07:00:00,Beauty,3,450.95,Debit Card,Nantes,No,20,Other,1352.85
+T101525,C1022,2025-07-28 08:00:00,Home Decor,7,145.63,Cash,Lyon,No,71,Female,1019.41
+T101587,C1136,2025-07-28 10:00:00,Home Decor,2,33.61,Credit Card,Nice,Yes,28,Female,67.22
+T101759,C1196,2025-07-28 13:00:00,Electronics,7,10.76,Digital Wallet,Nice,Yes,52,Female,75.32
+T101776,C1052,2025-07-28 19:00:00,Electronics,1,378.66,Debit Card,Nice,Yes,29,Other,378.66
+T100008,C1102,2025-07-29 00:00:00,Electronics,1,137.27,Digital Wallet,Montpellier,No,72,Female,137.27
+T100783,C1395,2025-07-29 09:00:00,Groceries,9,229.36,Cash,Nantes,Yes,28,Female,2064.24
+T101269,C1424,2025-07-29 13:00:00,Clothing,2,89.7,Debit Card,Strasbourg,No,55,Other,179.4
+T101944,C1263,2025-07-29 15:00:00,Electronics,2,207.55,Cash,Strasbourg,No,49,Male,415.1
+T101886,C1311,2025-07-29 16:00:00,Electronics,8,219.32,Digital Wallet,Toulouse,Yes,57,Female,1754.56
+T100961,C1040,2025-07-29 18:00:00,Home Decor,9,184.78,Digital Wallet,Montpellier,No,40,Male,1663.02
+T101430,C1013,2025-07-29 19:00:00,Clothing,1,148.15,Cash,Nantes,No,71,Male,148.15
+T101956,C1088,2025-07-30 02:00:00,Groceries,9,454.95,Debit Card,Nice,No,71,Male,4094.55
+T100644,C1093,2025-07-30 04:00:00,Electronics,8,63.64,Debit Card,Marseille,No,42,Other,509.12
+T100567,C1059,2025-07-30 06:00:00,Electronics,6,355.84,Debit Card,Toulouse,Yes,58,Male,2135.04
+T101170,C1011,2025-07-30 11:00:00,Beauty,6,292.46,Credit Card,Nantes,No,50,Female,1754.76
+T101663,C1143,2025-07-30 11:00:00,Electronics,7,284.95,Digital Wallet,Nantes,Yes,39,Male,1994.65
+T100665,C1324,2025-07-30 21:00:00,Clothing,1,9.18,Cash,Paris,No,44,Female,9.18
+T100217,C1440,2025-07-30 21:00:00,Home Decor,2,346.59,Credit Card,Montpellier,Yes,42,Other,693.18
+T101507,C1410,2025-07-31 12:00:00,Electronics,1,148.3,Digital Wallet,Lyon,Yes,25,Female,148.3
+T101569,C1404,2025-08-01 08:00:00,Clothing,1,208.65,Debit Card,Paris,No,55,Male,208.65
+T100597,C1345,2025-08-01 11:00:00,Beauty,8,65.91,Cash,Paris,No,34,Male,527.28
+T100527,C1172,2025-08-01 17:00:00,Home Decor,6,74.86,Credit Card,Montpellier,Yes,66,Other,449.16
+T101163,C1316,2025-08-01 20:00:00,Electronics,8,395.98,Credit Card,Lyon,No,27,Male,3167.84
+T100528,C1019,2025-08-01 20:00:00,Electronics,2,5.39,Credit Card,Strasbourg,No,29,Other,10.78
+T100812,C1108,2025-08-01 23:00:00,Home Decor,5,239.24,Credit Card,Nice,Yes,73,Other,1196.2
+T100707,C1042,2025-08-01 23:00:00,Groceries,9,209.39,Cash,Paris,No,23,Female,1884.51
+T101981,C1370,2025-08-02 07:00:00,Beauty,9,361.84,Credit Card,Toulouse,No,49,Female,3256.56
+T100383,C1112,2025-08-02 08:00:00,Groceries,2,366.69,Cash,Marseille,Yes,70,Female,733.38
+T100762,C1267,2025-08-02 14:00:00,Home Decor,4,141.07,Cash,Lyon,No,65,Male,564.28
+T101935,C1056,2025-08-02 16:00:00,Clothing,8,310.59,Credit Card,Strasbourg,Yes,52,Male,2484.72
+T101385,C1443,2025-08-02 16:00:00,Clothing,9,337.02,Credit Card,Lyon,No,48,Male,3033.18
+T101758,C1302,2025-08-02 17:00:00,Clothing,9,228.02,Digital Wallet,Paris,No,53,Male,2052.18
+T101667,C1256,2025-08-03 02:00:00,Groceries,1,71.32,Debit Card,Toulouse,No,55,Female,71.32
+T101115,C1400,2025-08-03 13:00:00,Electronics,3,250.02,Credit Card,Paris,No,64,Female,750.06
+T100946,C1407,2025-08-03 16:00:00,Home Decor,4,269.44,Cash,Toulouse,No,52,Female,1077.76
+T100855,C1341,2025-08-03 21:00:00,Electronics,5,278.16,Cash,Strasbourg,No,19,Female,1390.8
+T101783,C1080,2025-08-03 23:00:00,Groceries,3,471.59,Digital Wallet,Montpellier,Yes,62,Male,1414.77
+T100887,C1316,2025-08-04 00:00:00,Clothing,8,224.44,Credit Card,Paris,Yes,48,Female,1795.52
+T100054,C1319,2025-08-04 02:00:00,Beauty,9,361.58,Digital Wallet,Nice,No,59,Male,3254.22
+T101188,C1106,2025-08-04 07:00:00,Beauty,6,479.82,Digital Wallet,Nantes,No,29,Other,2878.92
+T101801,C1280,2025-08-04 09:00:00,Home Decor,4,173.59,Debit Card,Marseille,No,35,Female,694.36
+T101304,C1039,2025-08-04 09:00:00,Electronics,5,458.39,Cash,Paris,Yes,51,Other,2291.95
+T101413,C1164,2025-08-04 18:00:00,Groceries,6,53.37,Digital Wallet,Nice,Yes,20,Female,320.22
+T101060,C1258,2025-08-04 22:00:00,Groceries,6,409.35,Cash,Paris,No,72,Female,2456.1
+T100715,C1252,2025-08-05 12:00:00,Groceries,7,208.43,Credit Card,Strasbourg,No,55,Other,1459.01
+T100289,C1129,2025-08-05 17:00:00,Beauty,1,286.89,Cash,Strasbourg,No,62,Male,286.89
+T100581,C1423,2025-08-05 22:00:00,Groceries,1,247.16,Cash,Marseille,No,53,Male,247.16
+T101232,C1191,2025-08-05 23:00:00,Home Decor,4,227.8,Debit Card,Lyon,No,53,Other,911.2
+T101706,C1322,2025-08-05 23:00:00,Home Decor,4,367.48,Debit Card,Strasbourg,No,36,Other,1469.92
+T101160,C1465,2025-08-06 00:00:00,Beauty,2,260.97,Debit Card,Paris,No,54,Female,521.94
+T100817,C1397,2025-08-06 00:00:00,Electronics,4,421.7,Digital Wallet,Paris,No,44,Male,1686.8
+T101239,C1440,2025-08-06 03:00:00,Electronics,8,211.03,Digital Wallet,Paris,Yes,65,Other,1688.24
+T100734,C1492,2025-08-06 04:00:00,Clothing,7,182.87,Digital Wallet,Nantes,Yes,62,Female,1280.09
+T100414,C1383,2025-08-06 05:00:00,Beauty,7,485.75,Credit Card,Toulouse,No,38,Other,3400.25
+T101453,C1133,2025-08-06 09:00:00,Beauty,1,105.75,Credit Card,Toulouse,Yes,41,Male,105.75
+T100304,C1293,2025-08-06 10:00:00,Clothing,8,305.31,Debit Card,Nantes,No,53,Other,2442.48
+T101839,C1286,2025-08-06 20:00:00,Home Decor,3,132.13,Digital Wallet,Marseille,No,54,Female,396.39
+T100635,C1484,2025-08-07 01:00:00,Electronics,2,435.2,Digital Wallet,Marseille,Yes,54,Male,870.4
+T101878,C1309,2025-08-07 12:00:00,Beauty,1,168.74,Debit Card,Montpellier,No,69,Male,168.74
+T100114,C1236,2025-08-07 16:00:00,Beauty,7,224.15,Digital Wallet,Strasbourg,No,21,Male,1569.05
+T101458,C1041,2025-08-07 16:00:00,Beauty,7,22.63,Digital Wallet,Marseille,No,55,Female,158.41
+T101064,C1448,2025-08-07 17:00:00,Home Decor,7,307.69,Digital Wallet,Montpellier,No,30,Other,2153.83
+T100790,C1283,2025-08-08 00:00:00,Groceries,8,62.82,Credit Card,Toulouse,No,60,Male,502.56
+T101666,C1017,2025-08-08 05:00:00,Clothing,6,458.96,Credit Card,Montpellier,No,33,Female,2753.76
+T101997,C1102,2025-08-08 08:00:00,Groceries,7,224.25,Digital Wallet,Paris,No,46,Female,1569.75
+T100227,C1127,2025-08-08 11:00:00,Home Decor,6,232.75,Debit Card,Nice,No,57,Other,1396.5
+T100711,C1011,2025-08-08 13:00:00,Home Decor,2,126.18,Cash,Lyon,No,46,Female,252.36
+T100574,C1364,2025-08-08 16:00:00,Groceries,9,449.16,Debit Card,Toulouse,No,27,Male,4042.44
+T101638,C1117,2025-08-08 19:00:00,Clothing,6,124.75,Debit Card,Toulouse,No,64,Female,748.5
+T101645,C1326,2025-08-09 02:00:00,Clothing,2,27.22,Credit Card,Strasbourg,No,42,Male,54.44
+T101332,C1132,2025-08-09 03:00:00,Home Decor,2,72.44,Debit Card,Lyon,No,33,Other,144.88
+T101118,C1339,2025-08-09 06:00:00,Groceries,8,107.01,Credit Card,Nice,Yes,63,Other,856.08
+T101644,C1048,2025-08-09 09:00:00,Groceries,9,222.32,Credit Card,Paris,Yes,43,Female,2000.88
+T101889,C1035,2025-08-09 13:00:00,Home Decor,6,352.57,Debit Card,Strasbourg,Yes,28,Male,2115.42
+T100512,C1175,2025-08-09 19:00:00,Beauty,5,115.51,Cash,Nice,Yes,63,Other,577.55
+T101914,C1024,2025-08-09 20:00:00,Clothing,2,469.19,Digital Wallet,Strasbourg,No,60,Other,938.38
+T100213,C1065,2025-08-09 22:00:00,Clothing,4,95.0,Credit Card,Lyon,No,74,Female,380.0
+T101687,C1287,2025-08-10 00:00:00,Groceries,4,416.73,Digital Wallet,Nantes,No,43,Male,1666.92
+T101857,C1063,2025-08-10 02:00:00,Beauty,1,427.07,Digital Wallet,Lyon,Yes,23,Other,427.07
+T100110,C1189,2025-08-10 04:00:00,Electronics,2,37.87,Cash,Marseille,No,68,Female,75.74
+T101219,C1006,2025-08-10 08:00:00,Electronics,5,10.71,Debit Card,Nice,No,34,Female,53.55
+T101790,C1127,2025-08-10 13:00:00,Groceries,5,151.55,Credit Card,Strasbourg,No,40,Other,757.75
+T101271,C1005,2025-08-11 02:00:00,Groceries,4,353.93,Debit Card,Montpellier,No,34,Male,1415.72
+T100575,C1479,2025-08-11 07:00:00,Electronics,4,261.52,Digital Wallet,Paris,No,55,Male,1046.08
+T100196,C1387,2025-08-11 08:00:00,Beauty,6,37.47,Digital Wallet,Marseille,Yes,38,Male,224.82
+T100291,C1171,2025-08-11 23:00:00,Beauty,1,43.78,Digital Wallet,Montpellier,No,67,Female,43.78
+T100108,C1214,2025-08-12 01:00:00,Clothing,4,155.12,Credit Card,Marseille,No,63,Female,620.48
+T101633,C1336,2025-08-12 07:00:00,Beauty,6,294.19,Digital Wallet,Strasbourg,No,48,Female,1765.14
+T100631,C1075,2025-08-12 09:00:00,Clothing,5,230.55,Debit Card,Toulouse,Yes,39,Female,1152.75
+T100608,C1121,2025-08-12 10:00:00,Groceries,6,56.18,Cash,Montpellier,Yes,33,Female,337.08
+T100100,C1445,2025-08-12 12:00:00,Home Decor,4,25.09,Digital Wallet,Toulouse,Yes,72,Male,100.36
+T100075,C1443,2025-08-12 18:00:00,Home Decor,4,304.98,Cash,Strasbourg,No,34,Other,1219.92
+T101222,C1406,2025-08-12 20:00:00,Home Decor,7,62.85,Digital Wallet,Marseille,No,27,Other,439.95
+T101266,C1235,2025-08-12 20:00:00,Home Decor,3,113.96,Digital Wallet,Nantes,No,52,Male,341.88
+T100241,C1258,2025-08-13 02:00:00,Home Decor,4,355.43,Cash,Toulouse,No,73,Male,1421.72
+T101072,C1400,2025-08-13 07:00:00,Clothing,7,257.32,Debit Card,Nantes,No,52,Female,1801.24
+T100954,C1135,2025-08-13 11:00:00,Clothing,3,204.14,Credit Card,Marseille,No,64,Other,612.42
+T100127,C1014,2025-08-14 03:00:00,Electronics,1,431.5,Credit Card,Lyon,Yes,35,Other,431.5
+T100038,C1048,2025-08-14 06:00:00,Clothing,8,64.28,Debit Card,Nice,Yes,26,Other,514.24
+T100044,C1463,2025-08-14 08:00:00,Electronics,9,85.64,Debit Card,Paris,No,73,Other,770.76
+T101237,C1201,2025-08-14 12:00:00,Clothing,5,107.38,Cash,Toulouse,No,40,Male,536.9
+T100455,C1171,2025-08-14 13:00:00,Electronics,2,322.93,Digital Wallet,Montpellier,Yes,23,Other,645.86
+T101265,C1368,2025-08-14 14:00:00,Clothing,7,12.56,Debit Card,Strasbourg,No,66,Female,87.92
+T100813,C1180,2025-08-14 21:00:00,Groceries,2,310.77,Credit Card,Strasbourg,No,46,Female,621.54
+T100066,C1013,2025-08-14 23:00:00,Beauty,8,163.75,Digital Wallet,Lyon,Yes,53,Male,1310.0
+T100649,C1203,2025-08-15 04:00:00,Home Decor,5,151.4,Credit Card,Nantes,No,43,Other,757.0
+T100771,C1272,2025-08-15 05:00:00,Home Decor,5,81.11,Credit Card,Nantes,No,48,Other,405.55
+T100869,C1181,2025-08-15 08:00:00,Beauty,7,344.51,Debit Card,Toulouse,No,65,Other,2411.57
+T100808,C1150,2025-08-15 08:00:00,Groceries,4,320.16,Cash,Strasbourg,No,65,Other,1280.64
+T101903,C1449,2025-08-15 10:00:00,Home Decor,9,406.56,Debit Card,Nice,No,74,Other,3659.04
+T101177,C1300,2025-08-15 11:00:00,Groceries,6,89.49,Debit Card,Montpellier,No,60,Other,536.94
+T101196,C1007,2025-08-15 12:00:00,Groceries,8,252.02,Debit Card,Montpellier,No,55,Other,2016.16
+T101922,C1434,2025-08-15 18:00:00,Electronics,6,210.81,Digital Wallet,Nantes,Yes,18,Male,1264.86
+T100838,C1140,2025-08-15 20:00:00,Beauty,7,25.28,Credit Card,Montpellier,No,24,Female,176.96
+T101211,C1215,2025-08-16 05:00:00,Beauty,1,28.74,Credit Card,Toulouse,Yes,48,Other,28.74
+T101375,C1458,2025-08-16 06:00:00,Home Decor,1,35.46,Debit Card,Lyon,Yes,35,Other,35.46
+T101311,C1467,2025-08-16 08:00:00,Beauty,5,129.84,Credit Card,Nantes,No,74,Male,649.2
+T100566,C1052,2025-08-16 10:00:00,Electronics,8,254.42,Digital Wallet,Lyon,Yes,36,Other,2035.36
+T100718,C1034,2025-08-16 23:00:00,Electronics,7,93.33,Credit Card,Nantes,Yes,25,Female,653.31
+T100418,C1400,2025-08-17 00:00:00,Electronics,6,82.83,Cash,Toulouse,Yes,62,Female,496.98
+T101849,C1172,2025-08-17 05:00:00,Beauty,8,160.93,Credit Card,Nantes,No,71,Other,1287.44
+T101180,C1281,2025-08-17 12:00:00,Home Decor,1,132.68,Cash,Nice,No,73,Male,132.68
+T100659,C1221,2025-08-17 15:00:00,Groceries,2,315.49,Digital Wallet,Nice,No,55,Male,630.98
+T101883,C1245,2025-08-17 16:00:00,Clothing,7,490.06,Debit Card,Paris,No,62,Other,3430.42
+T100519,C1305,2025-08-17 21:00:00,Beauty,1,375.38,Cash,Montpellier,No,54,Female,375.38
+T101769,C1260,2025-08-18 01:00:00,Electronics,6,44.42,Cash,Strasbourg,No,43,Other,266.52
+T101710,C1254,2025-08-18 17:00:00,Beauty,3,46.48,Credit Card,Montpellier,No,38,Female,139.44
+T101467,C1230,2025-08-18 19:00:00,Beauty,4,72.29,Debit Card,Montpellier,Yes,40,Male,289.16
+T100650,C1399,2025-08-18 20:00:00,Groceries,5,250.35,Credit Card,Nice,No,61,Male,1251.75
+T100452,C1191,2025-08-19 00:00:00,Groceries,6,359.58,Cash,Toulouse,No,32,Male,2157.48
+T100514,C1476,2025-08-19 17:00:00,Groceries,1,215.82,Credit Card,Nantes,Yes,71,Male,215.82
+T100251,C1233,2025-08-19 19:00:00,Groceries,5,499.46,Digital Wallet,Lyon,Yes,55,Other,2497.3
+T100537,C1142,2025-08-20 02:00:00,Home Decor,1,86.15,Credit Card,Paris,No,72,Other,86.15
+T101708,C1470,2025-08-20 06:00:00,Home Decor,6,436.87,Cash,Nice,No,69,Female,2621.22
+T101093,C1285,2025-08-20 07:00:00,Clothing,3,323.99,Cash,Lyon,No,36,Male,971.97
+T101910,C1060,2025-08-20 09:00:00,Groceries,1,166.32,Credit Card,Paris,No,69,Male,166.32
+T100896,C1190,2025-08-20 20:00:00,Beauty,6,409.03,Cash,Strasbourg,No,28,Other,2454.18
+T100763,C1368,2025-08-20 20:00:00,Home Decor,1,21.24,Debit Card,Toulouse,Yes,29,Female,21.24
+T100925,C1232,2025-08-21 08:00:00,Beauty,2,120.64,Debit Card,Lyon,No,49,Other,241.28
+T101245,C1299,2025-08-21 16:00:00,Clothing,9,393.9,Cash,Paris,No,67,Female,3545.1
+T101921,C1171,2025-08-21 16:00:00,Beauty,7,481.07,Debit Card,Nantes,Yes,56,Female,3367.49
+T100102,C1269,2025-08-21 16:00:00,Clothing,3,417.33,Digital Wallet,Lyon,No,67,Other,1251.99
+T100538,C1091,2025-08-21 19:00:00,Clothing,7,369.3,Digital Wallet,Marseille,No,58,Other,2585.1
+T101121,C1033,2025-08-21 20:00:00,Home Decor,5,413.53,Digital Wallet,Toulouse,No,45,Female,2067.65
+T101591,C1116,2025-08-22 10:00:00,Clothing,4,204.76,Digital Wallet,Marseille,No,18,Other,819.04
+T101558,C1050,2025-08-22 22:00:00,Clothing,4,263.96,Digital Wallet,Nice,No,47,Other,1055.84
+T100296,C1246,2025-08-22 22:00:00,Groceries,7,273.72,Digital Wallet,Marseille,No,41,Male,1916.04
+T100970,C1460,2025-08-23 00:00:00,Home Decor,1,320.86,Cash,Montpellier,No,55,Other,320.86
+T101273,C1281,2025-08-23 11:00:00,Beauty,1,326.8,Digital Wallet,Montpellier,No,38,Other,326.8
+T101164,C1021,2025-08-23 12:00:00,Clothing,1,311.08,Debit Card,Nantes,Yes,74,Female,311.08
+T100020,C1149,2025-08-24 14:00:00,Electronics,3,448.07,Debit Card,Nice,No,23,Other,1344.21
+T100019,C1130,2025-08-24 15:00:00,Electronics,6,154.63,Digital Wallet,Nantes,No,27,Female,927.78
+T101806,C1234,2025-08-24 23:00:00,Beauty,2,146.9,Credit Card,Marseille,No,61,Female,293.8
+T100080,C1034,2025-08-25 00:00:00,Beauty,8,107.87,Credit Card,Nantes,No,71,Female,862.96
+T100458,C1476,2025-08-25 01:00:00,Beauty,9,390.05,Digital Wallet,Marseille,No,49,Female,3510.45
+T101676,C1221,2025-08-25 01:00:00,Home Decor,6,294.64,Digital Wallet,Strasbourg,No,43,Female,1767.84
+T101187,C1349,2025-08-25 01:00:00,Beauty,7,49.37,Credit Card,Toulouse,No,22,Female,345.59
+T101331,C1299,2025-08-25 08:00:00,Electronics,6,165.33,Digital Wallet,Lyon,No,66,Other,991.98
+T101907,C1016,2025-08-25 13:00:00,Clothing,6,266.25,Digital Wallet,Lyon,No,24,Female,1597.5
+T100915,C1202,2025-08-25 19:00:00,Groceries,5,267.27,Debit Card,Paris,No,26,Male,1336.35
+T101987,C1476,2025-08-25 20:00:00,Groceries,7,12.74,Digital Wallet,Nice,No,53,Male,89.18
+T100606,C1128,2025-08-26 06:00:00,Beauty,5,115.43,Cash,Strasbourg,No,23,Other,577.15
+T100782,C1099,2025-08-26 07:00:00,Home Decor,2,393.06,Cash,Marseille,Yes,22,Male,786.12
+T101942,C1215,2025-08-26 07:00:00,Beauty,5,180.79,Credit Card,Toulouse,No,18,Other,903.95
+T100486,C1280,2025-08-26 19:00:00,Beauty,2,40.82,Cash,Montpellier,Yes,42,Other,81.64
+T101685,C1358,2025-08-27 02:00:00,Beauty,6,54.33,Credit Card,Nice,No,70,Other,325.98
+T101369,C1320,2025-08-27 08:00:00,Beauty,3,137.95,Debit Card,Nice,Yes,35,Male,413.85
+T101605,C1417,2025-08-27 12:00:00,Groceries,5,65.84,Cash,Strasbourg,No,23,Female,329.2
+T101787,C1058,2025-08-27 22:00:00,Clothing,5,105.84,Credit Card,Nice,No,34,Male,529.2
+T100941,C1223,2025-08-28 00:00:00,Beauty,9,15.99,Debit Card,Montpellier,No,74,Male,143.91
+T101275,C1225,2025-08-28 10:00:00,Home Decor,5,478.33,Cash,Montpellier,Yes,65,Other,2391.65
+T101389,C1372,2025-08-29 00:00:00,Electronics,7,454.09,Credit Card,Strasbourg,No,38,Male,3178.63
+T100045,C1270,2025-08-29 02:00:00,Electronics,3,407.14,Digital Wallet,Paris,No,20,Male,1221.42
+T100913,C1373,2025-08-29 02:00:00,Clothing,7,124.88,Credit Card,Lyon,No,47,Male,874.16
+T101315,C1334,2025-08-29 02:00:00,Clothing,7,423.87,Debit Card,Toulouse,No,44,Female,2967.09
+T100051,C1363,2025-08-29 09:00:00,Beauty,3,278.41,Credit Card,Toulouse,No,23,Other,835.23
+T100411,C1276,2025-08-29 10:00:00,Beauty,2,226.96,Debit Card,Paris,No,30,Male,453.92
+T101379,C1418,2025-08-29 15:00:00,Clothing,7,114.66,Cash,Montpellier,No,59,Male,802.62
+T101143,C1359,2025-08-29 17:00:00,Beauty,4,21.25,Cash,Strasbourg,No,52,Female,85.0
+T101546,C1323,2025-08-30 00:00:00,Home Decor,6,306.81,Credit Card,Toulouse,Yes,41,Male,1840.86
+T100180,C1358,2025-08-30 00:00:00,Beauty,1,345.28,Digital Wallet,Lyon,Yes,42,Female,345.28
+T100113,C1207,2025-08-30 03:00:00,Groceries,7,329.18,Credit Card,Nice,No,74,Other,2304.26
+T100395,C1348,2025-08-30 04:00:00,Beauty,1,144.13,Digital Wallet,Paris,No,44,Other,144.13
+T101551,C1126,2025-08-30 06:00:00,Electronics,2,428.04,Digital Wallet,Toulouse,No,69,Female,856.08
+T101062,C1305,2025-08-30 16:00:00,Groceries,1,330.27,Cash,Marseille,Yes,32,Other,330.27
+T101343,C1046,2025-08-30 19:00:00,Electronics,1,189.96,Digital Wallet,Marseille,No,36,Female,189.96
+T100286,C1384,2025-08-30 23:00:00,Groceries,8,59.13,Credit Card,Lyon,No,44,Other,473.04
+T100042,C1475,2025-08-31 12:00:00,Clothing,3,335.93,Digital Wallet,Nice,No,50,Other,1007.79
+T100955,C1185,2025-08-31 14:00:00,Groceries,5,392.73,Debit Card,Nice,Yes,32,Female,1963.65
+T100210,C1242,2025-08-31 18:00:00,Home Decor,1,245.2,Digital Wallet,Lyon,No,35,Other,245.2
+T100235,C1282,2025-08-31 18:00:00,Clothing,8,68.07,Debit Card,Nantes,No,59,Other,544.56
+T100642,C1046,2025-08-31 22:00:00,Groceries,9,416.92,Debit Card,Lyon,No,27,Female,3752.28
+T101934,C1329,2025-09-01 03:00:00,Home Decor,3,243.23,Digital Wallet,Montpellier,No,61,Other,729.69
+T100467,C1348,2025-09-01 09:00:00,Groceries,9,282.87,Debit Card,Lyon,Yes,52,Female,2545.83
+T101225,C1238,2025-09-01 11:00:00,Beauty,1,69.51,Credit Card,Strasbourg,No,31,Male,69.51
+T101500,C1260,2025-09-01 20:00:00,Electronics,4,135.0,Debit Card,Marseille,Yes,62,Female,540.0
+T101401,C1059,2025-09-02 02:00:00,Beauty,2,206.97,Debit Card,Toulouse,No,25,Other,413.94
+T100281,C1053,2025-09-02 04:00:00,Beauty,2,340.94,Debit Card,Paris,No,35,Female,681.88
+T101607,C1016,2025-09-02 06:00:00,Beauty,2,203.97,Digital Wallet,Nantes,No,22,Other,407.94
+T101008,C1282,2025-09-02 09:00:00,Beauty,1,12.84,Cash,Paris,No,57,Male,12.84
+T100320,C1348,2025-09-02 12:00:00,Beauty,7,180.65,Debit Card,Paris,No,51,Male,1264.55
+T100691,C1395,2025-09-02 18:00:00,Clothing,4,425.14,Digital Wallet,Strasbourg,Yes,58,Male,1700.56
+T101669,C1370,2025-09-02 21:00:00,Groceries,2,7.16,Credit Card,Toulouse,Yes,41,Male,14.32
+T101509,C1114,2025-09-02 22:00:00,Groceries,9,216.16,Credit Card,Lyon,No,54,Other,1945.44
+T101586,C1308,2025-09-03 00:00:00,Groceries,9,448.43,Cash,Strasbourg,Yes,68,Male,4035.87
+T101859,C1309,2025-09-03 01:00:00,Groceries,7,199.4,Credit Card,Nantes,No,52,Male,1395.8
+T100522,C1012,2025-09-03 05:00:00,Home Decor,5,52.58,Credit Card,Strasbourg,Yes,70,Other,262.9
+T101050,C1033,2025-09-03 10:00:00,Electronics,6,209.36,Debit Card,Toulouse,No,18,Other,1256.16
+T101743,C1329,2025-09-03 16:00:00,Clothing,6,465.75,Digital Wallet,Lyon,Yes,73,Male,2794.5
+T100794,C1051,2025-09-03 18:00:00,Beauty,2,454.68,Digital Wallet,Lyon,No,61,Female,909.36
+T101594,C1290,2025-09-03 18:00:00,Clothing,3,67.64,Debit Card,Toulouse,No,19,Male,202.92
+T101049,C1287,2025-09-03 20:00:00,Home Decor,8,313.26,Debit Card,Paris,No,44,Other,2506.08
+T100550,C1124,2025-09-04 01:00:00,Electronics,2,127.37,Credit Card,Toulouse,No,61,Other,254.74
+T101582,C1398,2025-09-04 07:00:00,Electronics,5,250.43,Credit Card,Montpellier,Yes,65,Male,1252.15
+T101292,C1330,2025-09-04 07:00:00,Beauty,9,497.17,Digital Wallet,Lyon,No,45,Female,4474.53
+T101827,C1164,2025-09-04 09:00:00,Home Decor,2,356.55,Digital Wallet,Montpellier,No,20,Male,713.1
+T101940,C1317,2025-09-04 13:00:00,Clothing,3,368.29,Digital Wallet,Lyon,Yes,40,Female,1104.87
+T101593,C1424,2025-09-04 14:00:00,Home Decor,9,255.85,Debit Card,Paris,No,45,Female,2302.65
+T100833,C1400,2025-09-04 22:00:00,Beauty,3,428.28,Cash,Nantes,No,26,Female,1284.84
+T101139,C1373,2025-09-05 01:00:00,Groceries,5,236.54,Debit Card,Marseille,No,41,Male,1182.7
+T100830,C1073,2025-09-05 14:00:00,Home Decor,6,398.22,Digital Wallet,Paris,No,51,Male,2389.32
+T101504,C1331,2025-09-05 16:00:00,Electronics,2,38.56,Cash,Marseille,No,40,Other,77.12
+T101449,C1434,2025-09-05 19:00:00,Groceries,7,294.01,Debit Card,Marseille,No,31,Male,2058.07
+T101263,C1263,2025-09-05 21:00:00,Home Decor,7,262.49,Credit Card,Paris,Yes,72,Other,1837.43
+T101484,C1122,2025-09-05 21:00:00,Electronics,3,115.36,Credit Card,Lyon,No,26,Female,346.08
+T101312,C1219,2025-09-05 22:00:00,Groceries,7,478.18,Credit Card,Lyon,No,35,Male,3347.26
+T101038,C1456,2025-09-06 23:00:00,Beauty,1,17.09,Credit Card,Lyon,No,71,Male,17.09
+T101659,C1304,2025-09-07 04:00:00,Beauty,5,309.73,Debit Card,Toulouse,No,51,Female,1548.65
+T100943,C1455,2025-09-07 04:00:00,Home Decor,2,460.93,Cash,Toulouse,Yes,42,Female,921.86
+T101974,C1249,2025-09-07 13:00:00,Groceries,2,283.75,Debit Card,Toulouse,Yes,29,Male,567.5
+T101026,C1258,2025-09-07 16:00:00,Clothing,8,105.48,Debit Card,Toulouse,No,34,Female,843.84
+T101039,C1365,2025-09-07 18:00:00,Beauty,1,208.82,Debit Card,Lyon,No,35,Other,208.82
+T101870,C1295,2025-09-07 19:00:00,Groceries,2,188.15,Debit Card,Lyon,No,42,Male,376.3
+T100231,C1189,2025-09-07 20:00:00,Groceries,6,448.89,Debit Card,Nice,No,62,Male,2693.34
+T100069,C1345,2025-09-08 04:00:00,Clothing,1,16.6,Digital Wallet,Paris,Yes,48,Other,16.6
+T100201,C1236,2025-09-08 06:00:00,Electronics,1,112.32,Cash,Nice,No,18,Other,112.32
+T101397,C1000,2025-09-08 08:00:00,Beauty,4,358.51,Debit Card,Toulouse,No,24,Female,1434.04
+T100287,C1402,2025-09-08 10:00:00,Electronics,4,201.66,Credit Card,Montpellier,Yes,43,Other,806.64
+T101799,C1449,2025-09-08 19:00:00,Groceries,9,220.84,Cash,Strasbourg,No,74,Other,1987.56
+T100861,C1131,2025-09-08 22:00:00,Beauty,1,12.35,Cash,Toulouse,No,35,Male,12.35
+T100013,C1458,2025-09-08 22:00:00,Beauty,7,358.78,Cash,Paris,No,44,Other,2511.46
+T100507,C1103,2025-09-09 00:00:00,Groceries,1,186.54,Digital Wallet,Nantes,Yes,20,Other,186.54
+T101305,C1228,2025-09-09 07:00:00,Clothing,4,147.53,Cash,Nantes,No,68,Other,590.12
+T101036,C1084,2025-09-09 17:00:00,Groceries,3,356.54,Cash,Nice,Yes,59,Female,1069.62
+T101719,C1091,2025-09-10 12:00:00,Beauty,4,414.88,Digital Wallet,Strasbourg,No,60,Male,1659.52
+T100502,C1154,2025-09-10 23:00:00,Beauty,9,279.32,Debit Card,Lyon,No,65,Female,2513.88
+T100496,C1287,2025-09-11 01:00:00,Beauty,3,498.36,Cash,Nice,Yes,23,Female,1495.08
+T100405,C1168,2025-09-11 01:00:00,Electronics,2,109.55,Credit Card,Toulouse,No,74,Male,219.1
+T100768,C1354,2025-09-11 02:00:00,Clothing,9,85.01,Cash,Toulouse,No,20,Other,765.09
+T100661,C1022,2025-09-11 23:00:00,Clothing,6,486.71,Credit Card,Nantes,Yes,61,Other,2920.26
+T101383,C1068,2025-09-12 08:00:00,Groceries,1,382.59,Credit Card,Paris,No,60,Male,382.59
+T101303,C1030,2025-09-12 10:00:00,Electronics,6,300.11,Credit Card,Nice,No,56,Male,1800.66
+T100881,C1219,2025-09-12 20:00:00,Home Decor,8,332.06,Cash,Nantes,Yes,59,Male,2656.48
+T101540,C1315,2025-09-13 06:00:00,Groceries,4,260.69,Credit Card,Montpellier,No,57,Male,1042.76
+T100576,C1371,2025-09-13 07:00:00,Electronics,5,230.47,Credit Card,Toulouse,Yes,65,Other,1152.35
+T101784,C1201,2025-09-13 08:00:00,Groceries,9,409.9,Cash,Toulouse,No,41,Female,3689.1
+T100479,C1415,2025-09-13 09:00:00,Home Decor,4,243.8,Cash,Montpellier,Yes,42,Male,975.2
+T101865,C1370,2025-09-13 11:00:00,Clothing,1,70.25,Debit Card,Lyon,No,24,Other,70.25
+T100609,C1000,2025-09-13 21:00:00,Home Decor,2,218.6,Digital Wallet,Strasbourg,Yes,19,Female,437.2
+T101698,C1287,2025-09-14 04:00:00,Groceries,4,391.36,Credit Card,Lyon,Yes,21,Male,1565.44
+T100264,C1496,2025-09-14 04:00:00,Home Decor,9,309.01,Debit Card,Lyon,Yes,33,Other,2781.09
+T100140,C1498,2025-09-14 05:00:00,Beauty,2,258.73,Credit Card,Marseille,No,30,Male,517.46
+T101711,C1327,2025-09-15 07:00:00,Clothing,8,244.03,Credit Card,Paris,No,51,Other,1952.24
+T100957,C1177,2025-09-15 08:00:00,Groceries,3,67.69,Cash,Montpellier,No,41,Female,203.07
+T100460,C1372,2025-09-15 08:00:00,Beauty,5,181.97,Credit Card,Lyon,No,37,Female,909.85
+T101531,C1217,2025-09-15 10:00:00,Clothing,9,491.13,Cash,Nantes,No,62,Female,4420.17
+T100097,C1043,2025-09-15 13:00:00,Groceries,7,218.01,Digital Wallet,Toulouse,Yes,29,Other,1526.07
+T100968,C1416,2025-09-15 16:00:00,Groceries,9,245.76,Digital Wallet,Lyon,Yes,24,Male,2211.84
+T100613,C1125,2025-09-15 20:00:00,Groceries,5,470.57,Digital Wallet,Paris,Yes,47,Male,2352.85
+T100586,C1123,2025-09-15 21:00:00,Groceries,8,276.72,Cash,Nice,No,29,Male,2213.76
+T101756,C1001,2025-09-17 00:00:00,Clothing,9,135.98,Digital Wallet,Nantes,Yes,56,Female,1223.82
+T100508,C1416,2025-09-17 03:00:00,Electronics,7,122.35,Credit Card,Paris,No,65,Female,856.45
+T101100,C1248,2025-09-17 05:00:00,Home Decor,5,24.96,Debit Card,Paris,No,21,Female,124.8
+T101067,C1388,2025-09-17 06:00:00,Groceries,8,58.44,Credit Card,Toulouse,Yes,71,Other,467.52
+T101287,C1197,2025-09-17 11:00:00,Electronics,4,71.84,Digital Wallet,Lyon,Yes,70,Other,287.36
+T100654,C1340,2025-09-17 12:00:00,Clothing,4,72.5,Cash,Nantes,No,34,Female,290.0
+T101004,C1062,2025-09-17 13:00:00,Clothing,6,156.18,Cash,Strasbourg,No,23,Female,937.08
+T101539,C1103,2025-09-17 21:00:00,Groceries,4,31.7,Credit Card,Toulouse,Yes,49,Other,126.8
+T100256,C1373,2025-09-18 00:00:00,Clothing,8,242.33,Digital Wallet,Montpellier,Yes,61,Female,1938.64
+T100569,C1107,2025-09-18 04:00:00,Clothing,1,165.6,Credit Card,Nice,Yes,45,Other,165.6
+T100047,C1445,2025-09-18 21:00:00,Groceries,8,457.6,Debit Card,Lyon,No,29,Male,3660.8
+T100046,C1189,2025-09-19 04:00:00,Home Decor,5,427.43,Cash,Marseille,No,59,Female,2137.15
+T100234,C1376,2025-09-19 06:00:00,Clothing,4,143.4,Cash,Paris,No,57,Other,573.6
+T100910,C1302,2025-09-19 07:00:00,Clothing,1,207.08,Cash,Lyon,No,63,Female,207.08
+T101007,C1314,2025-09-19 14:00:00,Home Decor,3,381.58,Cash,Marseille,No,57,Other,1144.74
+T100139,C1138,2025-09-19 18:00:00,Electronics,3,247.21,Cash,Paris,No,53,Other,741.63
+T100907,C1159,2025-09-19 21:00:00,Electronics,4,156.08,Digital Wallet,Montpellier,No,57,Female,624.32
+T100081,C1205,2025-09-19 23:00:00,Beauty,5,254.51,Cash,Paris,Yes,65,Male,1272.55
+T101189,C1318,2025-09-20 03:00:00,Groceries,6,359.25,Digital Wallet,Nice,No,30,Male,2155.5
+T100372,C1303,2025-09-20 11:00:00,Groceries,3,292.49,Credit Card,Nice,No,43,Male,877.47
+T100506,C1272,2025-09-20 15:00:00,Clothing,3,21.55,Credit Card,Nice,No,31,Male,64.65
+T100786,C1402,2025-09-20 15:00:00,Beauty,8,329.11,Cash,Toulouse,Yes,32,Other,2632.88
+T100407,C1160,2025-09-20 20:00:00,Groceries,6,93.53,Debit Card,Marseille,Yes,39,Female,561.18
+T100378,C1119,2025-09-20 21:00:00,Clothing,1,5.64,Digital Wallet,Montpellier,No,70,Female,5.64
+T101231,C1014,2025-09-21 00:00:00,Beauty,3,127.14,Digital Wallet,Lyon,No,33,Male,381.42
+T100872,C1201,2025-09-21 01:00:00,Clothing,1,306.72,Debit Card,Paris,Yes,43,Male,306.72
+T100426,C1374,2025-09-21 05:00:00,Electronics,1,246.86,Debit Card,Lyon,No,52,Other,246.86
+T100299,C1202,2025-09-21 05:00:00,Beauty,1,69.24,Cash,Paris,No,57,Male,69.24
+T101087,C1251,2025-09-21 16:00:00,Clothing,7,348.14,Digital Wallet,Montpellier,No,59,Male,2436.98
+T101136,C1335,2025-09-21 17:00:00,Electronics,8,411.68,Credit Card,Nice,No,42,Other,3293.44
+T101524,C1199,2025-09-21 18:00:00,Clothing,8,181.2,Credit Card,Lyon,No,24,Female,1449.6
+T100436,C1282,2025-09-21 21:00:00,Groceries,3,227.76,Digital Wallet,Toulouse,No,56,Male,683.28
+T100551,C1149,2025-09-21 21:00:00,Beauty,9,375.45,Cash,Paris,No,55,Female,3379.05
+T100342,C1266,2025-09-22 02:00:00,Beauty,7,390.87,Cash,Strasbourg,No,29,Female,2736.09
+T101905,C1200,2025-09-22 14:00:00,Beauty,7,360.11,Cash,Strasbourg,Yes,30,Male,2520.77
+T101831,C1075,2025-09-22 21:00:00,Clothing,1,361.18,Debit Card,Montpellier,No,39,Male,361.18
+T100500,C1449,2025-09-23 01:00:00,Beauty,2,29.33,Debit Card,Nantes,Yes,25,Other,58.66
+T101460,C1499,2025-09-23 01:00:00,Groceries,4,279.31,Digital Wallet,Montpellier,No,22,Male,1117.24
+T100021,C1308,2025-09-23 06:00:00,Home Decor,2,486.17,Digital Wallet,Nantes,No,67,Female,972.34
+T101822,C1355,2025-09-23 07:00:00,Clothing,4,284.33,Digital Wallet,Nice,Yes,52,Other,1137.32
+T101327,C1391,2025-09-23 10:00:00,Electronics,9,13.93,Digital Wallet,Montpellier,No,25,Female,125.37
+T100960,C1356,2025-09-23 13:00:00,Home Decor,5,191.27,Credit Card,Paris,No,51,Other,956.35
+T100583,C1143,2025-09-23 20:00:00,Groceries,9,462.49,Credit Card,Lyon,No,53,Female,4162.41
+T100060,C1328,2025-09-24 08:00:00,Home Decor,9,403.92,Cash,Nantes,No,51,Other,3635.28
+T101250,C1024,2025-09-24 12:00:00,Clothing,7,472.77,Debit Card,Nice,No,43,Other,3309.39
+T100501,C1126,2025-09-24 17:00:00,Clothing,7,20.37,Credit Card,Lyon,No,48,Other,142.59
+T100172,C1430,2025-09-24 21:00:00,Electronics,6,266.02,Credit Card,Marseille,No,72,Female,1596.12
+T100775,C1367,2025-09-24 23:00:00,Clothing,6,356.04,Cash,Nice,Yes,21,Male,2136.24
+T100785,C1232,2025-09-25 01:00:00,Electronics,7,420.12,Credit Card,Nantes,No,62,Male,2940.84
+T100969,C1211,2025-09-25 02:00:00,Electronics,2,152.73,Credit Card,Montpellier,No,59,Male,305.46
+T100602,C1278,2025-09-25 08:00:00,Groceries,8,361.13,Cash,Montpellier,No,39,Other,2889.04
+T100776,C1216,2025-09-25 09:00:00,Electronics,7,104.17,Debit Card,Marseille,Yes,37,Male,729.19
+T101793,C1369,2025-09-25 16:00:00,Home Decor,9,488.97,Digital Wallet,Montpellier,No,29,Female,4400.73
+T101742,C1006,2025-09-25 17:00:00,Electronics,9,391.85,Digital Wallet,Toulouse,No,70,Other,3526.65
+T100319,C1463,2025-09-26 08:00:00,Clothing,2,365.66,Debit Card,Paris,Yes,66,Female,731.32
+T101672,C1193,2025-09-26 10:00:00,Groceries,2,51.97,Credit Card,Marseille,No,23,Female,103.94
+T101891,C1147,2025-09-26 10:00:00,Groceries,7,436.69,Credit Card,Paris,No,66,Female,3056.83
+T100014,C1087,2025-09-26 12:00:00,Home Decor,7,469.16,Credit Card,Nantes,No,42,Male,3284.12
+T100587,C1105,2025-09-26 20:00:00,Electronics,3,113.56,Digital Wallet,Nantes,Yes,30,Female,340.68
+T101122,C1261,2025-09-26 20:00:00,Electronics,9,67.34,Digital Wallet,Strasbourg,No,72,Female,606.06
+T100056,C1484,2025-09-26 23:00:00,Groceries,8,131.86,Debit Card,Marseille,Yes,47,Female,1054.88
+T101411,C1290,2025-09-27 01:00:00,Clothing,2,475.44,Debit Card,Strasbourg,No,53,Female,950.88
+T101628,C1155,2025-09-28 02:00:00,Clothing,7,361.61,Credit Card,Lyon,No,28,Other,2531.27
+T101502,C1046,2025-09-28 03:00:00,Clothing,4,373.3,Debit Card,Toulouse,Yes,37,Other,1493.2
+T101407,C1228,2025-09-28 03:00:00,Electronics,8,455.95,Debit Card,Nice,Yes,45,Female,3647.6
+T100359,C1368,2025-09-28 03:00:00,Clothing,2,361.71,Digital Wallet,Marseille,No,72,Other,723.42
+T100385,C1419,2025-09-28 09:00:00,Groceries,9,41.72,Cash,Paris,No,43,Female,375.48
+T100349,C1477,2025-09-28 10:00:00,Groceries,8,235.1,Credit Card,Marseille,No,56,Male,1880.8
+T100145,C1288,2025-09-28 11:00:00,Home Decor,3,470.62,Debit Card,Paris,No,74,Other,1411.86
+T100591,C1119,2025-09-28 16:00:00,Beauty,3,5.35,Debit Card,Nantes,No,45,Female,16.05
+T100828,C1075,2025-09-29 01:00:00,Electronics,7,126.59,Credit Card,Montpellier,No,27,Female,886.13
+T101279,C1364,2025-09-29 03:00:00,Electronics,1,466.41,Digital Wallet,Nice,Yes,28,Female,466.41
+T100453,C1048,2025-09-29 11:00:00,Home Decor,9,336.35,Debit Card,Marseille,No,35,Female,3027.15
+T101035,C1144,2025-09-30 02:00:00,Home Decor,9,80.57,Cash,Lyon,No,55,Other,725.13
+T100510,C1298,2025-09-30 04:00:00,Beauty,8,40.83,Digital Wallet,Paris,Yes,61,Male,326.64
+T101794,C1114,2025-09-30 09:00:00,Groceries,7,58.42,Cash,Toulouse,No,67,Female,408.94
+T101289,C1111,2025-09-30 10:00:00,Beauty,4,469.6,Credit Card,Strasbourg,Yes,48,Male,1878.4
+T100158,C1047,2025-09-30 11:00:00,Electronics,5,272.6,Credit Card,Toulouse,No,68,Male,1363.0
+T101876,C1231,2025-09-30 23:00:00,Electronics,9,172.3,Digital Wallet,Paris,Yes,57,Other,1550.7
+T100015,C1372,2025-10-01 02:00:00,Electronics,7,456.57,Credit Card,Strasbourg,No,26,Male,3195.99
+T101190,C1047,2025-10-01 02:00:00,Beauty,9,395.14,Debit Card,Paris,No,39,Female,3556.26
+T101013,C1104,2025-10-01 08:00:00,Clothing,8,160.12,Cash,Strasbourg,No,62,Male,1280.96
+T100361,C1384,2025-10-02 01:00:00,Beauty,9,447.58,Digital Wallet,Strasbourg,Yes,61,Male,4028.22
+T100857,C1144,2025-10-02 08:00:00,Electronics,1,132.27,Cash,Montpellier,No,34,Other,132.27
+T100883,C1057,2025-10-03 04:00:00,Groceries,2,366.19,Digital Wallet,Nantes,No,48,Female,732.38
+T101791,C1223,2025-10-03 06:00:00,Electronics,3,259.89,Cash,Toulouse,No,43,Other,779.67
+T100265,C1441,2025-10-03 07:00:00,Groceries,2,170.4,Debit Card,Nantes,No,53,Other,340.8
+T100898,C1408,2025-10-03 18:00:00,Clothing,4,197.48,Cash,Strasbourg,No,23,Other,789.92
+T101874,C1186,2025-10-03 19:00:00,Home Decor,6,362.69,Cash,Strasbourg,No,68,Male,2176.14
+T100285,C1224,2025-10-03 20:00:00,Clothing,7,404.7,Debit Card,Nantes,No,67,Male,2832.9
+T101668,C1077,2025-10-04 03:00:00,Beauty,3,337.4,Cash,Toulouse,No,71,Other,1012.2
+T100564,C1480,2025-10-04 07:00:00,Electronics,6,55.96,Credit Card,Lyon,Yes,51,Female,335.76
+T100549,C1189,2025-10-04 10:00:00,Groceries,8,215.55,Cash,Montpellier,Yes,56,Female,1724.4
+T100360,C1001,2025-10-04 12:00:00,Electronics,2,252.65,Cash,Nice,No,18,Other,505.3
+T100166,C1213,2025-10-04 17:00:00,Home Decor,7,338.72,Debit Card,Strasbourg,No,72,Male,2371.04
+T100929,C1414,2025-10-04 18:00:00,Home Decor,5,189.93,Cash,Nantes,Yes,71,Male,949.65
+T100760,C1223,2025-10-04 19:00:00,Beauty,5,301.16,Cash,Nice,No,41,Male,1505.8
+T100816,C1422,2025-10-04 23:00:00,Home Decor,4,251.45,Debit Card,Marseille,No,40,Male,1005.8
+T101817,C1325,2025-10-05 01:00:00,Groceries,4,436.42,Digital Wallet,Marseille,No,28,Female,1745.68
+T101330,C1172,2025-10-05 01:00:00,Home Decor,2,272.96,Debit Card,Montpellier,Yes,69,Male,545.92
+T100111,C1295,2025-10-05 03:00:00,Home Decor,2,494.73,Debit Card,Paris,No,25,Female,989.46
+T101018,C1310,2025-10-05 03:00:00,Clothing,6,53.32,Debit Card,Lyon,Yes,59,Male,319.92
+T101691,C1365,2025-10-05 09:00:00,Groceries,5,74.32,Credit Card,Paris,Yes,48,Male,371.6
+T100617,C1487,2025-10-05 10:00:00,Groceries,6,193.67,Cash,Nice,No,65,Female,1162.02
+T100596,C1438,2025-10-05 19:00:00,Groceries,2,23.72,Debit Card,Paris,Yes,22,Female,47.44
+T101879,C1097,2025-10-06 13:00:00,Electronics,1,378.7,Credit Card,Nantes,No,23,Female,378.7
+T100822,C1214,2025-10-06 15:00:00,Beauty,3,413.98,Credit Card,Toulouse,No,71,Other,1241.94
+T100773,C1061,2025-10-06 17:00:00,Groceries,3,379.95,Cash,Toulouse,No,64,Other,1139.85
+T100445,C1480,2025-10-06 18:00:00,Electronics,3,297.94,Credit Card,Marseille,No,49,Male,893.82
+T100327,C1345,2025-10-06 18:00:00,Groceries,5,64.04,Credit Card,Toulouse,Yes,30,Female,320.2
+T101693,C1379,2025-10-06 22:00:00,Clothing,4,291.4,Credit Card,Nice,No,74,Male,1165.6
+T101204,C1055,2025-10-07 01:00:00,Clothing,3,257.31,Digital Wallet,Toulouse,No,57,Other,771.93
+T101350,C1381,2025-10-07 07:00:00,Clothing,9,205.78,Cash,Toulouse,No,40,Female,1852.02
+T100412,C1303,2025-10-07 13:00:00,Groceries,9,163.67,Credit Card,Strasbourg,No,25,Other,1473.03
+T100357,C1499,2025-10-08 03:00:00,Groceries,4,333.58,Digital Wallet,Nantes,Yes,21,Female,1334.32
+T100624,C1191,2025-10-08 04:00:00,Clothing,7,282.54,Cash,Montpellier,Yes,73,Other,1977.78
+T100852,C1495,2025-10-08 07:00:00,Groceries,3,171.47,Digital Wallet,Nantes,No,26,Other,514.41
+T101168,C1132,2025-10-08 08:00:00,Clothing,7,201.46,Debit Card,Nice,No,50,Female,1410.22
+T100806,C1483,2025-10-08 19:00:00,Beauty,1,420.51,Digital Wallet,Nantes,No,66,Male,420.51
+T100481,C1160,2025-10-08 21:00:00,Beauty,4,385.2,Credit Card,Nantes,No,45,Other,1540.8
+T100143,C1162,2025-10-08 23:00:00,Clothing,6,238.04,Debit Card,Marseille,Yes,70,Female,1428.24
+T100278,C1001,2025-10-09 00:00:00,Beauty,2,222.54,Debit Card,Lyon,No,37,Other,445.08
+T100242,C1358,2025-10-09 07:00:00,Beauty,6,280.93,Credit Card,Strasbourg,No,65,Male,1685.58
+T101618,C1179,2025-10-09 15:00:00,Clothing,2,67.96,Digital Wallet,Strasbourg,Yes,53,Other,135.92
+T101609,C1426,2025-10-09 16:00:00,Clothing,8,176.4,Debit Card,Lyon,Yes,20,Female,1411.2
+T101260,C1469,2025-10-09 16:00:00,Clothing,9,497.82,Credit Card,Nantes,Yes,44,Other,4480.38
+T101814,C1214,2025-10-09 21:00:00,Home Decor,4,24.24,Digital Wallet,Lyon,No,36,Male,96.96
+T101435,C1352,2025-10-10 11:00:00,Groceries,8,304.11,Credit Card,Nantes,No,29,Male,2432.88
+T101416,C1378,2025-10-10 15:00:00,Beauty,2,498.03,Cash,Montpellier,No,67,Male,996.06
+T100788,C1264,2025-10-10 17:00:00,Beauty,8,140.64,Debit Card,Lyon,No,65,Other,1125.12
+T100614,C1117,2025-10-10 17:00:00,Beauty,9,453.44,Credit Card,Lyon,No,60,Male,4080.96
+T101498,C1156,2025-10-10 21:00:00,Groceries,8,164.87,Debit Card,Toulouse,No,32,Female,1318.96
+T101216,C1186,2025-10-10 21:00:00,Beauty,1,288.06,Debit Card,Marseille,No,71,Female,288.06
+T101557,C1392,2025-10-10 23:00:00,Clothing,1,337.33,Cash,Toulouse,No,37,Female,337.33
+T101487,C1117,2025-10-11 00:00:00,Electronics,3,330.85,Cash,Lyon,No,59,Female,992.55
+T101527,C1345,2025-10-11 00:00:00,Beauty,9,372.95,Cash,Nantes,No,36,Male,3356.55
+T100072,C1339,2025-10-11 04:00:00,Beauty,9,154.22,Debit Card,Toulouse,Yes,36,Female,1387.98
+T101042,C1172,2025-10-11 04:00:00,Electronics,4,111.99,Cash,Lyon,Yes,65,Other,447.96
+T100268,C1294,2025-10-11 10:00:00,Clothing,5,436.04,Cash,Toulouse,No,47,Male,2180.2
+T100858,C1326,2025-10-11 19:00:00,Clothing,8,474.58,Digital Wallet,Nice,No,51,Female,3796.64
+T101288,C1069,2025-10-12 01:00:00,Electronics,1,236.98,Digital Wallet,Lyon,No,65,Female,236.98
+T100290,C1052,2025-10-12 06:00:00,Electronics,1,431.25,Debit Card,Lyon,No,45,Female,431.25
+T100130,C1344,2025-10-12 10:00:00,Home Decor,6,179.39,Cash,Nantes,Yes,26,Female,1076.34
+T100120,C1216,2025-10-12 11:00:00,Groceries,2,38.67,Debit Card,Nantes,No,60,Other,77.34
+T101014,C1098,2025-10-12 12:00:00,Home Decor,2,151.08,Credit Card,Marseille,Yes,30,Female,302.16
+T101577,C1318,2025-10-12 14:00:00,Electronics,1,429.66,Digital Wallet,Strasbourg,No,45,Male,429.66
+T101887,C1288,2025-10-13 06:00:00,Beauty,5,40.16,Debit Card,Marseille,No,40,Male,200.8
+T100865,C1414,2025-10-13 08:00:00,Beauty,3,287.48,Cash,Nantes,No,40,Male,862.44
+T101085,C1421,2025-10-13 14:00:00,Electronics,8,257.64,Cash,Toulouse,Yes,60,Female,2061.12
+T100815,C1185,2025-10-13 15:00:00,Clothing,4,447.58,Credit Card,Marseille,Yes,65,Male,1790.32
+T100435,C1263,2025-10-13 19:00:00,Electronics,1,16.82,Cash,Marseille,No,73,Other,16.82
+T101716,C1066,2025-10-14 09:00:00,Home Decor,6,265.9,Credit Card,Nantes,No,19,Female,1595.4
+T101381,C1094,2025-10-14 09:00:00,Clothing,4,237.81,Debit Card,Toulouse,Yes,64,Other,951.24
+T100498,C1341,2025-10-14 18:00:00,Clothing,8,324.14,Digital Wallet,Paris,Yes,20,Male,2593.12
+T101869,C1266,2025-10-14 20:00:00,Groceries,4,260.99,Digital Wallet,Montpellier,No,52,Female,1043.96
+T101949,C1484,2025-10-14 23:00:00,Groceries,5,250.56,Cash,Paris,No,22,Male,1252.8
+T100589,C1146,2025-10-15 01:00:00,Electronics,4,327.87,Cash,Strasbourg,Yes,53,Female,1311.48
+T100131,C1326,2025-10-15 01:00:00,Beauty,2,120.86,Cash,Nantes,No,64,Male,241.72
+T101495,C1435,2025-10-15 05:00:00,Beauty,4,288.83,Digital Wallet,Montpellier,Yes,71,Other,1155.32
+T100215,C1044,2025-10-15 18:00:00,Groceries,7,358.49,Debit Card,Paris,No,58,Female,2509.43
+T100598,C1228,2025-10-15 18:00:00,Beauty,7,493.24,Debit Card,Strasbourg,No,35,Male,3452.68
+T101244,C1125,2025-10-15 21:00:00,Groceries,7,63.15,Cash,Toulouse,No,46,Other,442.05
+T100310,C1469,2025-10-16 00:00:00,Clothing,1,306.69,Credit Card,Toulouse,No,32,Other,306.69
+T100482,C1255,2025-10-16 03:00:00,Beauty,6,374.88,Digital Wallet,Marseille,Yes,63,Male,2249.28
+T100182,C1392,2025-10-16 08:00:00,Beauty,3,51.9,Credit Card,Marseille,Yes,55,Male,155.7
+T101444,C1449,2025-10-16 12:00:00,Clothing,3,360.71,Debit Card,Marseille,No,58,Other,1082.13
+T100740,C1276,2025-10-16 16:00:00,Beauty,1,193.8,Debit Card,Nice,No,29,Male,193.8
+T100827,C1238,2025-10-16 19:00:00,Home Decor,2,322.89,Cash,Toulouse,No,59,Male,645.78
+T100302,C1400,2025-10-17 00:00:00,Groceries,8,210.42,Cash,Marseille,No,72,Female,1683.36
+T101513,C1281,2025-10-17 07:00:00,Clothing,1,347.3,Cash,Nice,No,50,Female,347.3
+T101099,C1307,2025-10-17 13:00:00,Home Decor,7,111.35,Digital Wallet,Montpellier,No,45,Female,779.45
+T101354,C1490,2025-10-17 16:00:00,Electronics,4,387.16,Cash,Nice,No,42,Other,1548.64
+T101138,C1458,2025-10-17 17:00:00,Groceries,9,94.0,Digital Wallet,Toulouse,No,36,Other,846.0
+T101472,C1440,2025-10-17 21:00:00,Beauty,4,76.13,Credit Card,Lyon,Yes,45,Other,304.52
+T100434,C1437,2025-10-18 01:00:00,Electronics,9,32.88,Digital Wallet,Nantes,No,25,Male,295.92
+T101554,C1091,2025-10-18 03:00:00,Home Decor,1,108.9,Debit Card,Paris,Yes,37,Male,108.9
+T100337,C1127,2025-10-18 11:00:00,Home Decor,8,35.3,Debit Card,Strasbourg,Yes,24,Male,282.4
+T101720,C1494,2025-10-18 19:00:00,Electronics,1,82.96,Digital Wallet,Nice,No,74,Other,82.96
+T101723,C1290,2025-10-18 21:00:00,Beauty,2,86.27,Debit Card,Lyon,No,65,Female,172.54
+T100471,C1094,2025-10-18 23:00:00,Home Decor,1,291.05,Debit Card,Nice,Yes,64,Male,291.05
+T100456,C1219,2025-10-19 00:00:00,Beauty,5,23.99,Credit Card,Paris,No,72,Other,119.95
+T101090,C1305,2025-10-19 04:00:00,Home Decor,6,386.8,Digital Wallet,Paris,Yes,20,Male,2320.8
+T101637,C1147,2025-10-19 14:00:00,Beauty,8,427.55,Debit Card,Paris,No,64,Female,3420.4
+T101391,C1458,2025-10-19 16:00:00,Beauty,2,273.71,Credit Card,Marseille,Yes,25,Female,547.42
+T101770,C1292,2025-10-19 21:00:00,Groceries,6,217.65,Credit Card,Montpellier,No,43,Male,1305.9
+T100226,C1330,2025-10-20 03:00:00,Home Decor,7,146.68,Credit Card,Toulouse,Yes,67,Female,1026.76
+T100247,C1317,2025-10-20 04:00:00,Groceries,9,221.39,Cash,Paris,No,22,Female,1992.51
+T101804,C1245,2025-10-20 07:00:00,Home Decor,4,251.57,Debit Card,Marseille,Yes,55,Female,1006.28
+T101786,C1119,2025-10-20 09:00:00,Electronics,3,129.83,Credit Card,Montpellier,No,48,Other,389.49
+T101171,C1345,2025-10-20 09:00:00,Clothing,7,197.13,Credit Card,Nice,No,57,Female,1379.91
+T100003,C1270,2025-10-20 10:00:00,Groceries,2,206.29,Cash,Montpellier,Yes,36,Male,412.58
+T100401,C1309,2025-10-20 14:00:00,Electronics,4,336.78,Credit Card,Marseille,No,19,Other,1347.12
+T100028,C1191,2025-10-20 15:00:00,Home Decor,6,27.8,Debit Card,Paris,Yes,32,Other,166.8
+T101933,C1016,2025-10-20 18:00:00,Beauty,9,164.84,Debit Card,Paris,Yes,26,Female,1483.56
+T100277,C1112,2025-10-20 19:00:00,Home Decor,5,73.43,Credit Card,Paris,No,74,Male,367.15
+T100996,C1064,2025-10-21 04:00:00,Beauty,6,99.69,Debit Card,Paris,No,40,Male,598.14
+T100756,C1095,2025-10-21 09:00:00,Electronics,3,440.05,Credit Card,Paris,No,24,Other,1320.15
+T101973,C1085,2025-10-21 14:00:00,Clothing,3,399.98,Credit Card,Nantes,No,48,Other,1199.94
+T100836,C1006,2025-10-21 14:00:00,Clothing,7,489.97,Debit Card,Montpellier,No,70,Male,3429.79
+T101145,C1183,2025-10-21 16:00:00,Electronics,8,325.08,Cash,Nice,Yes,34,Male,2600.64
+T100293,C1159,2025-10-21 19:00:00,Groceries,4,425.91,Digital Wallet,Paris,No,37,Other,1703.64
+T100975,C1045,2025-10-21 20:00:00,Groceries,6,51.91,Digital Wallet,Lyon,Yes,45,Female,311.46
+T101268,C1041,2025-10-21 21:00:00,Beauty,7,224.58,Cash,Nice,Yes,22,Female,1572.06
+T100099,C1201,2025-10-22 01:00:00,Beauty,8,444.44,Credit Card,Lyon,Yes,45,Other,3555.52
+T101114,C1183,2025-10-22 02:00:00,Electronics,1,429.59,Digital Wallet,Nice,Yes,38,Other,429.59
+T101846,C1308,2025-10-22 03:00:00,Electronics,2,410.46,Cash,Paris,No,53,Female,820.92
+T101466,C1477,2025-10-22 14:00:00,Groceries,9,473.85,Credit Card,Toulouse,Yes,59,Male,4264.65
+T100699,C1426,2025-10-22 17:00:00,Beauty,2,402.55,Cash,Marseille,No,29,Male,805.1
+T101945,C1478,2025-10-23 00:00:00,Electronics,3,274.37,Digital Wallet,Marseille,No,68,Male,823.11
+T101764,C1194,2025-10-23 21:00:00,Clothing,6,287.81,Cash,Montpellier,No,37,Male,1726.86
+T100778,C1396,2025-10-24 03:00:00,Beauty,7,345.71,Credit Card,Paris,No,27,Other,2419.97
+T101081,C1065,2025-10-25 20:00:00,Home Decor,4,424.41,Digital Wallet,Montpellier,No,31,Other,1697.64
+T100376,C1151,2025-10-25 23:00:00,Home Decor,2,337.53,Digital Wallet,Lyon,Yes,50,Female,675.06
+T101936,C1310,2025-10-26 03:00:00,Clothing,6,205.43,Credit Card,Strasbourg,No,40,Other,1232.58
+T101290,C1003,2025-10-26 20:00:00,Clothing,3,96.99,Cash,Nantes,Yes,54,Other,290.97
+T101773,C1221,2025-10-26 21:00:00,Beauty,9,361.61,Digital Wallet,Strasbourg,Yes,52,Female,3254.49
+T100429,C1157,2025-10-27 02:00:00,Clothing,8,491.88,Cash,Toulouse,No,22,Male,3935.04
+T100437,C1026,2025-10-27 03:00:00,Groceries,2,169.68,Debit Card,Lyon,No,38,Other,339.36
+T100348,C1414,2025-10-27 03:00:00,Clothing,6,332.68,Cash,Lyon,No,57,Female,1996.08
+T100216,C1061,2025-10-27 17:00:00,Groceries,5,102.14,Digital Wallet,Nice,No,28,Male,510.7
+T100170,C1226,2025-10-28 00:00:00,Clothing,4,64.88,Debit Card,Nantes,No,25,Other,259.52
+T100676,C1324,2025-10-28 00:00:00,Beauty,6,31.75,Digital Wallet,Toulouse,No,69,Male,190.5
+T101488,C1293,2025-10-28 03:00:00,Clothing,6,135.58,Debit Card,Strasbourg,No,51,Other,813.48
+T100942,C1271,2025-10-28 06:00:00,Electronics,3,155.34,Debit Card,Strasbourg,Yes,41,Male,466.02
+T101249,C1211,2025-10-28 18:00:00,Clothing,2,223.57,Credit Card,Nantes,No,46,Male,447.14
+T100634,C1434,2025-10-29 06:00:00,Clothing,1,194.62,Debit Card,Nantes,Yes,72,Female,194.62
+T100605,C1395,2025-10-29 07:00:00,Beauty,1,15.35,Cash,Nantes,Yes,74,Male,15.35
+T100351,C1098,2025-10-29 17:00:00,Groceries,5,227.55,Digital Wallet,Lyon,No,27,Female,1137.75
+T101704,C1312,2025-10-29 17:00:00,Clothing,4,279.1,Credit Card,Toulouse,No,51,Female,1116.4
+T100839,C1167,2025-10-29 19:00:00,Beauty,9,354.01,Credit Card,Toulouse,No,24,Male,3186.09
+T101975,C1390,2025-10-29 20:00:00,Clothing,9,7.86,Credit Card,Strasbourg,No,26,Male,70.74
+T100797,C1143,2025-10-29 22:00:00,Groceries,9,345.21,Cash,Paris,Yes,51,Male,3106.89
+T100307,C1371,2025-10-30 07:00:00,Groceries,6,497.76,Cash,Montpellier,No,35,Other,2986.56
+T100258,C1095,2025-10-30 10:00:00,Home Decor,1,457.34,Credit Card,Lyon,No,20,Female,457.34
+T100137,C1471,2025-10-30 15:00:00,Electronics,5,201.16,Debit Card,Lyon,Yes,27,Male,1005.8
+T101338,C1211,2025-10-30 22:00:00,Electronics,8,403.11,Debit Card,Toulouse,No,70,Female,3224.88
+T100344,C1440,2025-10-31 01:00:00,Electronics,3,415.67,Digital Wallet,Nantes,No,26,Female,1247.01
+T100347,C1150,2025-10-31 04:00:00,Electronics,3,207.42,Digital Wallet,Toulouse,No,67,Other,622.26
+T100313,C1143,2025-10-31 04:00:00,Beauty,5,123.41,Digital Wallet,Nantes,Yes,40,Male,617.05
+T101173,C1033,2025-10-31 06:00:00,Clothing,7,117.28,Debit Card,Paris,No,51,Other,820.96
+T101722,C1417,2025-10-31 20:00:00,Home Decor,8,298.84,Credit Card,Lyon,No,54,Female,2390.72
+T100191,C1351,2025-11-01 07:00:00,Groceries,2,35.5,Credit Card,Strasbourg,Yes,47,Female,71.0
+T100927,C1013,2025-11-01 08:00:00,Groceries,7,306.24,Credit Card,Nantes,Yes,65,Male,2143.68
+T101020,C1475,2025-11-01 12:00:00,Clothing,1,178.2,Credit Card,Lyon,No,29,Female,178.2
+T100664,C1245,2025-11-01 13:00:00,Beauty,3,182.13,Credit Card,Paris,No,72,Male,546.39
+T100336,C1423,2025-11-01 16:00:00,Clothing,1,99.98,Digital Wallet,Paris,No,40,Other,99.98
+T100271,C1112,2025-11-01 16:00:00,Groceries,4,251.1,Digital Wallet,Nantes,Yes,44,Other,1004.4
+T100995,C1373,2025-11-01 16:00:00,Groceries,5,37.62,Debit Card,Marseille,No,50,Female,188.1
+T100735,C1074,2025-11-01 18:00:00,Electronics,1,240.3,Digital Wallet,Marseille,No,68,Female,240.3
+T101924,C1101,2025-11-01 20:00:00,Home Decor,9,356.35,Debit Card,Strasbourg,No,62,Other,3207.15
+T100031,C1160,2025-11-01 23:00:00,Home Decor,3,239.35,Debit Card,Strasbourg,No,45,Female,718.05
+T101147,C1194,2025-11-02 07:00:00,Clothing,5,29.39,Debit Card,Toulouse,No,49,Other,146.95
+T100118,C1279,2025-11-02 13:00:00,Beauty,6,243.77,Digital Wallet,Paris,Yes,52,Other,1462.62
+T100897,C1368,2025-11-03 05:00:00,Electronics,3,494.19,Debit Card,Paris,Yes,60,Other,1482.57
+T100959,C1219,2025-11-03 10:00:00,Groceries,3,243.07,Debit Card,Paris,Yes,60,Female,729.21
+T101154,C1060,2025-11-03 12:00:00,Electronics,6,30.58,Debit Card,Montpellier,Yes,65,Female,183.48
+T100820,C1132,2025-11-03 14:00:00,Beauty,6,118.89,Credit Card,Marseille,No,24,Other,713.34
+T101057,C1161,2025-11-04 05:00:00,Beauty,4,95.81,Debit Card,Strasbourg,No,37,Male,383.24
+T101262,C1110,2025-11-04 08:00:00,Clothing,6,221.2,Cash,Nantes,Yes,62,Male,1327.2
+T100867,C1444,2025-11-04 13:00:00,Beauty,2,210.35,Cash,Strasbourg,No,41,Other,420.7
+T100295,C1415,2025-11-04 15:00:00,Clothing,3,336.03,Debit Card,Toulouse,No,30,Male,1008.09
+T101938,C1302,2025-11-04 16:00:00,Beauty,1,481.01,Cash,Lyon,No,64,Male,481.01
+T100533,C1141,2025-11-04 22:00:00,Clothing,8,108.28,Credit Card,Nantes,No,32,Other,866.24
+T101481,C1321,2025-11-05 14:00:00,Home Decor,7,294.82,Debit Card,Lyon,No,65,Male,2063.74
+T101792,C1208,2025-11-05 22:00:00,Groceries,9,86.86,Debit Card,Nantes,No,31,Other,781.74
+T100214,C1169,2025-11-05 22:00:00,Home Decor,8,47.53,Cash,Paris,No,59,Female,380.24
+T100330,C1147,2025-11-06 06:00:00,Clothing,7,421.02,Debit Card,Toulouse,No,59,Female,2947.14
+T100651,C1217,2025-11-06 07:00:00,Clothing,5,213.45,Cash,Nantes,Yes,28,Female,1067.25
+T101920,C1107,2025-11-06 07:00:00,Home Decor,7,199.51,Digital Wallet,Montpellier,Yes,68,Female,1396.57
+T101047,C1368,2025-11-06 12:00:00,Beauty,8,489.36,Cash,Paris,No,42,Female,3914.88
+T101378,C1037,2025-11-06 20:00:00,Groceries,2,443.08,Debit Card,Nantes,No,43,Female,886.16
+T101193,C1025,2025-11-06 21:00:00,Electronics,5,227.71,Credit Card,Nice,Yes,30,Other,1138.55
+T101184,C1213,2025-11-06 23:00:00,Beauty,2,299.55,Credit Card,Nantes,No,57,Female,599.1
+T101542,C1459,2025-11-06 23:00:00,Clothing,8,79.03,Debit Card,Montpellier,Yes,61,Female,632.24
+T100011,C1214,2025-11-07 02:00:00,Home Decor,9,307.77,Cash,Toulouse,Yes,37,Male,2769.93
+T101988,C1081,2025-11-07 04:00:00,Groceries,4,467.26,Digital Wallet,Lyon,Yes,69,Female,1869.04
+T101285,C1149,2025-11-07 05:00:00,Clothing,1,94.7,Credit Card,Strasbourg,No,55,Male,94.7
+T100464,C1232,2025-11-07 05:00:00,Home Decor,7,436.13,Credit Card,Montpellier,No,68,Other,3052.91
+T100971,C1219,2025-11-07 12:00:00,Clothing,2,147.64,Debit Card,Toulouse,No,69,Other,295.28
+T101562,C1296,2025-11-07 13:00:00,Beauty,2,397.02,Debit Card,Montpellier,No,41,Male,794.04
+T100439,C1276,2025-11-07 15:00:00,Beauty,9,135.03,Credit Card,Nice,No,31,Female,1215.27
+T100303,C1254,2025-11-07 22:00:00,Home Decor,4,166.84,Credit Card,Nice,Yes,46,Other,667.36
+T100273,C1112,2025-11-08 14:00:00,Clothing,6,11.32,Debit Card,Lyon,No,69,Male,67.92
+T100375,C1403,2025-11-08 16:00:00,Clothing,5,354.22,Digital Wallet,Nice,No,22,Female,1771.1
+T100916,C1251,2025-11-08 16:00:00,Home Decor,2,148.54,Digital Wallet,Nice,No,18,Female,297.08
+T101334,C1409,2025-11-08 18:00:00,Electronics,1,238.03,Cash,Montpellier,Yes,48,Other,238.03
+T101242,C1085,2025-11-08 19:00:00,Groceries,7,284.71,Debit Card,Nantes,No,58,Male,1992.97
+T100701,C1267,2025-11-09 03:00:00,Home Decor,2,496.09,Credit Card,Toulouse,No,48,Other,992.18
+T101425,C1401,2025-11-09 04:00:00,Groceries,8,344.94,Debit Card,Lyon,No,67,Male,2759.52
+T101788,C1493,2025-11-09 07:00:00,Electronics,7,173.49,Credit Card,Nantes,Yes,29,Male,1214.43
+T101362,C1137,2025-11-09 09:00:00,Electronics,6,459.92,Debit Card,Toulouse,No,21,Other,2759.52
+T101197,C1112,2025-11-09 16:00:00,Beauty,6,466.11,Cash,Marseille,No,60,Female,2796.66
+T101639,C1341,2025-11-09 16:00:00,Clothing,9,438.76,Digital Wallet,Marseille,Yes,53,Male,3948.84
+T101900,C1481,2025-11-09 19:00:00,Electronics,5,72.03,Debit Card,Montpellier,No,34,Female,360.15
+T100675,C1256,2025-11-09 21:00:00,Home Decor,2,27.16,Digital Wallet,Montpellier,No,65,Male,54.32
+T101576,C1000,2025-11-09 21:00:00,Clothing,3,75.83,Cash,Paris,No,22,Other,227.49
+T101360,C1260,2025-11-09 21:00:00,Clothing,6,245.21,Debit Card,Montpellier,No,50,Female,1471.26
+T101124,C1449,2025-11-09 21:00:00,Clothing,7,432.79,Digital Wallet,Paris,No,48,Male,3029.53
+T101828,C1152,2025-11-09 22:00:00,Home Decor,9,185.13,Debit Card,Montpellier,No,51,Female,1666.17
+T101567,C1301,2025-11-10 06:00:00,Electronics,4,135.31,Digital Wallet,Lyon,No,59,Other,541.24
+T100548,C1062,2025-11-10 07:00:00,Beauty,7,68.45,Credit Card,Marseille,No,71,Female,479.15
+T100565,C1263,2025-11-10 13:00:00,Clothing,3,360.92,Cash,Montpellier,Yes,25,Female,1082.76
+T101661,C1476,2025-11-10 19:00:00,Groceries,1,349.14,Cash,Nice,No,62,Female,349.14
+T100731,C1195,2025-11-10 20:00:00,Electronics,7,65.34,Digital Wallet,Montpellier,Yes,58,Female,457.38
+T100203,C1170,2025-11-10 21:00:00,Electronics,1,485.48,Debit Card,Paris,No,73,Male,485.48
+T100525,C1312,2025-11-10 23:00:00,Home Decor,1,273.48,Credit Card,Montpellier,Yes,21,Female,273.48
+T100594,C1091,2025-11-11 13:00:00,Groceries,1,120.62,Cash,Marseille,Yes,56,Female,120.62
+T101881,C1110,2025-11-11 14:00:00,Home Decor,2,73.42,Debit Card,Strasbourg,Yes,19,Female,146.84
+T101482,C1009,2025-11-11 21:00:00,Home Decor,5,161.25,Digital Wallet,Marseille,No,18,Female,806.25
+T100335,C1416,2025-11-12 00:00:00,Electronics,4,199.87,Cash,Nantes,No,48,Female,799.48
+T100155,C1267,2025-11-12 02:00:00,Electronics,7,438.3,Credit Card,Strasbourg,No,30,Other,3068.1
+T100466,C1279,2025-11-12 04:00:00,Electronics,3,386.04,Debit Card,Strasbourg,No,22,Other,1158.12
+T100494,C1279,2025-11-12 05:00:00,Beauty,5,175.27,Debit Card,Strasbourg,No,53,Female,876.35
+T100704,C1416,2025-11-12 11:00:00,Beauty,1,200.41,Cash,Marseille,No,58,Other,200.41
+T100249,C1224,2025-11-12 14:00:00,Beauty,6,303.98,Cash,Toulouse,No,28,Female,1823.88
+T100784,C1444,2025-11-12 19:00:00,Electronics,6,397.13,Cash,Toulouse,No,46,Other,2382.78
+T101161,C1091,2025-11-12 23:00:00,Home Decor,2,382.99,Cash,Nantes,Yes,40,Female,765.98
+T101703,C1320,2025-11-12 23:00:00,Home Decor,4,316.22,Cash,Nantes,No,68,Female,1264.88
+T100192,C1230,2025-11-13 02:00:00,Clothing,5,85.44,Debit Card,Montpellier,No,19,Male,427.2
+T100864,C1251,2025-11-13 03:00:00,Home Decor,6,227.32,Digital Wallet,Paris,No,67,Male,1363.92
+T101656,C1031,2025-11-13 23:00:00,Home Decor,6,255.34,Debit Card,Nice,No,31,Other,1532.04
+T101515,C1282,2025-11-14 00:00:00,Electronics,9,250.38,Digital Wallet,Nice,Yes,39,Other,2253.42
+T101660,C1428,2025-11-14 06:00:00,Clothing,9,11.31,Credit Card,Nantes,No,43,Female,101.79
+T101456,C1178,2025-11-14 08:00:00,Clothing,1,219.69,Debit Card,Montpellier,Yes,51,Female,219.69
+T101359,C1009,2025-11-14 08:00:00,Home Decor,5,441.52,Debit Card,Toulouse,No,49,Male,2207.6
+T101779,C1499,2025-11-14 10:00:00,Electronics,9,278.95,Digital Wallet,Strasbourg,No,31,Other,2510.55
+T100200,C1230,2025-11-14 14:00:00,Beauty,5,184.99,Credit Card,Lyon,No,21,Male,924.95
+T101440,C1152,2025-11-14 17:00:00,Clothing,2,270.42,Cash,Nice,No,64,Male,540.84
+T100018,C1151,2025-11-14 20:00:00,Home Decor,2,70.12,Digital Wallet,Lyon,No,29,Female,140.24
+T100035,C1252,2025-11-15 13:00:00,Clothing,2,219.85,Debit Card,Nice,Yes,27,Male,439.7
+T100109,C1251,2025-11-15 14:00:00,Clothing,9,184.48,Debit Card,Strasbourg,No,36,Male,1660.32
+T100758,C1150,2025-11-15 16:00:00,Electronics,3,68.84,Credit Card,Paris,No,43,Male,206.52
+T100161,C1215,2025-11-15 21:00:00,Clothing,5,189.74,Credit Card,Paris,No,51,Other,948.7
+T101835,C1341,2025-11-15 22:00:00,Home Decor,8,109.8,Debit Card,Toulouse,No,38,Other,878.4
+T100866,C1274,2025-11-16 00:00:00,Clothing,4,220.62,Credit Card,Marseille,No,73,Female,882.48
+T100406,C1483,2025-11-16 02:00:00,Electronics,9,160.03,Credit Card,Nantes,No,27,Male,1440.27
+T101418,C1409,2025-11-16 02:00:00,Clothing,1,253.76,Digital Wallet,Strasbourg,No,42,Other,253.76
+T101648,C1140,2025-11-16 07:00:00,Groceries,3,19.35,Digital Wallet,Nantes,No,54,Female,58.05
+T100572,C1195,2025-11-16 09:00:00,Clothing,2,173.82,Digital Wallet,Lyon,Yes,33,Female,347.64
+T101149,C1194,2025-11-16 10:00:00,Groceries,4,276.46,Debit Card,Toulouse,No,36,Female,1105.84
+T100167,C1474,2025-11-16 17:00:00,Home Decor,4,318.47,Debit Card,Toulouse,Yes,43,Female,1273.88
+T100999,C1238,2025-11-17 03:00:00,Beauty,9,191.74,Digital Wallet,Nantes,No,51,Male,1725.66
+T101909,C1216,2025-11-17 10:00:00,Beauty,3,233.21,Credit Card,Toulouse,No,50,Male,699.63
+T100484,C1127,2025-11-17 13:00:00,Clothing,2,156.59,Credit Card,Marseille,No,30,Female,313.18
+T101120,C1068,2025-11-17 16:00:00,Electronics,6,37.18,Cash,Marseille,Yes,71,Female,223.08
+T101254,C1232,2025-11-17 16:00:00,Home Decor,3,478.62,Digital Wallet,Nice,No,42,Female,1435.86
+T101212,C1385,2025-11-17 19:00:00,Beauty,1,388.83,Debit Card,Nice,Yes,72,Male,388.83
+T101622,C1176,2025-11-17 21:00:00,Beauty,9,326.9,Digital Wallet,Strasbourg,No,34,Other,2942.1
+T101768,C1019,2025-11-18 04:00:00,Beauty,3,141.11,Digital Wallet,Toulouse,No,66,Male,423.33
+T101641,C1062,2025-11-18 12:00:00,Clothing,9,367.57,Digital Wallet,Nice,Yes,53,Female,3308.13
+T101471,C1037,2025-11-18 20:00:00,Groceries,8,166.12,Cash,Nice,No,20,Female,1328.96
+T101306,C1035,2025-11-18 22:00:00,Beauty,4,96.84,Debit Card,Montpellier,No,57,Male,387.36
+T101074,C1254,2025-11-19 04:00:00,Beauty,9,202.05,Debit Card,Toulouse,No,42,Other,1818.45
+T101473,C1096,2025-11-19 05:00:00,Home Decor,9,356.42,Debit Card,Nice,No,50,Male,3207.78
+T100061,C1166,2025-11-19 08:00:00,Home Decor,8,44.23,Debit Card,Toulouse,No,57,Other,353.84
+T101323,C1440,2025-11-20 00:00:00,Clothing,4,391.77,Credit Card,Lyon,Yes,31,Male,1567.08
+T100949,C1007,2025-11-20 00:00:00,Home Decor,7,471.8,Debit Card,Montpellier,No,59,Male,3302.6
+T100322,C1147,2025-11-20 01:00:00,Clothing,7,294.76,Digital Wallet,Nantes,Yes,59,Male,2063.32
+T100886,C1455,2025-11-20 02:00:00,Electronics,6,432.02,Credit Card,Marseille,Yes,22,Female,2592.12
+T100579,C1354,2025-11-20 13:00:00,Groceries,4,11.44,Debit Card,Marseille,No,26,Male,45.76
+T101348,C1037,2025-11-20 14:00:00,Home Decor,7,325.86,Credit Card,Nantes,Yes,59,Other,2281.02
+T101543,C1491,2025-11-20 14:00:00,Groceries,4,56.4,Cash,Lyon,No,19,Male,225.6
+T101386,C1235,2025-11-20 15:00:00,Home Decor,8,424.44,Credit Card,Montpellier,No,27,Female,3395.52
+T100027,C1385,2025-11-20 17:00:00,Electronics,3,223.98,Cash,Toulouse,No,19,Other,671.94
+T101030,C1052,2025-11-20 18:00:00,Groceries,4,52.97,Digital Wallet,Montpellier,No,68,Male,211.88
+T101148,C1351,2025-11-21 11:00:00,Electronics,6,426.96,Credit Card,Nice,Yes,24,Female,2561.76
+T100824,C1234,2025-11-21 11:00:00,Beauty,2,264.6,Cash,Montpellier,No,21,Other,529.2
+T100882,C1125,2025-11-21 15:00:00,Electronics,6,475.55,Credit Card,Lyon,No,51,Male,2853.3
+T101611,C1363,2025-11-21 16:00:00,Groceries,2,356.11,Credit Card,Marseille,Yes,60,Other,712.22
+T100684,C1496,2025-11-21 19:00:00,Home Decor,8,161.72,Digital Wallet,Strasbourg,No,31,Male,1293.76
+T101001,C1266,2025-11-21 23:00:00,Groceries,7,131.27,Cash,Nantes,Yes,42,Other,918.89
+T101361,C1406,2025-11-22 04:00:00,Electronics,1,273.31,Digital Wallet,Marseille,No,27,Male,273.31
+T101477,C1288,2025-11-22 08:00:00,Home Decor,7,405.04,Debit Card,Strasbourg,No,74,Male,2835.28
+T100702,C1322,2025-11-22 08:00:00,Home Decor,2,69.52,Credit Card,Toulouse,No,40,Female,139.04
+T100253,C1151,2025-11-22 16:00:00,Groceries,9,205.33,Digital Wallet,Toulouse,No,58,Male,1847.97
+T100106,C1455,2025-11-22 18:00:00,Home Decor,6,483.6,Digital Wallet,Nantes,Yes,26,Male,2901.6
+T101694,C1480,2025-11-22 23:00:00,Home Decor,3,42.17,Debit Card,Nice,No,68,Female,126.51
+T101844,C1267,2025-11-23 02:00:00,Home Decor,2,476.8,Debit Card,Nantes,No,36,Female,953.6
+T101088,C1225,2025-11-23 06:00:00,Clothing,5,40.1,Credit Card,Paris,No,25,Male,200.5
+T101339,C1224,2025-11-23 07:00:00,Groceries,3,331.28,Cash,Lyon,Yes,46,Other,993.84
+T100739,C1216,2025-11-23 21:00:00,Home Decor,9,86.14,Debit Card,Toulouse,No,45,Male,775.26
+T101431,C1287,2025-11-24 00:00:00,Groceries,1,405.44,Debit Card,Strasbourg,Yes,40,Male,405.44
+T100849,C1421,2025-11-24 02:00:00,Groceries,8,348.12,Debit Card,Toulouse,No,45,Male,2784.96
+T101426,C1295,2025-11-24 06:00:00,Groceries,4,338.74,Credit Card,Strasbourg,No,40,Male,1354.96
+T101880,C1054,2025-11-24 07:00:00,Electronics,5,168.03,Credit Card,Nice,Yes,27,Male,840.15
+T100198,C1484,2025-11-24 17:00:00,Groceries,4,288.34,Debit Card,Nantes,No,65,Female,1153.36
+T101070,C1250,2025-11-24 19:00:00,Clothing,2,262.72,Cash,Nice,No,19,Female,525.44
+T100577,C1349,2025-11-25 01:00:00,Groceries,3,20.26,Credit Card,Montpellier,No,27,Female,60.78
+T101183,C1120,2025-11-25 05:00:00,Electronics,4,169.95,Debit Card,Lyon,No,72,Female,679.8
+T100717,C1241,2025-11-25 12:00:00,Home Decor,2,357.48,Debit Card,Strasbourg,Yes,57,Male,714.96
+T100505,C1473,2025-11-25 13:00:00,Electronics,5,421.19,Digital Wallet,Nantes,No,23,Male,2105.95
+T100341,C1128,2025-11-26 01:00:00,Clothing,9,28.11,Digital Wallet,Marseille,No,62,Other,252.99
+T100751,C1495,2025-11-26 01:00:00,Beauty,4,267.26,Cash,Strasbourg,No,59,Other,1069.04
+T101600,C1293,2025-11-26 07:00:00,Clothing,6,344.89,Digital Wallet,Strasbourg,No,29,Other,2069.34
+T100043,C1187,2025-11-26 10:00:00,Groceries,5,432.07,Digital Wallet,Lyon,No,21,Male,2160.35
+T101712,C1053,2025-11-27 00:00:00,Groceries,3,259.47,Credit Card,Strasbourg,No,68,Female,778.41
+T100461,C1005,2025-11-27 02:00:00,Groceries,7,142.33,Debit Card,Nantes,No,50,Male,996.31
+T101434,C1421,2025-11-27 04:00:00,Clothing,5,305.22,Credit Card,Nantes,No,74,Female,1526.1
+T101652,C1378,2025-11-27 10:00:00,Clothing,2,111.06,Credit Card,Strasbourg,No,34,Male,222.12
+T101243,C1473,2025-11-27 14:00:00,Home Decor,2,430.04,Digital Wallet,Paris,No,61,Other,860.08
+T101516,C1068,2025-11-27 15:00:00,Groceries,3,160.06,Cash,Toulouse,No,22,Other,480.18
+T101368,C1083,2025-11-28 05:00:00,Groceries,8,147.0,Digital Wallet,Lyon,Yes,22,Male,1176.0
+T100263,C1317,2025-11-28 08:00:00,Groceries,4,327.14,Credit Card,Paris,No,66,Male,1308.56
+T101671,C1497,2025-11-28 09:00:00,Electronics,3,60.69,Cash,Nantes,No,52,Female,182.07
+T100063,C1387,2025-11-28 09:00:00,Beauty,6,196.19,Debit Card,Toulouse,Yes,66,Male,1177.14
+T101842,C1167,2025-11-28 11:00:00,Electronics,9,201.63,Credit Card,Nantes,Yes,64,Female,1814.67
+T100223,C1339,2025-11-28 16:00:00,Beauty,8,158.27,Digital Wallet,Montpellier,No,20,Female,1266.16
+T100890,C1422,2025-11-28 21:00:00,Beauty,9,268.49,Credit Card,Nice,No,32,Female,2416.41
+T100935,C1143,2025-11-29 13:00:00,Groceries,7,147.5,Digital Wallet,Montpellier,No,48,Other,1032.5
+T100438,C1225,2025-11-29 14:00:00,Beauty,3,221.96,Credit Card,Nantes,No,35,Male,665.88
+T101276,C1442,2025-11-29 17:00:00,Home Decor,7,6.5,Debit Card,Lyon,No,48,Other,45.5
+T100276,C1186,2025-11-30 01:00:00,Home Decor,6,174.77,Credit Card,Nantes,No,32,Male,1048.62
+T100362,C1303,2025-11-30 03:00:00,Groceries,2,460.34,Debit Card,Marseille,Yes,74,Male,920.68
+T100870,C1166,2025-11-30 08:00:00,Electronics,1,417.47,Cash,Strasbourg,No,64,Other,417.47
+T100982,C1196,2025-12-01 08:00:00,Groceries,1,124.29,Digital Wallet,Nice,No,68,Female,124.29
+T101643,C1359,2025-12-01 19:00:00,Groceries,7,330.31,Debit Card,Toulouse,No,56,Female,2312.17
+T101133,C1248,2025-12-01 21:00:00,Electronics,3,245.75,Credit Card,Montpellier,No,40,Other,737.25
+T101568,C1100,2025-12-02 00:00:00,Beauty,1,280.34,Debit Card,Paris,Yes,61,Other,280.34
+T101291,C1349,2025-12-02 01:00:00,Clothing,2,489.11,Debit Card,Strasbourg,No,61,Female,978.22
+T100474,C1480,2025-12-02 06:00:00,Home Decor,2,41.41,Cash,Nantes,No,35,Male,82.82
+T101623,C1284,2025-12-02 08:00:00,Electronics,3,167.86,Debit Card,Nantes,Yes,39,Female,503.58
+T100355,C1345,2025-12-02 14:00:00,Electronics,4,406.25,Credit Card,Lyon,No,32,Male,1625.0
+T100713,C1301,2025-12-02 15:00:00,Beauty,4,65.03,Debit Card,Montpellier,No,68,Male,260.12
+T100485,C1017,2025-12-02 21:00:00,Clothing,8,419.73,Debit Card,Paris,No,48,Other,3357.84
+T101406,C1360,2025-12-03 02:00:00,Home Decor,9,211.98,Cash,Montpellier,Yes,70,Male,1907.82
+T101205,C1213,2025-12-03 03:00:00,Clothing,3,193.08,Digital Wallet,Marseille,No,39,Male,579.24
+T101894,C1243,2025-12-03 07:00:00,Home Decor,5,468.6,Digital Wallet,Toulouse,No,40,Male,2343.0
+T101837,C1026,2025-12-03 08:00:00,Groceries,5,161.56,Cash,Nice,No,48,Male,807.8
+T100135,C1491,2025-12-03 11:00:00,Groceries,6,269.14,Digital Wallet,Marseille,No,40,Other,1614.84
+T101402,C1319,2025-12-03 16:00:00,Groceries,7,345.3,Cash,Nice,No,31,Female,2417.1
+T101071,C1312,2025-12-03 16:00:00,Beauty,7,372.39,Digital Wallet,Nice,No,51,Other,2606.73
+T100529,C1320,2025-12-04 04:00:00,Groceries,1,406.02,Credit Card,Marseille,No,23,Female,406.02
+T101451,C1434,2025-12-04 09:00:00,Groceries,4,227.21,Debit Card,Toulouse,Yes,24,Male,908.84
+T100821,C1162,2025-12-04 10:00:00,Beauty,7,206.01,Cash,Toulouse,Yes,66,Female,1442.07
+T100720,C1336,2025-12-04 10:00:00,Electronics,1,470.5,Cash,Nice,Yes,55,Female,470.5
+T101517,C1147,2025-12-04 15:00:00,Clothing,9,378.06,Cash,Lyon,Yes,63,Other,3402.54
+T100948,C1372,2025-12-04 17:00:00,Clothing,3,56.06,Digital Wallet,Strasbourg,Yes,63,Male,168.18
+T101754,C1187,2025-12-05 00:00:00,Home Decor,8,306.55,Credit Card,Nice,No,27,Female,2452.4
+T101646,C1256,2025-12-05 02:00:00,Home Decor,2,460.46,Digital Wallet,Paris,Yes,34,Male,920.92
+T101731,C1399,2025-12-05 03:00:00,Groceries,1,323.56,Digital Wallet,Paris,No,72,Male,323.56
+T101927,C1274,2025-12-05 06:00:00,Home Decor,3,374.33,Cash,Marseille,Yes,51,Female,1122.99
+T101409,C1315,2025-12-05 10:00:00,Electronics,8,57.52,Cash,Nice,Yes,68,Other,460.16
+T101627,C1153,2025-12-05 18:00:00,Electronics,4,208.3,Credit Card,Montpellier,Yes,27,Other,833.2
+T100159,C1406,2025-12-06 03:00:00,Beauty,7,425.55,Debit Card,Paris,No,18,Female,2978.85
+T101695,C1086,2025-12-06 04:00:00,Electronics,5,471.96,Digital Wallet,Montpellier,Yes,41,Other,2359.8
+T100022,C1257,2025-12-06 04:00:00,Beauty,6,430.37,Debit Card,Strasbourg,No,51,Male,2582.22
+T101965,C1287,2025-12-06 11:00:00,Groceries,8,146.39,Digital Wallet,Montpellier,No,33,Other,1171.12
+T101696,C1054,2025-12-06 11:00:00,Groceries,4,185.72,Credit Card,Paris,No,26,Other,742.88
+T101400,C1405,2025-12-06 19:00:00,Clothing,2,228.52,Credit Card,Nantes,No,64,Other,457.04
+T100298,C1438,2025-12-07 00:00:00,Electronics,6,66.92,Credit Card,Montpellier,No,55,Female,401.52
+T100748,C1226,2025-12-07 04:00:00,Groceries,2,303.49,Cash,Montpellier,Yes,56,Female,606.98
+T101041,C1050,2025-12-07 07:00:00,Beauty,6,336.36,Credit Card,Montpellier,Yes,63,Male,2018.16
+T101915,C1038,2025-12-07 07:00:00,Groceries,2,431.77,Cash,Nantes,Yes,73,Male,863.54
+T101730,C1490,2025-12-07 09:00:00,Electronics,1,306.68,Digital Wallet,Marseille,No,48,Other,306.68
+T101027,C1436,2025-12-07 13:00:00,Home Decor,3,228.68,Digital Wallet,Toulouse,No,25,Female,686.04
+T101548,C1375,2025-12-07 15:00:00,Groceries,8,129.46,Digital Wallet,Toulouse,Yes,34,Other,1035.68
+T100922,C1440,2025-12-07 20:00:00,Clothing,2,67.83,Cash,Paris,Yes,35,Female,135.66
+T100430,C1037,2025-12-08 05:00:00,Home Decor,2,335.34,Credit Card,Marseille,No,44,Female,670.68
+T100709,C1284,2025-12-08 06:00:00,Home Decor,2,29.4,Cash,Strasbourg,No,52,Male,58.8
+T101367,C1129,2025-12-08 14:00:00,Beauty,9,196.94,Digital Wallet,Paris,No,22,Other,1772.46
+T101917,C1130,2025-12-08 17:00:00,Electronics,2,236.59,Digital Wallet,Marseille,Yes,34,Female,473.18
+T101022,C1196,2025-12-08 20:00:00,Beauty,5,182.97,Credit Card,Nantes,No,44,Female,914.85
+T101299,C1136,2025-12-08 21:00:00,Clothing,6,486.25,Cash,Nice,No,56,Male,2917.5
+T100350,C1297,2025-12-09 05:00:00,Electronics,4,317.14,Debit Card,Toulouse,No,58,Male,1268.56
+T100945,C1459,2025-12-09 12:00:00,Beauty,9,129.87,Debit Card,Strasbourg,Yes,68,Female,1168.83
+T101186,C1055,2025-12-09 12:00:00,Clothing,4,304.98,Credit Card,Strasbourg,No,46,Other,1219.92
+T100889,C1360,2025-12-09 14:00:00,Beauty,2,488.16,Credit Card,Marseille,No,32,Other,976.32
+T101370,C1318,2025-12-09 17:00:00,Groceries,8,431.23,Digital Wallet,Nantes,No,45,Male,3449.84
+T101023,C1350,2025-12-09 18:00:00,Beauty,5,67.27,Cash,Nantes,Yes,60,Male,336.35
+T101146,C1280,2025-12-09 23:00:00,Groceries,9,415.87,Digital Wallet,Montpellier,No,67,Female,3742.83
+T101737,C1397,2025-12-09 23:00:00,Home Decor,1,198.08,Cash,Lyon,No,32,Other,198.08
+T100554,C1341,2025-12-09 23:00:00,Home Decor,5,446.45,Debit Card,Marseille,No,36,Female,2232.25
+T101002,C1340,2025-12-10 02:00:00,Groceries,8,67.88,Cash,Nice,No,73,Other,543.04
+T100926,C1304,2025-12-10 04:00:00,Electronics,9,390.29,Digital Wallet,Montpellier,No,70,Other,3512.61
+T100163,C1098,2025-12-10 07:00:00,Beauty,9,291.67,Credit Card,Montpellier,No,68,Other,2625.03
+T100036,C1235,2025-12-10 10:00:00,Clothing,4,410.62,Credit Card,Montpellier,Yes,67,Other,1642.48
+T101561,C1295,2025-12-10 12:00:00,Clothing,9,403.03,Cash,Strasbourg,No,41,Male,3627.27
+T100853,C1364,2025-12-10 13:00:00,Electronics,3,121.07,Debit Card,Strasbourg,No,68,Other,363.21
+T100755,C1486,2025-12-10 14:00:00,Groceries,7,24.1,Digital Wallet,Montpellier,No,24,Female,168.7
+T100254,C1462,2025-12-11 01:00:00,Electronics,9,116.48,Debit Card,Lyon,No,26,Male,1048.32
+T101461,C1014,2025-12-11 02:00:00,Home Decor,9,281.63,Digital Wallet,Nice,No,36,Other,2534.67
+T101868,C1148,2025-12-11 08:00:00,Groceries,7,214.32,Debit Card,Montpellier,Yes,61,Male,1500.24
+T100309,C1197,2025-12-11 13:00:00,Beauty,2,60.86,Cash,Nantes,No,25,Female,121.72
+T100087,C1001,2025-12-11 20:00:00,Clothing,5,43.61,Credit Card,Marseille,No,69,Female,218.05
+T100736,C1412,2025-12-11 20:00:00,Groceries,7,184.94,Cash,Nantes,Yes,67,Female,1294.58
+T100611,C1289,2025-12-11 21:00:00,Clothing,6,260.39,Debit Card,Strasbourg,No,18,Female,1562.34
+T101682,C1263,2025-12-12 22:00:00,Electronics,8,363.81,Digital Wallet,Paris,No,33,Female,2910.48
+T100477,C1252,2025-12-13 01:00:00,Groceries,2,267.29,Debit Card,Nantes,Yes,33,Male,534.58
+T100826,C1145,2025-12-13 02:00:00,Electronics,5,179.97,Cash,Toulouse,No,59,Other,899.85
+T100585,C1369,2025-12-13 07:00:00,Clothing,5,292.81,Cash,Lyon,No,36,Male,1464.05
+T100079,C1430,2025-12-13 12:00:00,Clothing,3,313.16,Debit Card,Marseille,Yes,56,Male,939.48
+T101655,C1317,2025-12-14 01:00:00,Electronics,2,312.9,Digital Wallet,Marseille,Yes,31,Other,625.8
+T100900,C1416,2025-12-14 03:00:00,Clothing,2,401.58,Credit Card,Nice,No,57,Other,803.16
+T100612,C1095,2025-12-14 12:00:00,Electronics,7,130.48,Digital Wallet,Strasbourg,No,74,Male,913.36
+T100199,C1406,2025-12-14 19:00:00,Home Decor,6,205.24,Debit Card,Lyon,No,38,Female,1231.44
+T100153,C1200,2025-12-15 11:00:00,Clothing,4,473.16,Debit Card,Lyon,No,25,Other,1892.64
+T101321,C1434,2025-12-15 19:00:00,Electronics,5,16.14,Digital Wallet,Strasbourg,No,22,Male,80.7
+T100967,C1200,2025-12-16 07:00:00,Groceries,2,402.27,Digital Wallet,Nice,No,49,Male,804.54
+T101795,C1208,2025-12-16 18:00:00,Groceries,2,466.31,Debit Card,Montpellier,Yes,21,Other,932.62
+T100224,C1285,2025-12-16 20:00:00,Home Decor,1,333.55,Debit Card,Lyon,Yes,58,Male,333.55
+T100688,C1474,2025-12-16 21:00:00,Beauty,8,401.81,Cash,Nantes,Yes,37,Male,3214.48
+T100570,C1004,2025-12-16 21:00:00,Electronics,3,170.44,Debit Card,Lyon,No,21,Male,511.32
+T100671,C1249,2025-12-16 22:00:00,Groceries,9,274.08,Credit Card,Toulouse,No,57,Male,2466.72
+T101253,C1066,2025-12-17 10:00:00,Electronics,5,194.08,Digital Wallet,Strasbourg,No,19,Other,970.4
+T101718,C1096,2025-12-17 14:00:00,Clothing,1,309.53,Debit Card,Nantes,No,18,Female,309.53
+T101964,C1046,2025-12-17 17:00:00,Beauty,3,139.13,Digital Wallet,Strasbourg,No,62,Other,417.39
+T101358,C1177,2025-12-17 20:00:00,Home Decor,9,329.79,Credit Card,Montpellier,No,29,Male,2968.11
+T100112,C1212,2025-12-18 03:00:00,Clothing,9,24.45,Digital Wallet,Toulouse,No,51,Female,220.05
+T101564,C1266,2025-12-18 04:00:00,Home Decor,2,202.29,Debit Card,Toulouse,Yes,36,Other,404.58
+T100571,C1102,2025-12-18 07:00:00,Home Decor,3,17.74,Debit Card,Lyon,No,48,Female,53.22
+T101476,C1438,2025-12-18 15:00:00,Beauty,2,9.57,Debit Card,Marseille,No,22,Female,19.14
+T100805,C1468,2025-12-19 03:00:00,Clothing,3,24.66,Debit Card,Strasbourg,No,27,Female,73.98
+T100421,C1175,2025-12-19 05:00:00,Home Decor,9,327.05,Debit Card,Toulouse,Yes,67,Female,2943.45
+T100921,C1019,2025-12-19 06:00:00,Electronics,5,5.12,Credit Card,Marseille,No,44,Female,25.6
+T100980,C1370,2025-12-20 02:00:00,Clothing,1,147.96,Credit Card,Strasbourg,Yes,65,Female,147.96
+T100232,C1224,2025-12-20 03:00:00,Electronics,5,109.3,Cash,Nantes,No,24,Female,546.5
+T100078,C1263,2025-12-20 07:00:00,Home Decor,3,74.55,Cash,Toulouse,No,22,Male,223.65
+T101046,C1448,2025-12-20 10:00:00,Beauty,8,461.12,Credit Card,Montpellier,No,40,Other,3688.96
+T100632,C1153,2025-12-20 10:00:00,Home Decor,5,304.82,Cash,Montpellier,No,58,Female,1524.1
+T101602,C1390,2025-12-20 18:00:00,Groceries,2,210.35,Digital Wallet,Strasbourg,Yes,27,Female,420.7
+T101537,C1480,2025-12-20 21:00:00,Clothing,2,212.29,Digital Wallet,Paris,No,18,Female,424.58
+T101728,C1119,2025-12-21 02:00:00,Clothing,4,89.81,Cash,Nantes,No,29,Other,359.24
+T100339,C1337,2025-12-21 07:00:00,Electronics,6,494.66,Debit Card,Toulouse,No,50,Male,2967.96
+T101824,C1421,2025-12-21 11:00:00,Clothing,5,498.51,Cash,Toulouse,Yes,56,Male,2492.55
+T100842,C1433,2025-12-21 12:00:00,Home Decor,6,355.22,Digital Wallet,Lyon,No,31,Other,2131.32
+T101175,C1077,2025-12-21 14:00:00,Groceries,9,214.6,Debit Card,Montpellier,No,44,Female,1931.4
+T101280,C1453,2025-12-21 15:00:00,Home Decor,1,361.69,Debit Card,Nantes,No,51,Female,361.69
+T101485,C1329,2025-12-22 01:00:00,Beauty,5,98.09,Debit Card,Marseille,No,22,Male,490.45
+T100696,C1416,2025-12-22 05:00:00,Clothing,8,290.63,Cash,Nantes,Yes,55,Other,2325.04
+T101690,C1466,2025-12-22 06:00:00,Electronics,9,9.8,Debit Card,Montpellier,No,73,Other,88.2
+T100212,C1283,2025-12-22 12:00:00,Home Decor,3,155.86,Debit Card,Toulouse,No,65,Other,467.58
+T101726,C1077,2025-12-22 22:00:00,Groceries,4,199.89,Credit Card,Nice,No,73,Male,799.56
+T100059,C1020,2025-12-23 01:00:00,Groceries,8,5.2,Digital Wallet,Marseille,No,59,Other,41.6
+T101388,C1333,2025-12-23 05:00:00,Clothing,9,204.43,Debit Card,Marseille,No,41,Male,1839.87
+T100138,C1062,2025-12-23 19:00:00,Clothing,5,348.46,Digital Wallet,Nice,No,67,Female,1742.3
+T100972,C1239,2025-12-23 20:00:00,Electronics,7,121.82,Credit Card,Nantes,Yes,61,Male,852.74
+T101522,C1037,2025-12-24 00:00:00,Electronics,7,204.89,Debit Card,Montpellier,No,73,Other,1434.23
+T101990,C1477,2025-12-24 04:00:00,Electronics,5,419.42,Digital Wallet,Strasbourg,No,27,Male,2097.1
+T100682,C1246,2025-12-25 08:00:00,Clothing,4,108.97,Digital Wallet,Marseille,Yes,37,Male,435.88
+T101318,C1368,2025-12-25 13:00:00,Groceries,8,82.6,Debit Card,Paris,No,18,Other,660.8
+T100511,C1245,2025-12-25 19:00:00,Groceries,5,477.3,Cash,Strasbourg,No,47,Female,2386.5
+T100652,C1473,2025-12-25 20:00:00,Beauty,4,208.21,Digital Wallet,Nice,No,72,Other,832.84
+T100103,C1350,2025-12-26 01:00:00,Home Decor,8,152.3,Cash,Strasbourg,Yes,73,Male,1218.4
+T101252,C1393,2025-12-26 03:00:00,Home Decor,1,323.2,Debit Card,Nantes,Yes,20,Other,323.2
+T101955,C1465,2025-12-26 09:00:00,Groceries,3,203.89,Cash,Toulouse,Yes,68,Female,611.67
+T101807,C1493,2025-12-26 10:00:00,Home Decor,3,186.64,Digital Wallet,Toulouse,No,36,Female,559.92
+T100984,C1408,2025-12-26 10:00:00,Beauty,5,262.48,Debit Card,Toulouse,No,18,Other,1312.4
+T101993,C1482,2025-12-26 18:00:00,Clothing,6,480.16,Digital Wallet,Toulouse,No,69,Female,2880.96
+T100448,C1303,2025-12-26 23:00:00,Electronics,7,41.26,Cash,Lyon,Yes,56,Female,288.82
+T100905,C1043,2025-12-27 00:00:00,Home Decor,8,386.35,Credit Card,Strasbourg,Yes,26,Female,3090.8
+T100314,C1096,2025-12-27 01:00:00,Beauty,3,394.55,Digital Wallet,Montpellier,No,19,Male,1183.65
+T100219,C1283,2025-12-27 02:00:00,Home Decor,6,210.81,Cash,Nice,No,53,Female,1264.86
+T101178,C1410,2025-12-27 06:00:00,Clothing,4,333.14,Credit Card,Marseille,No,22,Other,1332.56
+T101452,C1197,2025-12-27 07:00:00,Groceries,3,270.9,Debit Card,Nice,No,48,Male,812.7
+T101141,C1007,2025-12-27 11:00:00,Clothing,8,377.73,Digital Wallet,Montpellier,No,20,Other,3021.84
+T100873,C1345,2025-12-27 13:00:00,Electronics,6,294.67,Debit Card,Lyon,No,32,Male,1768.02
+T100893,C1460,2025-12-27 18:00:00,Electronics,7,99.57,Credit Card,Strasbourg,No,22,Male,696.99
+T100459,C1045,2025-12-27 20:00:00,Home Decor,2,252.68,Cash,Nice,No,57,Other,505.36
+T100911,C1148,2025-12-28 00:00:00,Electronics,2,143.83,Cash,Nantes,Yes,64,Male,287.66
+T100626,C1068,2025-12-28 15:00:00,Clothing,8,104.23,Debit Card,Toulouse,No,34,Male,833.84
+T101342,C1139,2025-12-28 19:00:00,Electronics,3,402.51,Credit Card,Nice,No,58,Male,1207.53
+T100789,C1454,2025-12-29 07:00:00,Clothing,4,160.85,Digital Wallet,Lyon,Yes,32,Female,643.4
+T101597,C1024,2025-12-29 08:00:00,Beauty,7,132.84,Debit Card,Marseille,Yes,65,Female,929.88
+T101005,C1216,2025-12-29 09:00:00,Electronics,8,83.04,Debit Card,Nantes,Yes,48,Other,664.32
+T100086,C1387,2025-12-29 12:00:00,Beauty,9,362.57,Cash,Nice,No,24,Other,3263.13
+T101977,C1334,2025-12-29 15:00:00,Clothing,1,206.9,Cash,Toulouse,Yes,26,Other,206.9
+T100924,C1046,2025-12-29 21:00:00,Electronics,4,434.34,Credit Card,Montpellier,No,66,Female,1737.36
+T100449,C1146,2025-12-30 00:00:00,Electronics,7,407.1,Debit Card,Toulouse,Yes,60,Other,2849.7
+T100628,C1348,2025-12-30 04:00:00,Groceries,7,107.07,Credit Card,Toulouse,No,35,Male,749.49
+T100005,C1071,2025-12-30 06:00:00,Home Decor,7,398.36,Digital Wallet,Montpellier,No,71,Female,2788.52
+T101772,C1255,2025-12-30 07:00:00,Electronics,2,167.73,Debit Card,Nice,Yes,60,Male,335.46
+T100708,C1043,2025-12-30 09:00:00,Beauty,8,271.06,Credit Card,Toulouse,Yes,28,Other,2168.48
+T100352,C1262,2025-12-30 10:00:00,Clothing,5,98.37,Credit Card,Paris,No,29,Other,491.85
+T100811,C1038,2025-12-30 11:00:00,Groceries,5,387.26,Debit Card,Strasbourg,No,53,Male,1936.3
+T101309,C1005,2025-12-30 12:00:00,Groceries,5,345.58,Digital Wallet,Marseille,No,53,Other,1727.9
+T101978,C1116,2025-12-30 14:00:00,Groceries,6,61.4,Debit Card,Nice,Yes,65,Other,368.4
+T101624,C1062,2025-12-30 18:00:00,Groceries,7,198.77,Cash,Toulouse,No,36,Female,1391.39
+T101068,C1477,2025-12-31 02:00:00,Clothing,9,39.47,Digital Wallet,Marseille,No,31,Male,355.23
+T101717,C1050,2025-12-31 02:00:00,Beauty,9,23.91,Cash,Nice,Yes,68,Male,215.19
+T100787,C1075,2025-12-31 02:00:00,Beauty,1,118.07,Cash,Toulouse,Yes,23,Male,118.07
+T100105,C1270,2025-12-31 02:00:00,Groceries,2,20.45,Cash,Nantes,Yes,69,Male,40.9
+T101357,C1389,2025-12-31 04:00:00,Groceries,7,449.22,Cash,Nantes,Yes,69,Other,3144.54
+T100328,C1450,2025-12-31 10:00:00,Electronics,2,116.17,Debit Card,Nantes,No,69,Other,232.34
+T101848,C1393,2025-12-31 16:00:00,Home Decor,9,25.19,Cash,Lyon,No,57,Male,226.71
+T100690,C1151,2025-12-31 18:00:00,Beauty,2,247.85,Debit Card,Nice,No,58,Male,495.7
