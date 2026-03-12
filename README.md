@@ -105,6 +105,8 @@ data2/
 - 📅 Average spend by day of week
 - 👤 Spend by age band & gender (heatmap bar)
 
+![Revenue Trend](assets/revenue_trend.png)
+
 ### Phase 4 · RFM Analysis & K-Means Clustering *(Mohamed)*
 **RFM Scoring:**
 - **Recency** — days since last purchase (lower = better, score 5→1)
@@ -130,6 +132,8 @@ data2/
 | **Retention Rate** | `% customers with Frequency ≥ 2` |
 
 All KPIs computed **globally** and **per segment** with a 2×2 dashboard chart.
+
+![Average CLV by Segment](assets/clv_by_segment.png)
 
 ### Phase 6 · CRM Recommendations *(Hiba)*
 
